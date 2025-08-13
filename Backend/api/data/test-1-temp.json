@@ -1,0 +1,712 @@
+{
+  "status": 200,
+  "response": {
+    "data": [
+      {
+        "chainCode": "RT",
+        "iataCode": "BOM",
+        "dupeId": 700018180,
+        "name": "NOVOTEL MUMBAI JUHU BEACH",
+        "hotelId": "RTBOMMUM",
+        "geoCode": {
+          "latitude": 19.10868,
+          "longitude": 72.82436
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "BALRAJ SAHNI MARG"
+          ]
+        },
+        "distance": {
+          "value": 0.49,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:15"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "BOM",
+        "dupeId": 700024621,
+        "name": "JW MARRIOTT HOTEL MUMBAI",
+        "hotelId": "MCBOMJWM",
+        "geoCode": {
+          "latitude": 19.10033,
+          "longitude": 72.82783
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "JUHU TARA ROAD JUHU"
+          ]
+        },
+        "distance": {
+          "value": 0.51,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-08-13T09:00:05"
+      },
+      {
+        "chainCode": "FG",
+        "iataCode": "BOM",
+        "dupeId": 700054471,
+        "name": "THE EMERALD HOTEL & EXECUTIVE APARTMENTS",
+        "hotelId": "FGBOMEME",
+        "geoCode": {
+          "latitude": 19.09797,
+          "longitude": 72.82854
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "40049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "JUHU TARA ROAD",
+            "JUHU"
+          ]
+        },
+        "distance": {
+          "value": 0.78,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:30"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "BOM",
+        "dupeId": 700095115,
+        "name": "OAKWOOD PREMIER MUMBAI",
+        "hotelId": "UZBOMZCC",
+        "geoCode": {
+          "latitude": 19.1162,
+          "longitude": 72.82585
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "29 1 JR MHATRE ROAD",
+            "OPPOSITE IRIS PARK JUHU BEACH"
+          ]
+        },
+        "distance": {
+          "value": 1.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:06"
+      },
+      {
+        "chainCode": "RA",
+        "iataCode": "BOM",
+        "dupeId": 700015848,
+        "name": "RAMADA PLAZA PALM GROVE",
+        "hotelId": "RABOMHWX",
+        "geoCode": {
+          "latitude": 19.09292,
+          "longitude": 72.82828
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "JUHU BEACH"
+          ]
+        },
+        "distance": {
+          "value": 1.33,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:17:07"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700038129,
+        "name": "SUN N SAND MUMBAI",
+        "hotelId": "YXBOMSUN",
+        "geoCode": {
+          "latitude": 19.09227,
+          "longitude": 72.82787
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400049",
+          "cityName": "MUMBAI",
+          "lines": [
+            "39 JUHU BEACH"
+          ]
+        },
+        "distance": {
+          "value": 1.4,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700034101,
+        "name": "THE ORCHID MUMBAI",
+        "hotelId": "YXBOM150",
+        "geoCode": {
+          "latitude": 19.10461,
+          "longitude": 72.84583
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "70C NEHRU ROAD",
+            "VILE PARLE EAST"
+          ]
+        },
+        "distance": {
+          "value": 2.01,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "TA",
+        "iataCode": "BOM",
+        "dupeId": 700190980,
+        "name": "BOMBAY LUXURY APARTMENTS",
+        "hotelId": "TABOM270",
+        "geoCode": {
+          "latitude": 19.09687,
+          "longitude": 72.8462
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400021",
+          "cityName": "MUMBAI",
+          "lines": [
+            "BHASIN, 7TH FLOOR. BAJAJ BHAWAN, NARIMAN POI"
+          ]
+        },
+        "distance": {
+          "value": 2.23,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:46"
+      },
+      {
+        "chainCode": "RT",
+        "iataCode": "BOM",
+        "dupeId": 700148303,
+        "name": "IBIS MUMBAI AIRPORT",
+        "hotelId": "RTBOMIBI",
+        "geoCode": {
+          "latitude": 19.09653,
+          "longitude": 72.8533
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "PLOT NO F 77 VILLE PARLE EAST",
+            "JUNCTION OF NEHRU ROAD"
+          ]
+        },
+        "distance": {
+          "value": 2.94,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:15"
+      },
+      {
+        "chainCode": "WW",
+        "iataCode": "BOM",
+        "dupeId": 700055249,
+        "name": "HOTEL SAHARA STAR",
+        "hotelId": "WWBOMSS1",
+        "geoCode": {
+          "latitude": 19.0959,
+          "longitude": 72.85339
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "DOMESTIC AIRPORT",
+            "VILE PARLE EAST"
+          ]
+        },
+        "distance": {
+          "value": 2.97,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:18:31"
+      },
+      {
+        "chainCode": "HO",
+        "iataCode": "BOM",
+        "dupeId": 700117826,
+        "name": "HOTEL AIRPORT INTERNATIONAL",
+        "hotelId": "HOBOM009",
+        "geoCode": {
+          "latitude": 19.09628,
+          "longitude": 72.85419
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "NEAR MUMBAI DOMESTIC AIRPORT"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:37"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "BOM",
+        "dupeId": 700141426,
+        "name": "HOTEL JAYSHREE",
+        "hotelId": "ILBOM141",
+        "geoCode": {
+          "latitude": 19.09361,
+          "longitude": 72.8549
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400057",
+          "cityName": "MUMBAI",
+          "lines": [
+            "197 DAYALDAS ROAD OPP SANTACRU",
+            "VILE PARLE EAST"
+          ]
+        },
+        "distance": {
+          "value": 3.21,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:30"
+      },
+      {
+        "chainCode": "OI",
+        "iataCode": "BOM",
+        "dupeId": 700141427,
+        "name": "HOTEL REGAL ENCLAVE",
+        "hotelId": "OIBOMREN",
+        "geoCode": {
+          "latitude": 19.07356,
+          "longitude": 72.82684
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400052",
+          "cityName": "Mumbai",
+          "lines": [
+            "4TH ROAD, L/O KHAR MARKET",
+            "WEST KHAR"
+          ]
+        },
+        "distance": {
+          "value": 3.47,
+          "unit": "KM"
+        },
+        "masterChainCode": "LK",
+        "lastUpdate": "2025-06-03T10:20:11"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700152437,
+        "name": "SVENSKA DESIGN HOTEL MUMBAI",
+        "hotelId": "YXBOMSVE",
+        "geoCode": {
+          "latitude": 19.13635,
+          "longitude": 72.82804
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400053",
+          "cityName": "MUMBAI",
+          "lines": [
+            "SAB TV ROAD",
+            "OFF LINK ROAD  ANDHERI WEST"
+          ]
+        },
+        "distance": {
+          "value": 3.51,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700172140,
+        "name": "LE SUTRA",
+        "hotelId": "YXBOM615",
+        "geoCode": {
+          "latitude": 19.07238,
+          "longitude": 72.82677
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400052",
+          "cityName": "MUMBAI",
+          "lines": [
+            "14 UNION PARK",
+            "KHAR WEST"
+          ]
+        },
+        "distance": {
+          "value": 3.6,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "CH",
+        "iataCode": "BOM",
+        "dupeId": 700034279,
+        "name": "THE MIRADOR",
+        "hotelId": "CHBOMTMM",
+        "geoCode": {
+          "latitude": 19.11099,
+          "longitude": 72.86044
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400059",
+          "cityName": "MUMBAI",
+          "lines": [
+            "131 B NEW LINK ROAD",
+            "CHAKALA ANDHERI EAST"
+          ]
+        },
+        "distance": {
+          "value": 3.61,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:23"
+      },
+      {
+        "chainCode": "GZ",
+        "iataCode": "BOM",
+        "dupeId": 700172150,
+        "name": "HOTEL ORRITEL WEST",
+        "hotelId": "GZBOMHOW",
+        "geoCode": {
+          "latitude": 19.1395,
+          "longitude": 72.83358
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400053",
+          "cityName": "MUMBAI",
+          "lines": [
+            "34B  OPP FAME ADLABS CINEMA",
+            "OFF NEW LINK ROAD  ANDHERI WEST"
+          ]
+        },
+        "distance": {
+          "value": 3.92,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:44"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700034096,
+        "name": "VITS HOTEL MUMBAI",
+        "hotelId": "YXBOMVMT",
+        "geoCode": {
+          "latitude": 19.11362,
+          "longitude": 72.86331
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400059",
+          "cityName": "MUMBAI",
+          "lines": [
+            "ANDHERI KURLA ROAD INT",
+            "AIRPORT ZONE ANDHERI E"
+          ]
+        },
+        "distance": {
+          "value": 3.97,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "FG",
+        "iataCode": "BOM",
+        "dupeId": 700141534,
+        "name": "THE ORIENTAL RESIDENCY HOTEL",
+        "hotelId": "FGBOMORM",
+        "geoCode": {
+          "latitude": 19.06774,
+          "longitude": 72.83731
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400052",
+          "cityName": "MUMBAI",
+          "lines": [
+            "PD HINDUJA MARG"
+          ]
+        },
+        "distance": {
+          "value": 4.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:30"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700141180,
+        "name": "HOTEL SOLITAIRE",
+        "hotelId": "YXBOM113",
+        "geoCode": {
+          "latitude": 19.10577,
+          "longitude": 72.86803
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "NEW SANJAY NAGAR SAHAR ROAD NEAR BOM AIRPORT"
+          ]
+        },
+        "distance": {
+          "value": 4.34,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "BOM",
+        "dupeId": 700144574,
+        "name": "GRAND RESIDENCY HOTEL",
+        "hotelId": "YXBOMGRH",
+        "geoCode": {
+          "latitude": 19.06567,
+          "longitude": 72.83332
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400050",
+          "cityName": "MUMBAI",
+          "lines": [
+            "CORNER OF 24TH AND 29TH RD"
+          ]
+        },
+        "distance": {
+          "value": 4.41,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:36"
+      },
+      {
+        "chainCode": "FG",
+        "iataCode": "BOM",
+        "dupeId": 700152400,
+        "name": "THE REGALE BY TUNGA",
+        "hotelId": "FGBOMREG",
+        "geoCode": {
+          "latitude": 19.11893,
+          "longitude": 72.86742
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400093",
+          "cityName": "MUMBAI",
+          "lines": [
+            "PLOT 31 PHASSE II",
+            "CENTRAL ROAD MIDC ANDHERI EAST"
+          ]
+        },
+        "distance": {
+          "value": 4.56,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:30"
+      },
+      {
+        "chainCode": "HL",
+        "iataCode": "BOM",
+        "dupeId": 700034088,
+        "name": "HILTON MUMBAI INTERNATIONAL AIRPORT",
+        "hotelId": "HLBOM440",
+        "geoCode": {
+          "latitude": 19.10475,
+          "longitude": 72.87085
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "SAHAR AIRPORT ROAD",
+            "ANDHERI EAST"
+          ]
+        },
+        "distance": {
+          "value": 4.64,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:21:28"
+      },
+      {
+        "chainCode": "HY",
+        "iataCode": "BOM",
+        "dupeId": 700018181,
+        "name": "HYATT REGENCY MUMBAI",
+        "hotelId": "HYBOMMUM",
+        "geoCode": {
+          "latitude": 19.1035,
+          "longitude": 72.87153
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "cityName": "MUMBAI",
+          "lines": [
+            "SAHAR AIRPORT RD",
+            "ANDHERI EAST"
+          ]
+        },
+        "distance": {
+          "value": 4.71,
+          "unit": "KM"
+        },
+        "masterChainCode": "LH",
+        "lastUpdate": "2025-06-03T10:19:38"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "BOM",
+        "dupeId": 700055261,
+        "name": "THE RETREAT HOTEL AND CONVENTION CENTRE",
+        "hotelId": "UZBOM164",
+        "geoCode": {
+          "latitude": 19.13873,
+          "longitude": 72.79349
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400061",
+          "cityName": "MUMBAI",
+          "lines": [
+            "ERANGAL BEACH",
+            "MADH MARVE ROAD"
+          ]
+        },
+        "distance": {
+          "value": 5.14,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:06"
+      },
+      {
+        "chainCode": "LJ",
+        "iataCode": "BOM",
+        "dupeId": 700029680,
+        "name": "THE LALIT MUMBAI",
+        "hotelId": "LJBOMICC",
+        "geoCode": {
+          "latitude": 19.10563,
+          "longitude": 72.87575
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400059",
+          "cityName": "MUMBAI",
+          "lines": [
+            "SAHAR AIRPORT ROAD"
+          ]
+        },
+        "distance": {
+          "value": 5.15,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:24"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "BOM",
+        "dupeId": 502332902,
+        "name": "JW MARRIOTT MUMBAI SAHAR",
+        "hotelId": "MCBOMSAM",
+        "geoCode": {
+          "latitude": 19.10266,
+          "longitude": 72.87779
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400099",
+          "stateCode": "MH",
+          "cityName": "MUMBAI",
+          "lines": [
+            "IA PROJECT ROAD",
+            "CHHATRAPATI SHIVAJI INTERNATIONAL AIRPORT"
+          ]
+        },
+        "distance": {
+          "value": 5.37,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:56"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "BOM",
+        "dupeId": 700190979,
+        "name": "ASHWIN",
+        "hotelId": "ILBOM134",
+        "geoCode": {
+          "latitude": 19.11017,
+          "longitude": 72.87822
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "400059",
+          "cityName": "MUMBAI",
+          "lines": [
+            "NEAR INTERNATIONAL DOMESTIC APT BEHIND FIRE BRIGADE"
+          ]
+        },
+        "distance": {
+          "value": 5.45,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:16"
+      }
+    ],
+    "meta": {
+      "count": 28,
+      "links": {
+        "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode?latitude=19.1048&longitude=72.8267&radius=5&radiusUnit=KM"
+      }
+    }
+  }
+}
