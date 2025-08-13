@@ -27,6 +27,7 @@ class HotelList(BaseModel):
     longitude: confloat(ge=-180, le=180)
     radius: conint(ge=0)
     radiusUnit: str = "KM"
+    max: int = 10
 
     @field_validator("radiusUnit")
     def validate_radius_unit(cls, value):
@@ -34,13 +35,6 @@ class HotelList(BaseModel):
         if value not in valid_units:
             raise ValueError(f"radiusUnit must be one of {valid_units}")
         return value
-
-class HotelRequest(BaseModel):
-    location: str
-    checkin: str
-    checkout: str
-    budget: float
-
 
 _token_cache = {"token": None, "expires_at": None}
 @retry(
@@ -66,7 +60,8 @@ async def get_access_token():
     if _token_cache["token"] and _token_cache["expires_at"] > now:
         return _token_cache["token"]
 
-    async with httpx.AsyncClient(timeout = 10.0) as client:
+    # async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout = 30.0) as client:
         token_url = "https://test.api.amadeus.com/v1/security/oauth2/token"
         payload = {
             "grant_type": "client_credentials",
@@ -112,15 +107,17 @@ async def list_hotels_helper(url, params, headers):
     Raises:
         HTTPException: If the API request fails.
     """
-    async with httpx.AsyncClient(timeout=10.0) as client:
+    # async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout=30.0) as client:
         response = await client.get(url, params=params, headers=headers)
         response.raise_for_status()
         return response.json()
 
-@router.post("/")
-async def list_hotels(request: HotelList, access_token: str = Depends(get_access_token_dep)):
+@router.post("/", response_model_exclude_none=True)
+# async def list_hotels(request: HotelList, access_token: str = Depends(get_access_token_dep)):
+async def list_hotels(request: HotelList):
     try:
-        # access_token = await get_access_token()
+        access_token = await get_access_token()
         url = "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode"
         params = {
             "latitude": request.latitude,
@@ -130,14 +127,6 @@ async def list_hotels(request: HotelList, access_token: str = Depends(get_access
         }
         headers = {"Authorization": f"Bearer {access_token}"}
         return await list_hotels_helper(url, params, headers)
-        # async with httpx.AsyncClient() as client:
-        #     response = await client.get(
-        #         url,
-        #         params = params,
-        #         headers = headers
-        #     )
-        #     response.raise_for_status()
-        #     return response.json()
 
     except httpx.HTTPStatusError as e:
         logger.error(f"Hotel API HTTP error: {e.response.text if e.response else str(e)}, params: {params}")

@@ -1,0 +1,4901 @@
+{
+  "status": 200,
+  "response": {
+    "data": [
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 502126859,
+        "name": "SYNSIX HOTELTEST HOTEL XXX",
+        "hotelId": "YXNYCXXX",
+        "geoCode": {
+          "latitude": 40.71455,
+          "longitude": -74.00714
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "ZIPCODE",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "STREET NUMBER AND STREET NAME"
+          ]
+        },
+        "distance": {
+          "value": 0.21,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "AL",
+        "iataCode": "NYC",
+        "dupeId": 501447323,
+        "name": "ALOFT MANHATTAN DOWNTOWN FINANCIAL DIST",
+        "hotelId": "ALNYC647",
+        "geoCode": {
+          "latitude": 40.71041,
+          "longitude": -74.00666
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10038",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "49 53 ANN STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.27,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-08-11T06:16:19"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 700070576,
+        "name": "DUANE STREET HOTEL",
+        "hotelId": "XTNYC130",
+        "geoCode": {
+          "latitude": 40.71586,
+          "longitude": -74.00745
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "130 DUANE STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.36,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:45"
+      },
+      {
+        "chainCode": "TM",
+        "iataCode": "NYC",
+        "dupeId": 700110314,
+        "name": "SMYTH - A THOMPSON HOTEL",
+        "hotelId": "TMNYC822",
+        "geoCode": {
+          "latitude": 40.71517,
+          "longitude": -74.00942
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10007",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "85 WEST BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 0.39,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:56"
+      },
+      {
+        "chainCode": "LE",
+        "iataCode": "NYC",
+        "dupeId": 700006312,
+        "name": "COSMOPOLITAN HOTEL - TRIBECA",
+        "hotelId": "LENYC7A3",
+        "geoCode": {
+          "latitude": 40.71569,
+          "longitude": -74.00933
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10007",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "95 WEST BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 0.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "PV",
+        "lastUpdate": "2025-06-03T10:20:31"
+      },
+      {
+        "chainCode": "RC",
+        "iataCode": "NYC",
+        "dupeId": 501883428,
+        "name": "RESIDENCE INN WTC MARRIOTT",
+        "hotelId": "RCNYCRLR",
+        "geoCode": {
+          "latitude": 40.70953,
+          "longitude": -74.00981
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10007",
+          "stateCode": "NY",
+          "cityName": "NEW TEST",
+          "lines": [
+            "170 BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 0.48,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-24T07:11:06"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700117406,
+        "name": "HOLIDAY INN NYC WALL STREET",
+        "hotelId": "HINYC596",
+        "geoCode": {
+          "latitude": 40.70893,
+          "longitude": -74.00902
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10038",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "51 NASSAU STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.5,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:17:19"
+      },
+      {
+        "chainCode": "HX",
+        "iataCode": "NYC",
+        "dupeId": 501412004,
+        "name": "HAMPTON INN MANHATTAN SEAPORT",
+        "hotelId": "HXNYC320",
+        "geoCode": {
+          "latitude": 40.70906,
+          "longitude": -74.00199
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10038",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "320 PEARL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.53,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:16:16"
+      },
+      {
+        "chainCode": "TM",
+        "iataCode": "NYC",
+        "dupeId": 700018235,
+        "name": "GILD HALL - A THOMPSON HOTEL",
+        "hotelId": "TMNYCC8F",
+        "geoCode": {
+          "latitude": 40.70788,
+          "longitude": -74.00712
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10038",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "15 GOLD STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.55,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:56"
+      },
+      {
+        "chainCode": "FS",
+        "iataCode": "XXX",
+        "dupeId": 501102779,
+        "name": "TEST HOTEL",
+        "hotelId": "FSXXXTES",
+        "geoCode": {
+          "latitude": 40.71159,
+          "longitude": -74.01427
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "111 WEST STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.71,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "CQ",
+        "iataCode": "NYC",
+        "dupeId": 700130660,
+        "name": "CLUB QUARTERS WORLD TRADE CENT",
+        "hotelId": "CQNYC252",
+        "geoCode": {
+          "latitude": 40.70982,
+          "longitude": -74.01376
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "140 WASINGTON ST"
+          ]
+        },
+        "distance": {
+          "value": 0.73,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "SP",
+        "iataCode": "NYC",
+        "dupeId": 502160948,
+        "name": "TEST MASTER CHAIN WYNDHAMSP",
+        "hotelId": "SPNYCPRO",
+        "geoCode": {
+          "latitude": 40.70763,
+          "longitude": -74.01147
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "869 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.73,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:17:43"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700222829,
+        "name": "FAIRFIELD INN FINANCL MARRIOTT",
+        "hotelId": "FNNYCLMF",
+        "geoCode": {
+          "latitude": 40.70604,
+          "longitude": -74.00502
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10038",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "161 FRONT STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.75,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "WH",
+        "iataCode": "NYC",
+        "dupeId": 700141702,
+        "name": "W NEW YORK DOWNTOWN",
+        "hotelId": "WHNYC154",
+        "geoCode": {
+          "latitude": 40.70914,
+          "longitude": -74.01366
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "123 WASHINGTON STREET",
+            "ENTRANCE ON ALBANY STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.76,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:01"
+      },
+      {
+        "chainCode": "OM",
+        "iataCode": "NYC",
+        "dupeId": 502122165,
+        "name": "HOTEL MIO MIO",
+        "hotelId": "OMNYC002",
+        "geoCode": {
+          "latitude": 40.70597,
+          "longitude": -74.00864
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "58 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.79,
+          "unit": "KM"
+        },
+        "masterChainCode": "GL",
+        "lastUpdate": "2025-08-06T10:12:28"
+      },
+      {
+        "chainCode": "OM",
+        "iataCode": "JFK",
+        "dupeId": 502131359,
+        "name": "HOTEL PTR 14995388 ",
+        "hotelId": "OMJFK001",
+        "geoCode": {
+          "latitude": 40.70606,
+          "longitude": -74.00915
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "57 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.79,
+          "unit": "KM"
+        },
+        "masterChainCode": "GL",
+        "lastUpdate": "2025-06-03T10:20:24"
+      },
+      {
+        "chainCode": "OM",
+        "iataCode": "NYC",
+        "dupeId": 502122164,
+        "name": "HOTEL HA HA",
+        "hotelId": "OMNYC001",
+        "geoCode": {
+          "latitude": 40.70606,
+          "longitude": -74.00915
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "57 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.79,
+          "unit": "KM"
+        },
+        "masterChainCode": "GL",
+        "lastUpdate": "2025-08-06T10:12:27"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "NYC",
+        "dupeId": 700009917,
+        "name": "NEW YORK MARRIOTT DOWNTOWN",
+        "hotelId": "MCNYCWSM",
+        "geoCode": {
+          "latitude": 40.70975,
+          "longitude": -74.01468
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "85 WEST STREET AT ALBANY STREE"
+          ]
+        },
+        "distance": {
+          "value": 0.8,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "YG",
+        "iataCode": "NYC",
+        "dupeId": 502135544,
+        "name": "NYCZWR9 CHAIN YG",
+        "hotelId": "YGNYC001",
+        "geoCode": {
+          "latitude": 40.70593,
+          "longitude": -74.00933
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "55 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.81,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-06T10:12:03"
+      },
+      {
+        "chainCode": "ZK",
+        "iataCode": "NYC",
+        "dupeId": 502135543,
+        "name": "NYCZWR9 CHAIN ZK",
+        "hotelId": "ZKNYC001",
+        "geoCode": {
+          "latitude": 40.70593,
+          "longitude": -74.00933
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "55 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 0.81,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-06T10:11:40"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700143967,
+        "name": "HOLIDAY INN EXP NYC WALL ST",
+        "hotelId": "HINYC9C1",
+        "geoCode": {
+          "latitude": 40.70541,
+          "longitude": -74.00705
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "126 WATER STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.82,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:16:19"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700225254,
+        "name": "HOLIDAY INN MANHATTAN - FD",
+        "hotelId": "HINYCA2B",
+        "geoCode": {
+          "latitude": 40.70827,
+          "longitude": -74.01411
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "99 WASHINGTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.84,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:17:32"
+      },
+      {
+        "chainCode": "LE",
+        "iataCode": "JFK",
+        "dupeId": 700053175,
+        "name": "EUROSTARS WALL STREET",
+        "hotelId": "LEJFK129",
+        "geoCode": {
+          "latitude": 40.70508,
+          "longitude": -74.00619
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "129 FRONT STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.85,
+          "unit": "KM"
+        },
+        "masterChainCode": "PV",
+        "lastUpdate": "2025-06-03T10:20:30"
+      },
+      {
+        "chainCode": "LW",
+        "iataCode": "NYC",
+        "dupeId": 700113468,
+        "name": "THE GREENWICH HOTEL",
+        "hotelId": "LWNYC730",
+        "geoCode": {
+          "latitude": 40.71985,
+          "longitude": -74.01022
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "377 GREENWICH STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.86,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:46"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 501820236,
+        "name": "CHURCHILL AT 90 WASHINGTON STREET",
+        "hotelId": "XTNYCC90",
+        "geoCode": {
+          "latitude": 40.70806,
+          "longitude": -74.01485
+        },
+        "address": {
+          "countryCode": "US",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "90 WASHINGTON STREET",
+            "FLOOR 5"
+          ]
+        },
+        "distance": {
+          "value": 0.91,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:45"
+      },
+      {
+        "chainCode": "SI",
+        "iataCode": "NYC",
+        "dupeId": 700142994,
+        "name": "SHERATON TRIBECA NEW YORK HTL",
+        "hotelId": "SINYC052",
+        "geoCode": {
+          "latitude": 40.72088,
+          "longitude": -74.00395
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "370 CANAL STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.91,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "GI",
+        "iataCode": "NYC",
+        "dupeId": 700107064,
+        "name": "HILTON GI NEW YORK -TRIBECA",
+        "hotelId": "GINYC212",
+        "geoCode": {
+          "latitude": 40.72101,
+          "longitude": -74.00523
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "6 YORK STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.91,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:21:33"
+      },
+      {
+        "chainCode": "NZ",
+        "iataCode": "NYC",
+        "dupeId": 700053236,
+        "name": "ASCEND COLLECTION THE SOLITA SOHO HOTEL",
+        "hotelId": "NZNYC288",
+        "geoCode": {
+          "latitude": 40.71978,
+          "longitude": -73.99901
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "159 GRAND STREET"
+          ]
+        },
+        "distance": {
+          "value": 0.97,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 501943142,
+        "name": "CHURCHILL AT 10 HANOVER SQUARE",
+        "hotelId": "XTNYCHOV",
+        "geoCode": {
+          "latitude": 40.70435,
+          "longitude": -74.00915
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10005",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "10 HANOVER SQUARE"
+          ]
+        },
+        "distance": {
+          "value": 0.97,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:46"
+      },
+      {
+        "chainCode": "GG",
+        "iataCode": "NYC",
+        "dupeId": 700021808,
+        "name": "SOHO GRAND HOTEL",
+        "hotelId": "GGNYCSGH",
+        "geoCode": {
+          "latitude": 40.7217,
+          "longitude": -74.00445
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "310 WEST BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 0.99,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:42"
+      },
+      {
+        "chainCode": "GG",
+        "iataCode": "XXX",
+        "dupeId": 501103757,
+        "name": "TEST TRIBECA AND SOHO",
+        "hotelId": "GGXXX111",
+        "geoCode": {
+          "latitude": 40.7217,
+          "longitude": -74.00445
+        },
+        "address": {
+          "countryCode": "ZZ",
+          "postalCode": "12346",
+          "cityName": "FICTITIOUS POINT",
+          "lines": [
+            "LA1 TEST TRIBECA AND SOHO"
+          ]
+        },
+        "distance": {
+          "value": 0.99,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:42"
+      },
+      {
+        "chainCode": "WY",
+        "iataCode": "NYC",
+        "dupeId": 700155916,
+        "name": "WYNDHAM GARDEN CHINATOWN",
+        "hotelId": "WYNYC995",
+        "geoCode": {
+          "latitude": 40.71714,
+          "longitude": -73.99545
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "93 BOWERY"
+          ]
+        },
+        "distance": {
+          "value": 1.01,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:18:27"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700107955,
+        "name": "HOTEL 91",
+        "hotelId": "WVNYC836",
+        "geoCode": {
+          "latitude": 40.7134,
+          "longitude": -73.99361
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "91 E BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 1.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "NY",
+        "iataCode": "NYC",
+        "dupeId": 700143996,
+        "name": "THE JAMES NEW YORK",
+        "hotelId": "NYNYCTJA",
+        "geoCode": {
+          "latitude": 40.719,
+          "longitude": -73.99646
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "27 GRAND STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.06,
+          "unit": "KM"
+        },
+        "masterChainCode": "SN",
+        "lastUpdate": "2025-06-03T10:20:26"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 700217611,
+        "name": "THE BROOME",
+        "hotelId": "XTNYCBSH",
+        "geoCode": {
+          "latitude": 40.72129,
+          "longitude": -73.99939
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "431 BROOME STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.09,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:45"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700190081,
+        "name": "FAIRFIELD INN N STES MARRIOTT",
+        "hotelId": "FNNYCFMF",
+        "geoCode": {
+          "latitude": 40.71318,
+          "longitude": -73.99299
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "95 HENRY ST"
+          ]
+        },
+        "distance": {
+          "value": 1.09,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "BW",
+        "iataCode": "NYC",
+        "dupeId": 700101379,
+        "name": "BEST WESTERN BOWERY HANBEE HTL",
+        "hotelId": "BWNYC133",
+        "geoCode": {
+          "latitude": 40.7184,
+          "longitude": -73.99518
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK CITY",
+          "lines": [
+            "231 GRAND STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.1,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:17:39"
+      },
+      {
+        "chainCode": "DT",
+        "iataCode": "NYC",
+        "dupeId": 700146224,
+        "name": "DOUBLETREE BY HILTON NYC FINANCIAL",
+        "hotelId": "DTNYC917",
+        "geoCode": {
+          "latitude": 40.70405,
+          "longitude": -74.01259
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10004",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "8 STONE STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "NYC",
+        "dupeId": 700179532,
+        "name": "COMFORT INN NEAR FINANCIAL DISTRICT",
+        "hotelId": "CINYC551",
+        "geoCode": {
+          "latitude": 40.71222,
+          "longitude": -73.99269
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "154 MADISON STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:32"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700141907,
+        "name": "THE NOLITAN",
+        "hotelId": "WVNYCNHO",
+        "geoCode": {
+          "latitude": 40.72066,
+          "longitude": -73.99521
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10012",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "30 KENMARE STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.26,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "SK",
+        "iataCode": "NYC",
+        "dupeId": 700062285,
+        "name": "SIXTY SOHO",
+        "hotelId": "SKNYC607",
+        "geoCode": {
+          "latitude": 40.72406,
+          "longitude": -74.00324
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10012",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "60 THOMPSON STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:36"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "NYC",
+        "dupeId": 700069131,
+        "name": "OFF SOHO SUITES HOTEL",
+        "hotelId": "UINYCOSG",
+        "geoCode": {
+          "latitude": 40.7215,
+          "longitude": -73.99312
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "11 RIVINGTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.45,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:03"
+      },
+      {
+        "chainCode": "AP",
+        "iataCode": "NYC",
+        "dupeId": 700113461,
+        "name": "THE MERCER",
+        "hotelId": "APNYCMER",
+        "geoCode": {
+          "latitude": 40.72485,
+          "longitude": -73.99839
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10012",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "147 MERCER STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.48,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:26"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 700218112,
+        "name": "HOTEL HUGO",
+        "hotelId": "XTNYCHGO",
+        "geoCode": {
+          "latitude": 40.72643,
+          "longitude": -74.00896
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10013",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "525 GREENWICH STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:46"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "NYC",
+        "dupeId": 501815988,
+        "name": "HUGO SOHO",
+        "hotelId": "HSNYCAPW",
+        "geoCode": {
+          "latitude": 40.72648,
+          "longitude": -74.00902
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "100131002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "GREENWICH ST 525"
+          ]
+        },
+        "distance": {
+          "value": 1.54,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:03"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 700149692,
+        "name": "COURTYARD SOHO MARRIOTT",
+        "hotelId": "CYNYCMTC",
+        "geoCode": {
+          "latitude": 40.72758,
+          "longitude": -74.00548
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10014",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "181 VARICK STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.64,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:34"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700089241,
+        "name": "HOTEL ON RIVINGTON",
+        "hotelId": "WVNYC155",
+        "geoCode": {
+          "latitude": 40.71976,
+          "longitude": -73.98811
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "107 RIVINGTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.69,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "NZ",
+        "iataCode": "NYC",
+        "dupeId": 700099318,
+        "name": "THE GEM HOTEL-SOHO",
+        "hotelId": "NZNYC425",
+        "geoCode": {
+          "latitude": 40.72385,
+          "longitude": -73.99147
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "135 EAST HOUSTON STREET",
+            "FORSYTH AND ALLEN"
+          ]
+        },
+        "distance": {
+          "value": 1.73,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "LGA",
+        "dupeId": 700104999,
+        "name": "EAST HOUSTON HOTEL",
+        "hotelId": "ILLGA012",
+        "geoCode": {
+          "latitude": 40.72305,
+          "longitude": -73.98927
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "151 EAST HOUSTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.81,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:28"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700120098,
+        "name": "ATRIUM SUITES",
+        "hotelId": "YXNYC514",
+        "geoCode": {
+          "latitude": 40.72855,
+          "longitude": -73.99995
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "160 BLEECKER STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.82,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700224946,
+        "name": "THE LUDLOW HOTEL",
+        "hotelId": "WVNYC132",
+        "geoCode": {
+          "latitude": 40.72176,
+          "longitude": -73.98721
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10002",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "180 LUDLOW STREET"
+          ]
+        },
+        "distance": {
+          "value": 1.87,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "ZZ",
+        "iataCode": "NYC",
+        "dupeId": 502332408,
+        "name": "TEST ZZNYCTTT",
+        "hotelId": "ZZNYCTTT",
+        "geoCode": {
+          "latitude": 40.73164,
+          "longitude": -73.99678
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "5TH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 2.23,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-06T10:43:32"
+      },
+      {
+        "chainCode": "HY",
+        "iataCode": "EWR",
+        "dupeId": 700019461,
+        "name": "HYATT REGENCY JERSEY CITY ON THE HUDSON",
+        "hotelId": "HYEWRHJC",
+        "geoCode": {
+          "latitude": 40.71708,
+          "longitude": -74.03247
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07302",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "TWO EXCHANGE PL",
+            "NORTH EASTERN"
+          ]
+        },
+        "distance": {
+          "value": 2.28,
+          "unit": "KM"
+        },
+        "masterChainCode": "LH",
+        "lastUpdate": "2025-06-03T10:19:42"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700179281,
+        "name": "SAINT MARKS PLACE STUDIOS",
+        "hotelId": "YXNYCSMP",
+        "geoCode": {
+          "latitude": 40.72899,
+          "longitude": -73.98923
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "14 SAINT MARKS PLACE"
+          ]
+        },
+        "distance": {
+          "value": 2.29,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "JEC",
+        "dupeId": 700191716,
+        "name": "SKY CITY AT LIBERTY",
+        "hotelId": "ILJEC365",
+        "geoCode": {
+          "latitude": 40.7132,
+          "longitude": -74.03556
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07302",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "33 HUDSON ST."
+          ]
+        },
+        "distance": {
+          "value": 2.49,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "EWR",
+        "dupeId": 501686665,
+        "name": "CHURCHILL AT GREENE STREET",
+        "hotelId": "XTEWRCGS",
+        "geoCode": {
+          "latitude": 40.71497,
+          "longitude": -74.03596
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07302",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "70 GREENE STREET",
+            "10TH FLOOR"
+          ]
+        },
+        "distance": {
+          "value": 2.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:43"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "LGA",
+        "dupeId": 700009911,
+        "name": "MARRIOTT AT BROOKLYN BRIDGE",
+        "hotelId": "MCLGABKM",
+        "geoCode": {
+          "latitude": 40.69384,
+          "longitude": -73.98916
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11201",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "333 ADAMS STREET"
+          ]
+        },
+        "distance": {
+          "value": 2.54,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:12"
+      },
+      {
+        "chainCode": "YO",
+        "iataCode": "EWR",
+        "dupeId": 700070320,
+        "name": "CANDLEWOOD SUITE-JERSEY CITY",
+        "hotelId": "YOEWR798",
+        "geoCode": {
+          "latitude": 40.7215,
+          "longitude": -74.03409
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07302",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "21 SECOND STREET"
+          ]
+        },
+        "distance": {
+          "value": 2.55,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:18:39"
+      },
+      {
+        "chainCode": "GT",
+        "iataCode": "NYC",
+        "dupeId": 502178332,
+        "name": "TEST GTNYCTTT",
+        "hotelId": "GTNYCTTT",
+        "geoCode": {
+          "latitude": 40.73435,
+          "longitude": -73.99482
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "5TH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 2.57,
+          "unit": "KM"
+        },
+        "masterChainCode": "LI",
+        "lastUpdate": "2025-06-03T10:16:32"
+      },
+      {
+        "chainCode": "ON",
+        "iataCode": "PEK",
+        "dupeId": 700048181,
+        "name": "FORBIDDEN CITY RED WALL HOTEL",
+        "hotelId": "ONPEKFOR",
+        "geoCode": {
+          "latitude": 40.72712,
+          "longitude": -73.98048
+        },
+        "address": {
+          "countryCode": "CN",
+          "postalCode": "10009",
+          "cityName": "BEIJING",
+          "lines": [
+            "SHA TAN AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 2.67,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:31"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "NYC",
+        "dupeId": 700189626,
+        "name": "THE JADE HOTEL GREENWICH VILLAGE",
+        "hotelId": "UINYC467",
+        "geoCode": {
+          "latitude": 40.73598,
+          "longitude": -73.99581
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "52 WEST 13TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 2.71,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:03"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "EWR",
+        "dupeId": 501686664,
+        "name": "CHURCHILL AT NEWPORT JERSEY CITY",
+        "hotelId": "XTEWRCNJ",
+        "geoCode": {
+          "latitude": 40.72256,
+          "longitude": -74.03677
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "00000",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "425 WASHINGTON BOULEVARD",
+            "FLOOR 10"
+          ]
+        },
+        "distance": {
+          "value": 2.81,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:43"
+      },
+      {
+        "chainCode": "WI",
+        "iataCode": "EWR",
+        "dupeId": 700078770,
+        "name": "WESTIN JERSEY CITY NEWPORT",
+        "hotelId": "WIEWR049",
+        "geoCode": {
+          "latitude": 40.72404,
+          "longitude": -74.03606
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07310",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "479 WASHINGTON BLVD"
+          ]
+        },
+        "distance": {
+          "value": 2.82,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:04"
+      },
+      {
+        "chainCode": "AL",
+        "iataCode": "NYC",
+        "dupeId": 700147781,
+        "name": "ALOFT NEW YORK BROOKLYN",
+        "hotelId": "ALNYC192",
+        "geoCode": {
+          "latitude": 40.69159,
+          "longitude": -73.98466
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11201",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "216 DUFFIELD STREET"
+          ]
+        },
+        "distance": {
+          "value": 2.96,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-28T06:06:56"
+      },
+      {
+        "chainCode": "SI",
+        "iataCode": "NYC",
+        "dupeId": 700141751,
+        "name": "SHERATON BROOKLYN NEW YORK HTL",
+        "hotelId": "SINYC727",
+        "geoCode": {
+          "latitude": 40.6916,
+          "longitude": -73.98438
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11201",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "228 DUFFIELD STREET"
+          ]
+        },
+        "distance": {
+          "value": 2.98,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "WH",
+        "iataCode": "NYC",
+        "dupeId": 700038789,
+        "name": "W NEW YORK - UNION SQUARE",
+        "hotelId": "WHNYC299",
+        "geoCode": {
+          "latitude": 40.7365,
+          "longitude": -73.98891
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "201 PARK AVENUE SOUTH"
+          ]
+        },
+        "distance": {
+          "value": 3.0,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:01"
+      },
+      {
+        "chainCode": "DT",
+        "iataCode": "EWR",
+        "dupeId": 700034607,
+        "name": "DBLTREE BY HILTON JERSEY CITY",
+        "hotelId": "DTEWRH70",
+        "geoCode": {
+          "latitude": 40.72876,
+          "longitude": -74.03503
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07310",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "455 WASHINGTON BLVD"
+          ]
+        },
+        "distance": {
+          "value": 3.02,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:19:33"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700032209,
+        "name": "HOTEL 17",
+        "hotelId": "YXNYC003",
+        "geoCode": {
+          "latitude": 40.73472,
+          "longitude": -73.98465
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "225 EAST 17TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.03,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "LX",
+        "iataCode": "LGA",
+        "dupeId": 700113469,
+        "name": "THE INN AT IRVING PLACE",
+        "hotelId": "LXLGAIIP",
+        "geoCode": {
+          "latitude": 40.73606,
+          "longitude": -73.98706
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "56 IRVING PLACE"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:48"
+      },
+      {
+        "chainCode": "XH",
+        "iataCode": "NYC",
+        "dupeId": 502032484,
+        "name": "SKY CITY AT LIBERTY",
+        "hotelId": "XHNYCWDJ",
+        "geoCode": {
+          "latitude": 40.71984,
+          "longitude": -74.04093
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07302",
+          "stateCode": "NJ",
+          "cityName": "Jersey City",
+          "lines": [
+            "HUDSON STREET - 33",
+            "EXCHANGE PLACE"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:26"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "EWR",
+        "dupeId": 700065663,
+        "name": "COURTYARD JERSEY CITY MARRIOTT",
+        "hotelId": "CYEWRNWC",
+        "geoCode": {
+          "latitude": 40.72973,
+          "longitude": -74.03458
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07310",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "540 WASHINGTON BLVD"
+          ]
+        },
+        "distance": {
+          "value": 3.05,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:07"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "JFK",
+        "dupeId": 700120096,
+        "name": "CHELSEA PINES INN",
+        "hotelId": "ILJFK102",
+        "geoCode": {
+          "latitude": 40.74037,
+          "longitude": -74.00336
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10014",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "317 WEST 14TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.07,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "AP",
+        "iataCode": "XXX",
+        "dupeId": 501103765,
+        "name": "AP TEST PROPERTY 111",
+        "hotelId": "APXXX111",
+        "geoCode": {
+          "latitude": 40.74065,
+          "longitude": -74.00776
+        },
+        "address": {
+          "countryCode": "ZZ",
+          "cityName": "FICTITIOUS POINT",
+          "lines": [
+            "MAINSTREET 111"
+          ]
+        },
+        "distance": {
+          "value": 3.1,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:26"
+      },
+      {
+        "chainCode": "AP",
+        "iataCode": "NYC",
+        "dupeId": 700113471,
+        "name": "THE STANDARD HIGH LINE",
+        "hotelId": "APNYCTSY",
+        "geoCode": {
+          "latitude": 40.74065,
+          "longitude": -74.00776
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10014",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "848 WASHINGTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.1,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:26"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "EWR",
+        "dupeId": 700106233,
+        "name": "FURNISHED QUARTERS GROVEPOINTE",
+        "hotelId": "HSEWRAIP",
+        "geoCode": {
+          "latitude": 40.71934,
+          "longitude": -74.042
+        },
+        "address": {
+          "countryCode": "US",
+          "stateCode": "NJ",
+          "cityName": "JERSEY CITY",
+          "lines": [
+            "CHRISTOPHER COLUMBUS DR 100"
+          ]
+        },
+        "distance": {
+          "value": 3.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:58"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "NYC",
+        "dupeId": 700179277,
+        "name": "HOTEL VERITE",
+        "hotelId": "ILNYC893",
+        "geoCode": {
+          "latitude": 40.7387,
+          "longitude": -73.99048
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10003",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "13 E 19TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.16,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:27"
+      },
+      {
+        "chainCode": "EO",
+        "iataCode": "XXX",
+        "dupeId": 501102805,
+        "name": "QUALITY INN RICHMOND HILL",
+        "hotelId": "EOXXX001",
+        "geoCode": {
+          "latitude": 40.71741,
+          "longitude": -74.04325
+        },
+        "address": {
+          "countryCode": "ZZ",
+          "postalCode": "50005",
+          "cityName": "FICTITIOUS POINT",
+          "lines": [
+            "4404 S MAYBELLE",
+            "TRAIN COUNTY"
+          ]
+        },
+        "distance": {
+          "value": 3.18,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "DZ",
+        "iataCode": "NYC",
+        "dupeId": 501912174,
+        "name": "DREAM MEATPACKING DISTRICT",
+        "hotelId": "DZNYCDDT",
+        "geoCode": {
+          "latitude": 40.74178,
+          "longitude": -74.0031
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "355 WEST 16TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.23,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:41"
+      },
+      {
+        "chainCode": "PW",
+        "iataCode": "NYC",
+        "dupeId": 700113466,
+        "name": "THE MARITIME HOTEL",
+        "hotelId": "PWNYCMAR",
+        "geoCode": {
+          "latitude": 40.74187,
+          "longitude": -74.0033
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "363 WEST 16TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.24,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:57"
+      },
+      {
+        "chainCode": "WH",
+        "iataCode": "EWR",
+        "dupeId": 700079603,
+        "name": "W HOBOKEN",
+        "hotelId": "WHEWR785",
+        "geoCode": {
+          "latitude": 40.73868,
+          "longitude": -74.02837
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07030",
+          "stateCode": "NJ",
+          "cityName": "HOBOKEN",
+          "lines": [
+            "225 RIVER STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.44,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:01"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 501905207,
+        "name": "HOLIDAY INN NEVINS STATION",
+        "hotelId": "HINYCB36",
+        "geoCode": {
+          "latitude": 40.68739,
+          "longitude": -73.98265
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11215",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "300 SCHERMERHORN ROAD"
+          ]
+        },
+        "distance": {
+          "value": 3.44,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:20:18"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700113459,
+        "name": "THE INN ON 23RD",
+        "hotelId": "YXNYCINN",
+        "geoCode": {
+          "latitude": 40.74325,
+          "longitude": -73.99366
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "131 WEST 23RD STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.54,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "JFK",
+        "dupeId": 700100551,
+        "name": "BROOKLYN MOTOR INN",
+        "hotelId": "ILJFKBMI",
+        "geoCode": {
+          "latitude": 40.68088,
+          "longitude": -74.00552
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11231",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "140 HAMILTON AVE"
+          ]
+        },
+        "distance": {
+          "value": 3.55,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "NZ",
+        "iataCode": "NYC",
+        "dupeId": 700099317,
+        "name": "GEM HOTEL CHELSEA AN ASCEND COLLECTION",
+        "hotelId": "NZNYC426",
+        "geoCode": {
+          "latitude": 40.74466,
+          "longitude": -73.99916
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "300 WEST 22ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.59,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "LGA",
+        "dupeId": 700156725,
+        "name": "COMFORT INN BROOKLYN CRUISE TERMINAL",
+        "hotelId": "CILGA507",
+        "geoCode": {
+          "latitude": 40.68016,
+          "longitude": -74.00581
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11231",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "17 SEABRING STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.63,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:18:28"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "NYC",
+        "dupeId": 700004690,
+        "name": "COMFORT INN AND SUITES MIAMI AIRPORT",
+        "hotelId": "CINYC329",
+        "geoCode": {
+          "latitude": 40.7432,
+          "longitude": -73.98958
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10010",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "18 WEST 25TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.65,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:16:22"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700066668,
+        "name": "HOTEL GIRAFFE BY HKHOTELS",
+        "hotelId": "YXNYCGIR",
+        "geoCode": {
+          "latitude": 40.74207,
+          "longitude": -73.98492
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "365 PARK AVENUE SOUTH"
+          ]
+        },
+        "distance": {
+          "value": 3.71,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
+      },
+      {
+        "chainCode": "SI",
+        "iataCode": "NYC",
+        "dupeId": 700038913,
+        "name": "FOUR POINTS MANHATTAN",
+        "hotelId": "SINYC408",
+        "geoCode": {
+          "latitude": 40.74483,
+          "longitude": -73.99368
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "160 W 25TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.71,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "LGA",
+        "dupeId": 700052499,
+        "name": "THE HIGH LINE HOTEL",
+        "hotelId": "YXLGA575",
+        "geoCode": {
+          "latitude": 40.74616,
+          "longitude": -74.00521
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10011",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "180 TENTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 3.71,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:51"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700155475,
+        "name": "FLATIRON HOTEL",
+        "hotelId": "YXNYCTFH",
+        "geoCode": {
+          "latitude": 40.74377,
+          "longitude": -73.98882
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10010",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "9 WEST 26TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.73,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700008334,
+        "name": "HOLIDAY INN MANHATTAN 6TH AVE",
+        "hotelId": "HINYC2C2",
+        "geoCode": {
+          "latitude": 40.7451,
+          "longitude": -73.99216
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "125  WEST  26TH  STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.77,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:16:08"
+      },
+      {
+        "chainCode": "HH",
+        "iataCode": "NYC",
+        "dupeId": 700131562,
+        "name": "HILTON NEW YORK FASHION DISTRICT",
+        "hotelId": "HHNYC026",
+        "geoCode": {
+          "latitude": 40.74543,
+          "longitude": -73.99294
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "152 WEST 26TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.79,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:20:00"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700064001,
+        "name": "BROADWAY PLAZA HOTEL",
+        "hotelId": "YXNYCBPH",
+        "geoCode": {
+          "latitude": 40.74445,
+          "longitude": -73.98916
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1155 BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 3.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700007659,
+        "name": "THE EVELYN FORMERLY GERSHWIN",
+        "hotelId": "YXNYCGER",
+        "geoCode": {
+          "latitude": 40.74387,
+          "longitude": -73.9873
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "7 EAST 27TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.8,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "NYC",
+        "dupeId": 700155424,
+        "name": "THE WALDORF ASTORIA",
+        "hotelId": "DHNYCARN",
+        "geoCode": {
+          "latitude": 40.69599,
+          "longitude": -73.96603
+        },
+        "address": {
+          "countryCode": "US",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "301 PARK AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 3.85,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700018621,
+        "name": "PARK SOUTH HOTEL",
+        "hotelId": "YXNYCPSH",
+        "geoCode": {
+          "latitude": 40.74278,
+          "longitude": -73.9829
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "124 EAST 28TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.86,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700148858,
+        "name": "FAIRFIELD INN N STES MARRIOTT",
+        "hotelId": "FNNYCTWF",
+        "geoCode": {
+          "latitude": 40.7462,
+          "longitude": -73.99096
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "116 WEST 28TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.92,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "JFK",
+        "dupeId": 700148943,
+        "name": "COMFORT INN BROOKLYN",
+        "hotelId": "CIJFK391",
+        "geoCode": {
+          "latitude": 40.68142,
+          "longitude": -73.98457
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11232",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "353 38TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.93,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:16:15"
+      },
+      {
+        "chainCode": "GI",
+        "iataCode": "LGA",
+        "dupeId": 700049698,
+        "name": "HILTON GARDEN INN NY CHELSEA",
+        "hotelId": "GILGA212",
+        "geoCode": {
+          "latitude": 40.74642,
+          "longitude": -73.99151
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "121 WEST 28TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.93,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:21:32"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700027122,
+        "name": "HOTEL DEAUVILLE",
+        "hotelId": "YXNYCH01",
+        "geoCode": {
+          "latitude": 40.74382,
+          "longitude": -73.98341
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "NY10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "103 EAST 29TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 3.94,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
+      },
+      {
+        "chainCode": "NZ",
+        "iataCode": "NYC",
+        "dupeId": 501671976,
+        "name": "THE PAUL AN ASCEND HOTEL COLLECTION",
+        "hotelId": "NZNYC501",
+        "geoCode": {
+          "latitude": 40.74602,
+          "longitude": -73.98918
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "32 WEST 29TH ST"
+          ]
+        },
+        "distance": {
+          "value": 3.96,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700100276,
+        "name": "ACE HOTEL NYC",
+        "hotelId": "YXNYCAHN",
+        "geoCode": {
+          "latitude": 40.74584,
+          "longitude": -73.98811
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "20 WEST 29TH STREET",
+            "CORNER OF 29 AND BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 3.97,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "DT",
+        "iataCode": "LGA",
+        "dupeId": 700104862,
+        "name": "DOUBLETREE BY HILTON NYC CHELSEA",
+        "hotelId": "DTLGA100",
+        "geoCode": {
+          "latitude": 40.747,
+          "longitude": -73.99087
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "128 WEST 29TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.01,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:19:33"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700149007,
+        "name": "FAIRFIELD INN MARRIOTT BROOKLY",
+        "hotelId": "FNNYCBFF",
+        "geoCode": {
+          "latitude": 40.6809,
+          "longitude": -73.9837
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11217",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "181 THIRD AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.01,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "RA",
+        "iataCode": "NYC",
+        "dupeId": 700082449,
+        "name": "RAMADA NEW YORK EASTSIDE",
+        "hotelId": "RANYC018",
+        "geoCode": {
+          "latitude": 40.74398,
+          "longitude": -73.9813
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK CITY",
+          "lines": [
+            "161 LEXINGTON AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:17:09"
+      },
+      {
+        "chainCode": "KC",
+        "iataCode": "NYC",
+        "dupeId": 700141239,
+        "name": "EVENTI  A KIMPTON HOTEL",
+        "hotelId": "KCNYC567",
+        "geoCode": {
+          "latitude": 40.74716,
+          "longitude": -73.9899
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEWYORK",
+          "lines": [
+            "851 AVENUE OF THE AMERICAS"
+          ]
+        },
+        "distance": {
+          "value": 4.05,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700047608,
+        "name": "HOLIDAY INN EXP MADISON SQ GARD",
+        "hotelId": "HINYC5CA",
+        "geoCode": {
+          "latitude": 40.7483,
+          "longitude": -73.9946
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "100015201",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "232 WEST 29TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.06,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:16:23"
+      },
+      {
+        "chainCode": "LX",
+        "iataCode": "NYC",
+        "dupeId": 700100289,
+        "name": "HOTEL CHANDLER",
+        "hotelId": "LXNYCLEM",
+        "geoCode": {
+          "latitude": 40.74595,
+          "longitude": -73.98523
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "12 EAST 31 ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.08,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:52"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700011993,
+        "name": "THE ROGER",
+        "hotelId": "YXNYCROG",
+        "geoCode": {
+          "latitude": 40.7458,
+          "longitude": -73.98433
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "131 MADISON AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.1,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700062282,
+        "name": "HOTEL 31",
+        "hotelId": "YXNYC068",
+        "geoCode": {
+          "latitude": 40.74469,
+          "longitude": -73.98161
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "120 EAST 31ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.1,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "NYC",
+        "dupeId": 700014310,
+        "name": "HOTEL WOLCOTT",
+        "hotelId": "UZNYC448",
+        "geoCode": {
+          "latitude": 40.74656,
+          "longitude": -73.98605
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "4 WEST 31ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.11,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:08"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "NYC",
+        "dupeId": 700106880,
+        "name": "HERALD SQUARE HOTEL",
+        "hotelId": "UZNYCCLI",
+        "geoCode": {
+          "latitude": 40.74691,
+          "longitude": -73.98684
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "19 WEST 31ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:10"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 501233488,
+        "name": "COURTYARD CHELSEA MARRIOTT",
+        "hotelId": "CYNYCCEC",
+        "geoCode": {
+          "latitude": 40.74819,
+          "longitude": -73.9912
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "135 W. 30TH ST"
+          ]
+        },
+        "distance": {
+          "value": 4.13,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:53"
+      },
+      {
+        "chainCode": "HX",
+        "iataCode": "NYC",
+        "dupeId": 700030225,
+        "name": "HMPTN INN MANHATTAN MDSON GDN",
+        "hotelId": "HXNYC116",
+        "geoCode": {
+          "latitude": 40.74788,
+          "longitude": -73.9895
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "116 WEST 31ST ST"
+          ]
+        },
+        "distance": {
+          "value": 4.14,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:16:17"
+      },
+      {
+        "chainCode": "NY",
+        "iataCode": "NYC",
+        "dupeId": 700012891,
+        "name": "MANHATTAN NYC AN AFFINIA HOTEL",
+        "hotelId": "NYNYC600",
+        "geoCode": {
+          "latitude": 40.74868,
+          "longitude": -73.99204
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "371 SEVENTH AVE AT 31ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.16,
+          "unit": "KM"
+        },
+        "masterChainCode": "SN",
+        "lastUpdate": "2025-06-03T10:20:26"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "JFK",
+        "dupeId": 700013273,
+        "name": "AVALON HOTEL",
+        "hotelId": "YXJFKAVA",
+        "geoCode": {
+          "latitude": 40.74654,
+          "longitude": -73.98462
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "MANHATTAN",
+          "lines": [
+            "16 E 32ND ST"
+          ]
+        },
+        "distance": {
+          "value": 4.16,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:49"
+      },
+      {
+        "chainCode": "IQ",
+        "iataCode": "NYC",
+        "dupeId": 700082450,
+        "name": "THE NEW YORK MAHATTAN HOTEL",
+        "hotelId": "IQNYC605",
+        "geoCode": {
+          "latitude": 40.74727,
+          "longitude": -73.98636
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "6 WEST 32ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.17,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:47"
+      },
+      {
+        "chainCode": "NZ",
+        "iataCode": "QFF",
+        "dupeId": 700153736,
+        "name": "THE UNION HOTEL, AN ASCEND COLL",
+        "hotelId": "NZQFF473",
+        "geoCode": {
+          "latitude": 40.67922,
+          "longitude": -73.98316
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11217",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "611 DE GRAW STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.2,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "NYC",
+        "dupeId": 501448097,
+        "name": "MANHATTAN WEST HOTEL",
+        "hotelId": "ILNYC303",
+        "geoCode": {
+          "latitude": 40.74976,
+          "longitude": -73.99539
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "303 WEST 30TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.2,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:02"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "NYC",
+        "dupeId": 700153735,
+        "name": "POINTE PLAZA HOTEL",
+        "hotelId": "DHNYCATO",
+        "geoCode": {
+          "latitude": 40.69929,
+          "longitude": -73.95911
+        },
+        "address": {
+          "countryCode": "US",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN - NY",
+          "lines": [
+            "2 FRANKLIN AVE, BROOKLYN"
+          ]
+        },
+        "distance": {
+          "value": 4.23,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700003310,
+        "name": "HOTEL PENNSYLVANIA",
+        "hotelId": "WVNYCNHP",
+        "geoCode": {
+          "latitude": 40.74989,
+          "longitude": -73.99084
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "100012062",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "401 SEVENTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.32,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:23"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "EWR",
+        "dupeId": 700148949,
+        "name": "CONDOR HOTEL",
+        "hotelId": "YXEWRCON",
+        "geoCode": {
+          "latitude": 40.69749,
+          "longitude": -73.95862
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11205",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "56 FRANKLIN AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.34,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:41"
+      },
+      {
+        "chainCode": "WW",
+        "iataCode": "NYC",
+        "dupeId": 501720874,
+        "name": "HOTEL 35 HERALD SQUARE NYC",
+        "hotelId": "WWNYC410",
+        "geoCode": {
+          "latitude": 40.74963,
+          "longitude": -73.98548
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "42 WEST 35TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.44,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:18:20"
+      },
+      {
+        "chainCode": "PW",
+        "iataCode": "NYC",
+        "dupeId": 700051445,
+        "name": "HOTEL 373 FIFTH AVENUE",
+        "hotelId": "PWNYC276",
+        "geoCode": {
+          "latitude": 40.74908,
+          "longitude": -73.9837
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "373 FIFTH AVE"
+          ]
+        },
+        "distance": {
+          "value": 4.45,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:56"
+      },
+      {
+        "chainCode": "HX",
+        "iataCode": "NYC",
+        "dupeId": 700078870,
+        "name": "HAMPTON MANHATTAN-35TH ST-EMPIRE ST BLD",
+        "hotelId": "HXNYC059",
+        "geoCode": {
+          "latitude": 40.74989,
+          "longitude": -73.98599
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "59 WEST 35TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.45,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:16:13"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 700190078,
+        "name": "COURTYARD HERALD SQ MARRIOTT",
+        "hotelId": "CYNYCMSC",
+        "geoCode": {
+          "latitude": 40.75007,
+          "longitude": -73.98629
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "71 WEST 35TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.46,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:19:10"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700183568,
+        "name": "FAIRFIELD INN N STES MARRIOTT",
+        "hotelId": "FNNYCPSF",
+        "geoCode": {
+          "latitude": 40.75226,
+          "longitude": -73.99512
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "325 WEST 33RD ST"
+          ]
+        },
+        "distance": {
+          "value": 4.48,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "GI",
+        "iataCode": "LGA",
+        "dupeId": 700116953,
+        "name": "HILTON GI NEW YORK-WEST 35TH ST",
+        "hotelId": "GILGA594",
+        "geoCode": {
+          "latitude": 40.75036,
+          "longitude": -73.98654
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10001",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "63-67 WEST 35TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.49,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:21:32"
+      },
+      {
+        "chainCode": "BW",
+        "iataCode": "NYC",
+        "dupeId": 700190074,
+        "name": "BEST WESTERN PREMIER HERALD SQ",
+        "hotelId": "BWNYC152",
+        "geoCode": {
+          "latitude": 40.75036,
+          "longitude": -73.98526
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "50 W 36TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.53,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:19:11"
+      },
+      {
+        "chainCode": "WG",
+        "iataCode": "LGA",
+        "dupeId": 700113463,
+        "name": "WINGATE MANHATTAN MIDTOWN",
+        "hotelId": "WGLGA451",
+        "geoCode": {
+          "latitude": 40.75213,
+          "longitude": -73.99111
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "100011901",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "235 WEST 35TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.55,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:17:58"
+      },
+      {
+        "chainCode": "LO",
+        "iataCode": "NYC",
+        "dupeId": 700143930,
+        "name": "LANGHAM PLACE FIFTH AVENUE",
+        "hotelId": "LONYC742",
+        "geoCode": {
+          "latitude": 40.75023,
+          "longitude": -73.98371
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "400 FIFTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.57,
+          "unit": "KM"
+        },
+        "masterChainCode": "LO",
+        "lastUpdate": "2025-06-03T10:20:26"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "NYC",
+        "dupeId": 700179275,
+        "name": "EXECUSTAY AT AURORA MIDTOWN E.",
+        "hotelId": "UZNYCAE1",
+        "geoCode": {
+          "latitude": 40.74749,
+          "longitude": -73.97691
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "556 THIRD AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.57,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:10"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700147605,
+        "name": "FAIRFIELD INN MARRIOTT 5TH AVE",
+        "hotelId": "FNNYCTMF",
+        "geoCode": {
+          "latitude": 40.75106,
+          "longitude": -73.98448
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "21 WEST 37TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.62,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "NYC",
+        "dupeId": 700179276,
+        "name": "EXECUSTAY AT THE YORK",
+        "hotelId": "UZNYCTY1",
+        "geoCode": {
+          "latitude": 40.75259,
+          "longitude": -73.98984
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "488 SEVENTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.63,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:10"
+      },
+      {
+        "chainCode": "XV",
+        "iataCode": "NYC",
+        "dupeId": 700190085,
+        "name": "SPRINGHILL STES MIDTN MARRIOTT",
+        "hotelId": "XVNYCSMS",
+        "geoCode": {
+          "latitude": 40.75119,
+          "longitude": -73.9846
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "25 WEST 37TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.63,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-24T07:11:06"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "LGA",
+        "dupeId": 700109239,
+        "name": "HOTEL LE JOLIE",
+        "hotelId": "ILLGAHLJ",
+        "geoCode": {
+          "latitude": 40.71631,
+          "longitude": -73.95086
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11211",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "235 MEEKER AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.66,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:06"
+      },
+      {
+        "chainCode": "IL",
+        "iataCode": "NYC",
+        "dupeId": 501426278,
+        "name": "TEN15NYC",
+        "hotelId": "ILNYC101",
+        "geoCode": {
+          "latitude": 40.75226,
+          "longitude": -73.98631
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1015 6TH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.69,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "UZ",
+        "iataCode": "NYC",
+        "dupeId": 700004492,
+        "name": "AMERICANA INN",
+        "hotelId": "UZNYCSLE",
+        "geoCode": {
+          "latitude": 40.75188,
+          "longitude": -73.98497
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "69 WEST 38TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.69,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:10"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "NYC",
+        "dupeId": 700006955,
+        "name": "EASTGATE TOWER",
+        "hotelId": "HSNYCAAE",
+        "geoCode": {
+          "latitude": 40.74819,
+          "longitude": -73.9749
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "222 E. 39TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.73,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:52"
+      },
+      {
+        "chainCode": "DT",
+        "iataCode": "NYC",
+        "dupeId": 700113465,
+        "name": "DBLTREE NEW YORK TIMES SQ SOUT",
+        "hotelId": "DTNYC992",
+        "geoCode": {
+          "latitude": 40.75436,
+          "longitude": -73.99402
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "341 WEST 36TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.73,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "LX",
+        "iataCode": "NYC",
+        "dupeId": 700181727,
+        "name": "REFINERY HOTEL NEW YORK",
+        "hotelId": "LXNYCRHO",
+        "geoCode": {
+          "latitude": 40.75239,
+          "longitude": -73.9852
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "63 WEST 38TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.74,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:23"
+      },
+      {
+        "chainCode": "HG",
+        "iataCode": "NYC",
+        "dupeId": 700211707,
+        "name": "HOMEWOOD NEW YORK MANHATTAN TIMES SQUARE",
+        "hotelId": "HGNYC454",
+        "geoCode": {
+          "latitude": 40.75427,
+          "longitude": -73.99308
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "312 WEST 37TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.74,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:19:48"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "NYC",
+        "dupeId": 700014180,
+        "name": "THE COURT-ST GILES PREMIER HOTEL",
+        "hotelId": "UINYC500",
+        "geoCode": {
+          "latitude": 40.74954,
+          "longitude": -73.97743
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "130 EAST 39TH STREET",
+            "BETWEEN LEXINGTON AND PARK AVE"
+          ]
+        },
+        "distance": {
+          "value": 4.74,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:03"
+      },
+      {
+        "chainCode": "RC",
+        "iataCode": "NYC",
+        "dupeId": 700070983,
+        "name": "RESIDENCE INN TIME SQ MARRIOTT",
+        "hotelId": "RCNYCRIR",
+        "geoCode": {
+          "latitude": 40.75274,
+          "longitude": -73.98563
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1033 AVENUE OF AMERICAS"
+          ]
+        },
+        "distance": {
+          "value": 4.76,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:11"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 700188561,
+        "name": "COURTYARD T-SQ WEST MARRIOTT",
+        "hotelId": "CYNYCETC",
+        "geoCode": {
+          "latitude": 40.75453,
+          "longitude": -73.99253
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "MANHATTAN",
+          "lines": [
+            "307 W 37TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.78,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:19:16"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700136808,
+        "name": "SETON HOTEL",
+        "hotelId": "YXNYCHSE",
+        "geoCode": {
+          "latitude": 40.74996,
+          "longitude": -73.97663
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "144 EAST 40TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.82,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700109433,
+        "name": "MANHATTAN BROADWAY HOTEL",
+        "hotelId": "YXNYC062",
+        "geoCode": {
+          "latitude": 40.75472,
+          "longitude": -73.99106
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "273 WEST 38TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.83,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:52"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 700101726,
+        "name": "COURTYARD FIFTH AVE MARRIOTT",
+        "hotelId": "CYNYCESC",
+        "geoCode": {
+          "latitude": 40.75209,
+          "longitude": -73.98108
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10016",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "3 EAST 40TH ST"
+          ]
+        },
+        "distance": {
+          "value": 4.85,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:00"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700050147,
+        "name": "BRYANT PARK HOTEL",
+        "hotelId": "WVNYCBRY",
+        "geoCode": {
+          "latitude": 40.75295,
+          "longitude": -73.9836
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "40 W 40TH STREET",
+            "NEW YORK"
+          ]
+        },
+        "distance": {
+          "value": 4.85,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "LE",
+        "iataCode": "NYC",
+        "dupeId": 700044239,
+        "name": "DYLAN HOTEL",
+        "hotelId": "LENYCDYL",
+        "geoCode": {
+          "latitude": 40.75166,
+          "longitude": -73.97937
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "lines": [
+            "52 EAST 41ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.87,
+          "unit": "KM"
+        },
+        "masterChainCode": "PV",
+        "lastUpdate": "2025-06-03T10:20:31"
+      },
+      {
+        "chainCode": "CY",
+        "iataCode": "NYC",
+        "dupeId": 700006362,
+        "name": "COURTYARD TIMES SQ MARRIOTT",
+        "hotelId": "CYNYCMDC",
+        "geoCode": {
+          "latitude": 40.75386,
+          "longitude": -73.98578
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "114 W 40TH ST"
+          ]
+        },
+        "distance": {
+          "value": 4.87,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:55"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "NYC",
+        "dupeId": 700101808,
+        "name": "COMFORT INN TIMES SQUARE SOUTH AREA",
+        "hotelId": "CINYC325",
+        "geoCode": {
+          "latitude": 40.75555,
+          "longitude": -73.99178
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "305 WEST 39TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.9,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:16:12"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700068836,
+        "name": "LIBRARY HOTEL",
+        "hotelId": "YXNYC523",
+        "geoCode": {
+          "latitude": 40.75212,
+          "longitude": -73.97942
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "299 MADISON AVENUE",
+            "AT EAST 41ST STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.91,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 501519033,
+        "name": "CASSA TIMES SQUARE",
+        "hotelId": "XTNYCCTS",
+        "geoCode": {
+          "latitude": 40.75612,
+          "longitude": -73.99438
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "515 NINTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 4.92,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:46"
+      },
+      {
+        "chainCode": "YO",
+        "iataCode": "NYC",
+        "dupeId": 700101970,
+        "name": "CANDLEWOOD SUITES TIME SQUARE",
+        "hotelId": "YONYC73E",
+        "geoCode": {
+          "latitude": 40.7558,
+          "longitude": -73.9923
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "339 W. 39TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.92,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:18:43"
+      },
+      {
+        "chainCode": "HH",
+        "iataCode": "NYC",
+        "dupeId": 700006414,
+        "name": "HILTON MANHATTAN EAST",
+        "hotelId": "HHNYC986",
+        "geoCode": {
+          "latitude": 40.74911,
+          "longitude": -73.9721
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "304 EAST 42ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.95,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:20:01"
+      },
+      {
+        "chainCode": "HI",
+        "iataCode": "NYC",
+        "dupeId": 700107506,
+        "name": "HOLIDAY INN EXP TIMES SQUARE",
+        "hotelId": "HINYC2A5",
+        "geoCode": {
+          "latitude": 40.75634,
+          "longitude": -73.9931
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "343 WEST 39TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.96,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:16:19"
+      },
+      {
+        "chainCode": "SI",
+        "iataCode": "NYC",
+        "dupeId": 700128200,
+        "name": "FOUR POINTS MIDTOWN TIMES SQRE",
+        "hotelId": "SINYC713",
+        "geoCode": {
+          "latitude": 40.75625,
+          "longitude": -73.99147
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "326 WEST 40TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.98,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "WI",
+        "iataCode": "NYC",
+        "dupeId": 700013411,
+        "name": "WESTIN NEW YORK GRAND CENTRAL",
+        "hotelId": "WINYC789",
+        "geoCode": {
+          "latitude": 40.75051,
+          "longitude": -73.97396
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "212 EAST 42ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.99,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:05"
+      },
+      {
+        "chainCode": "FN",
+        "iataCode": "NYC",
+        "dupeId": 700128019,
+        "name": "FAIRFIELD INN N STES MARRIOTT",
+        "hotelId": "FNNYCFIF",
+        "geoCode": {
+          "latitude": 40.75631,
+          "longitude": -73.99159
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "330 WEST 40TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.99,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "BW",
+        "iataCode": "NYC",
+        "dupeId": 700062665,
+        "name": "BEST WESTERN CONVENTION CENTER HOTEL",
+        "hotelId": "BWNYC112",
+        "geoCode": {
+          "latitude": 40.75742,
+          "longitude": -73.99842
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10018",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "522 WEST 38TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.0,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:16:26"
+      },
+      {
+        "chainCode": "GI",
+        "iataCode": "NYC",
+        "dupeId": 700217428,
+        "name": "HILTON GARDEN INN TIMES SQUARE CENTRAL",
+        "hotelId": "GINYC963",
+        "geoCode": {
+          "latitude": 40.75515,
+          "longitude": -73.9856
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "136 WEST 42ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.01,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:21:33"
+      },
+      {
+        "chainCode": "HH",
+        "iataCode": "NYC",
+        "dupeId": 700008172,
+        "name": "HILTON TIMES SQUARE",
+        "hotelId": "HHNYC234",
+        "geoCode": {
+          "latitude": 40.75624,
+          "longitude": -73.98808
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "234 WEST 42ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.06,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:20:01"
+      },
+      {
+        "chainCode": "HX",
+        "iataCode": "NYC",
+        "dupeId": 700181772,
+        "name": "HAMPTON INN MANHATTAN UNITED NATIONS",
+        "hotelId": "HXNYC897",
+        "geoCode": {
+          "latitude": 40.75095,
+          "longitude": -73.97217
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "231 EAST 43RD STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.11,
+          "unit": "KM"
+        },
+        "masterChainCode": "EH",
+        "lastUpdate": "2025-06-03T10:16:19"
+      },
+      {
+        "chainCode": "NY",
+        "iataCode": "NYC",
+        "dupeId": 700041776,
+        "name": "THE MANSFIELD HOTEL",
+        "hotelId": "NYNYCMAN",
+        "geoCode": {
+          "latitude": 40.75503,
+          "longitude": -73.98112
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "12 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.14,
+          "unit": "KM"
+        },
+        "masterChainCode": "SN",
+        "lastUpdate": "2025-06-03T10:20:26"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700007394,
+        "name": "FITZPATRICK GRAND CENTRAL HOTEL",
+        "hotelId": "YXNYCFIT",
+        "geoCode": {
+          "latitude": 40.75242,
+          "longitude": -73.97448
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "141 EAST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.14,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700064066,
+        "name": "CASABLANCA HOTEL",
+        "hotelId": "YXNYCCAS",
+        "geoCode": {
+          "latitude": 40.75652,
+          "longitude": -73.98546
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "147 WEST 43RD STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.16,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "WI",
+        "iataCode": "NYC",
+        "dupeId": 700018234,
+        "name": "WESTIN NEW YORK AT TIMES SQUARE",
+        "hotelId": "WINYC380",
+        "geoCode": {
+          "latitude": 40.7575,
+          "longitude": -73.9894
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "270 WEST 43RD STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.16,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-08-04T06:04:56"
+      },
+      {
+        "chainCode": "MU",
+        "iataCode": "NYC",
+        "dupeId": 700011654,
+        "name": "ONE UN NEW YORK",
+        "hotelId": "MUNYCHUN",
+        "geoCode": {
+          "latitude": 40.74963,
+          "longitude": -73.96861
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1 UNITED NATIONS PLAZA",
+            "44TH STREET AND 1ST AVE"
+          ]
+        },
+        "distance": {
+          "value": 5.17,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:24"
+      },
+      {
+        "chainCode": "SB",
+        "iataCode": "NYC",
+        "dupeId": 700012789,
+        "name": "SOFITEL NEW YORK",
+        "hotelId": "SBNYCSOF",
+        "geoCode": {
+          "latitude": 40.75539,
+          "longitude": -73.98144
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "45 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.17,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:29"
+      },
+      {
+        "chainCode": "WV",
+        "iataCode": "NYC",
+        "dupeId": 700064084,
+        "name": "CITY CLUB",
+        "hotelId": "WVNYC110",
+        "geoCode": {
+          "latitude": 40.75551,
+          "longitude": -73.98172
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "55 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.17,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:22"
+      },
+      {
+        "chainCode": "LX",
+        "iataCode": "NYC",
+        "dupeId": 700045669,
+        "name": "THE IROQUOIS NEW YORK",
+        "hotelId": "LXNYC858",
+        "geoCode": {
+          "latitude": 40.75545,
+          "longitude": -73.98152
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "49 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.17,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:03"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700190083,
+        "name": "HOTEL BOUTIQUE GRAND CENTRAL",
+        "hotelId": "YXNYCBGR",
+        "geoCode": {
+          "latitude": 40.75298,
+          "longitude": -73.97461
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "447 LEXINGTON AVE"
+          ]
+        },
+        "distance": {
+          "value": 5.19,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "MU",
+        "iataCode": "NYC",
+        "dupeId": 700113460,
+        "name": "THE PREMIER",
+        "hotelId": "MUNYC330",
+        "geoCode": {
+          "latitude": 40.75663,
+          "longitude": -73.98408
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "133 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.21,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:24"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "NYC",
+        "dupeId": 700180930,
+        "name": "THE BOX HOUSE HOTEL-BROOKLYN",
+        "hotelId": "YXNYCANV",
+        "geoCode": {
+          "latitude": 40.73778,
+          "longitude": -73.95366
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "11222",
+          "stateCode": "NY",
+          "cityName": "BROOKLYN",
+          "lines": [
+            "77 BOX STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.21,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:54"
+      },
+      {
+        "chainCode": "CQ",
+        "iataCode": "NYC",
+        "dupeId": 700190075,
+        "name": "CLUB QUARTERS GRAND CENTRAL",
+        "hotelId": "CQNYCCQG",
+        "geoCode": {
+          "latitude": 40.75321,
+          "longitude": -73.97439
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "128 EAST 45TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.22,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "PH",
+        "iataCode": "NYC",
+        "dupeId": 501950060,
+        "name": "AKA TIMES SQUARE",
+        "hotelId": "PHNYCATS",
+        "geoCode": {
+          "latitude": 40.75679,
+          "longitude": -73.98412
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "123 WEST 44TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.23,
+          "unit": "KM"
+        },
+        "masterChainCode": "PV",
+        "lastUpdate": "2025-06-03T10:16:48"
+      },
+      {
+        "chainCode": "CQ",
+        "iataCode": "NYC",
+        "dupeId": 700064200,
+        "name": "CLUB QUARTERS MIDTOWN",
+        "hotelId": "CQNYC558",
+        "geoCode": {
+          "latitude": 40.75587,
+          "longitude": -73.98084
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "40 WEST 45TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.24,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "WO",
+        "iataCode": "NYC",
+        "dupeId": 501932029,
+        "name": "WYNDHAM MIDTOWN 45",
+        "hotelId": "WONYCTAH",
+        "geoCode": {
+          "latitude": 40.75269,
+          "longitude": -73.97244
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "205 EAST 45TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.26,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:18:11"
+      },
+      {
+        "chainCode": "WY",
+        "iataCode": "NYC",
+        "dupeId": 700032210,
+        "name": "WYNDHAM MIDTOWN 45",
+        "hotelId": "WYNYCTAH",
+        "geoCode": {
+          "latitude": 40.75269,
+          "longitude": -73.97244
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "205 EAST 45TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.26,
+          "unit": "KM"
+        },
+        "masterChainCode": "WR",
+        "lastUpdate": "2025-06-03T10:18:28"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "NYC",
+        "dupeId": 700013700,
+        "name": "THE TRAVEL INN",
+        "hotelId": "UINYC033",
+        "geoCode": {
+          "latitude": 40.75965,
+          "longitude": -73.99664
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "515 WEST 42ND STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:03"
+      },
+      {
+        "chainCode": "IC",
+        "iataCode": "NYC",
+        "dupeId": 700141032,
+        "name": "INTERCONTINENTAL TIMES SQUARE",
+        "hotelId": "ICNYCCF8",
+        "geoCode": {
+          "latitude": 40.75854,
+          "longitude": -73.98884
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10006",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "78 WALL ST"
+          ]
+        },
+        "distance": {
+          "value": 5.29,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:20:01"
+      },
+      {
+        "chainCode": "HY",
+        "iataCode": "NYC",
+        "dupeId": 700189378,
+        "name": "HYATT TIMES SQUARE NEW YORK",
+        "hotelId": "HYNYCTSQ",
+        "geoCode": {
+          "latitude": 40.75757,
+          "longitude": -73.98403
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "135 W 45TH ST"
+          ]
+        },
+        "distance": {
+          "value": 5.31,
+          "unit": "KM"
+        },
+        "masterChainCode": "LH",
+        "lastUpdate": "2025-06-03T10:19:49"
+      },
+      {
+        "chainCode": "XT",
+        "iataCode": "NYC",
+        "dupeId": 700011588,
+        "name": "ROW HOTEL",
+        "hotelId": "XTNYCMIL",
+        "geoCode": {
+          "latitude": 40.75871,
+          "longitude": -73.98828
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "700 8TH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 5.32,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:46"
+      },
+      {
+        "chainCode": "BR",
+        "iataCode": "NYC",
+        "dupeId": 700011764,
+        "name": "RENAISSANCE TIMES SQUARE HOTEL",
+        "hotelId": "BRNYCRTB",
+        "geoCode": {
+          "latitude": 40.75818,
+          "longitude": -73.98558
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "714 SEVENTH AVENUE"
+          ]
+        },
+        "distance": {
+          "value": 5.33,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:19:28"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "NYC",
+        "dupeId": 700009925,
+        "name": "NEW YORK MARRIOTT MARQUIS",
+        "hotelId": "MCNYCMQM",
+        "geoCode": {
+          "latitude": 40.75828,
+          "longitude": -73.9856
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1535 BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 5.34,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-28T06:10:23"
+      },
+      {
+        "chainCode": "NG",
+        "iataCode": "NYC",
+        "dupeId": 501913852,
+        "name": "NIGHT HOTEL TIMES SQUARE",
+        "hotelId": "NGNYCSHN",
+        "geoCode": {
+          "latitude": 40.75932,
+          "longitude": -73.98978
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "157 WEST 47TH STREET",
+            "BETWEEN 6 - 7 AVE"
+          ]
+        },
+        "distance": {
+          "value": 5.35,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:23"
+      },
+      {
+        "chainCode": "KC",
+        "iataCode": "NYC",
+        "dupeId": 700043029,
+        "name": "THE MUSE NY A KIMPTON HOTEL",
+        "hotelId": "KCNYCMSE",
+        "geoCode": {
+          "latitude": 40.75774,
+          "longitude": -73.98307
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "130 W 46TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.36,
+          "unit": "KM"
+        },
+        "masterChainCode": "6C",
+        "lastUpdate": "2025-06-03T10:19:35"
+      },
+      {
+        "chainCode": "SI",
+        "iataCode": "EWR",
+        "dupeId": 700028244,
+        "name": "SHERATON LINCOLN HARBOR HOTEL",
+        "hotelId": "SIEWRXAY",
+        "geoCode": {
+          "latitude": 40.7593,
+          "longitude": -74.0239
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "07086",
+          "stateCode": "NJ",
+          "cityName": "WEEHAWKEN",
+          "lines": [
+            "500 HARBOR BOULEVARD"
+          ]
+        },
+        "distance": {
+          "value": 5.39,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:41"
+      },
+      {
+        "chainCode": "WH",
+        "iataCode": "NYC",
+        "dupeId": 700041443,
+        "name": "W NEW YORK TIMES SQUARE",
+        "hotelId": "WHNYC234",
+        "geoCode": {
+          "latitude": 40.75927,
+          "longitude": -73.98513
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10036",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "1567 BROADWAY"
+          ]
+        },
+        "distance": {
+          "value": 5.46,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:18:01"
+      },
+      {
+        "chainCode": "RC",
+        "iataCode": "NYC",
+        "dupeId": 700008088,
+        "name": "RESIDENCE INN MIDTOWN MARRIOTT",
+        "hotelId": "RCNYCHAR",
+        "geoCode": {
+          "latitude": 40.75502,
+          "longitude": -73.97286
+        },
+        "address": {
+          "countryCode": "US",
+          "postalCode": "10017",
+          "stateCode": "NY",
+          "cityName": "NEW YORK",
+          "lines": [
+            "148 EAST 48TH STREET"
+          ]
+        },
+        "distance": {
+          "value": 5.46,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-06-03T10:17:11"
+      }
+    ],
+    "meta": {
+      "count": 191,
+      "links": {
+        "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode?latitude=40.7128&longitude=-74.006&radius=5&radiusUnit=KM"
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 from fastapi import FastAPI
-from hotels import router 
+from hotels import router
+
 app = FastAPI()
 
-# Include your hotels router
+# Include the hotels router
 app.include_router(router)
