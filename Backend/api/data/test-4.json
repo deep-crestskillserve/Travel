@@ -1,0 +1,137 @@
+{
+  "status": 200,
+  "response": {
+    "data": [
+      {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700053350,
+        "name": "EXPOSITION EIFFEL",
+        "hotelId": "HSPARAUT",
+        "geoCode": {
+          "latitude": 48.84891,
+          "longitude": 2.28769
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "42 BIS RUE DU THEATRE"
+          ]
+        },
+        "distance": {
+          "value": 1.16,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:02"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700136597,
+        "name": "SAINT HONORE HOTEL",
+        "hotelId": "HSPARCCF",
+        "geoCode": {
+          "latitude": 48.8612,
+          "longitude": 2.34367
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "RUE SAINT HONORE 85"
+          ]
+        },
+        "distance": {
+          "value": 3.61,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:02"
+      },
+      {
+        "chainCode": "RT",
+        "iataCode": "PAR",
+        "dupeId": 700043120,
+        "name": "MERCURE LA SORBONNE ST GERMAIN",
+        "hotelId": "RTPARSOR",
+        "geoCode": {
+          "latitude": 48.84917,
+          "longitude": 2.34301
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "14 RUE DE LA SORBONNE"
+          ]
+        },
+        "distance": {
+          "value": 3.69,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:23"
+      },
+      {
+        "chainCode": "HN",
+        "iataCode": "PAR",
+        "dupeId": 502345066,
+        "name": "TEST PROPERTY FOR AZURE MIGRATION HOS AN",
+        "hotelId": "HNPARSPC",
+        "geoCode": {
+          "latitude": 48.85315,
+          "longitude": 2.34513
+        },
+        "address": {
+          "countryCode": "IN",
+          "postalCode": "560083",
+          "stateCode": "KA",
+          "cityName": "Bellary",
+          "lines": [
+            "TEST LINE ONE  NOW ADDRESS",
+            "TEST LINE TWO NOW ADDRESS"
+          ]
+        },
+        "distance": {
+          "value": 3.75,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-12T10:47:51"
+      },
+      {
+        "chainCode": "RT",
+        "iataCode": "PAR",
+        "dupeId": 700092536,
+        "name": "IBIS PARIS PONT DE SURESNES",
+        "hotelId": "RTPARBOU",
+        "geoCode": {
+          "latitude": 48.86835,
+          "longitude": 2.22718
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "92150",
+          "cityName": "SURESNES",
+          "lines": [
+            "6 RUE DES BOURETS"
+          ]
+        },
+        "distance": {
+          "value": 5.05,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:22"
+      }
+    ],
+    "meta": {
+      "count": 5,
+      "links": {
+        "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode?amenities=GOLF,AIR_CONDITIONING,BUSINESS_CENTER,AIRPORT_SHUTTLE&latitude=48.8584&longitude=2.2945&radius=5&radiusUnit=KM"
+      }
+    }
+  }
+}

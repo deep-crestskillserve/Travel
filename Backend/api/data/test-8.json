@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "response": {
+    "data": [
+      {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700053350,
+        "name": "EXPOSITION EIFFEL",
+        "hotelId": "HSPARAUT",
+        "geoCode": {
+          "latitude": 48.84891,
+          "longitude": 2.28769
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "42 BIS RUE DU THEATRE"
+          ]
+        },
+        "distance": {
+          "value": 1.16,
+          "unit": "KM"
+        },
+        "rating": 5,
+        "lastUpdate": "2025-06-03T10:21:02"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700136597,
+        "name": "SAINT HONORE HOTEL",
+        "hotelId": "HSPARCCF",
+        "geoCode": {
+          "latitude": 48.8612,
+          "longitude": 2.34367
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "RUE SAINT HONORE 85"
+          ]
+        },
+        "distance": {
+          "value": 3.61,
+          "unit": "KM"
+        },
+        "rating": 5,
+        "lastUpdate": "2025-06-03T10:21:02"
+      }
+    ],
+    "meta": {
+      "count": 2,
+      "links": {
+        "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode?amenities=GOLF,AIR_CONDITIONING,BUSINESS_CENTER,AIRPORT_SHUTTLE&latitude=48.8584&longitude=2.2945&radius=5&radiusUnit=KM&ratings=5,4"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "response": {
+    "status": "success",
+    "hotels": [],
+    "message": "No hotels found for coordinates 11.557, 92.241"
+  }
+}

@@ -28,6 +28,31 @@
         "lastUpdate": "2025-08-01T09:00:19"
       },
       {
+        "chainCode": "HN",
+        "iataCode": "PAR",
+        "dupeId": 502389666,
+        "name": "HN TEST PROPERTY FOR HCR EVACUATION REHE",
+        "hotelId": "HNPARJLC",
+        "geoCode": {
+          "latitude": 48.8584,
+          "longitude": 2.2945
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "47400",
+          "cityName": "Paris",
+          "lines": [
+            "2314 STANLEY RD",
+            "SCHOEMAN ST"
+          ]
+        },
+        "distance": {
+          "value": 0.0,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-01T09:00:19"
+      },
+      {
         "chainCode": "OI",
         "iataCode": "PAR",
         "dupeId": 502389732,
@@ -56,32 +81,6 @@
       {
         "chainCode": "OI",
         "iataCode": "PAR",
-        "dupeId": 502389665,
-        "name": "LK TEST PROPERTY1 FOR PROPERTY SEARCH FU",
-        "hotelId": "OIPAR47X",
-        "geoCode": {
-          "latitude": 48.8584,
-          "longitude": 2.2945
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "47400",
-          "cityName": "Paris",
-          "lines": [
-            "2314 STANLEY RD",
-            "SCHOEMAN ST"
-          ]
-        },
-        "distance": {
-          "value": 0.0,
-          "unit": "KM"
-        },
-        "masterChainCode": "LK",
-        "lastUpdate": "2025-08-01T09:00:19"
-      },
-      {
-        "chainCode": "OI",
-        "iataCode": "PAR",
         "dupeId": 502389770,
         "name": "BEST HOTEL BY HOUSE OF TRAVEL",
         "hotelId": "OIPAR6AK",
@@ -106,11 +105,11 @@
         "lastUpdate": "2025-08-08T09:00:06"
       },
       {
-        "chainCode": "HN",
+        "chainCode": "OI",
         "iataCode": "PAR",
-        "dupeId": 502389666,
+        "dupeId": 502389679,
         "name": "HN TEST PROPERTY FOR HCR EVACUATION REHE",
-        "hotelId": "HNPARJLC",
+        "hotelId": "OIPAR1PK",
         "geoCode": {
           "latitude": 48.8584,
           "longitude": 2.2945
@@ -128,14 +127,15 @@
           "value": 0.0,
           "unit": "KM"
         },
+        "masterChainCode": "LK",
         "lastUpdate": "2025-08-01T09:00:19"
       },
       {
         "chainCode": "OI",
         "iataCode": "PAR",
-        "dupeId": 502389679,
-        "name": "HN TEST PROPERTY FOR HCR EVACUATION REHE",
-        "hotelId": "OIPAR1PK",
+        "dupeId": 502389665,
+        "name": "LK TEST PROPERTY1 FOR PROPERTY SEARCH FU",
+        "hotelId": "OIPAR47X",
         "geoCode": {
           "latitude": 48.8584,
           "longitude": 2.2945
@@ -861,6 +861,30 @@
         "lastUpdate": "2025-06-03T10:21:04"
       },
       {
+        "chainCode": "EU",
+        "iataCode": "PAR",
+        "dupeId": 700051487,
+        "name": "EXCLUSIVE SPLENDID EIFFEL",
+        "hotelId": "EUPAR838",
+        "geoCode": {
+          "latitude": 48.85391,
+          "longitude": 2.30723
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "29 AVENUE DE TOURVILLE"
+          ]
+        },
+        "distance": {
+          "value": 1.05,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:54"
+      },
+      {
         "chainCode": "RD",
         "iataCode": "PAR",
         "dupeId": 700013754,
@@ -886,28 +910,28 @@
         "lastUpdate": "2025-06-03T10:17:14"
       },
       {
-        "chainCode": "EU",
+        "chainCode": "YX",
         "iataCode": "PAR",
-        "dupeId": 700051487,
-        "name": "EXCLUSIVE SPLENDID EIFFEL",
-        "hotelId": "EUPAR838",
+        "dupeId": 501528354,
+        "name": "LE CINQ CODET PARIS",
+        "hotelId": "YXPARLCC",
         "geoCode": {
-          "latitude": 48.85391,
-          "longitude": 2.30723
+          "latitude": 48.85509,
+          "longitude": 2.30825
         },
         "address": {
           "countryCode": "FR",
           "postalCode": "75007",
           "cityName": "PARIS",
           "lines": [
-            "29 AVENUE DE TOURVILLE"
+            "5 RUE LOUIS CODET"
           ]
         },
         "distance": {
-          "value": 1.05,
+          "value": 1.07,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:19:54"
+        "lastUpdate": "2025-06-03T10:18:58"
       },
       {
         "chainCode": "BW",
@@ -933,30 +957,6 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:16:18"
-      },
-      {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 501528354,
-        "name": "LE CINQ CODET PARIS",
-        "hotelId": "YXPARLCC",
-        "geoCode": {
-          "latitude": 48.85509,
-          "longitude": 2.30825
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75007",
-          "cityName": "PARIS",
-          "lines": [
-            "5 RUE LOUIS CODET"
-          ]
-        },
-        "distance": {
-          "value": 1.07,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:58"
       },
       {
         "chainCode": "HS",
@@ -1226,6 +1226,30 @@
         "lastUpdate": "2025-06-03T10:16:45"
       },
       {
+        "chainCode": "SM",
+        "iataCode": "PAR",
+        "dupeId": 700029552,
+        "name": "MELIA ROYAL ALMA",
+        "hotelId": "SMPARALM",
+        "geoCode": {
+          "latitude": 48.86554,
+          "longitude": 2.30533
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75008",
+          "cityName": "PARIS",
+          "lines": [
+            "35 RUE JEAN GOUJON"
+          ]
+        },
+        "distance": {
+          "value": 1.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
         "chainCode": "LE",
         "iataCode": "PAR",
         "dupeId": 700024153,
@@ -1249,30 +1273,6 @@
         },
         "masterChainCode": "PV",
         "lastUpdate": "2025-06-03T10:20:31"
-      },
-      {
-        "chainCode": "SM",
-        "iataCode": "PAR",
-        "dupeId": 700029552,
-        "name": "MELIA ROYAL ALMA",
-        "hotelId": "SMPARALM",
-        "geoCode": {
-          "latitude": 48.86554,
-          "longitude": 2.30533
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75008",
-          "cityName": "PARIS",
-          "lines": [
-            "35 RUE JEAN GOUJON"
-          ]
-        },
-        "distance": {
-          "value": 1.12,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:38"
       },
       {
         "chainCode": "HS",
@@ -1988,30 +1988,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700058497,
-        "name": "CYRNOS",
-        "hotelId": "ACPAR458",
-        "geoCode": {
-          "latitude": 48.86447,
-          "longitude": 2.27803
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75002",
-          "cityName": "PARIS",
-          "lines": [
-            "154, RUE MONTMARTRE"
-          ]
-        },
-        "distance": {
-          "value": 1.38,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:00"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700092130,
         "name": "VILLA GLAMOUR TOUR EIFFEL",
         "hotelId": "ACPAR455",
@@ -2032,6 +2008,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:59"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700058497,
+        "name": "CYRNOS",
+        "hotelId": "ACPAR458",
+        "geoCode": {
+          "latitude": 48.86447,
+          "longitude": 2.27803
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75002",
+          "cityName": "PARIS",
+          "lines": [
+            "154, RUE MONTMARTRE"
+          ]
+        },
+        "distance": {
+          "value": 1.38,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
       },
       {
         "chainCode": "CH",
@@ -2058,6 +2058,30 @@
         "lastUpdate": "2025-06-03T10:16:19"
       },
       {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700033056,
+        "name": "BEAUGRENELLE ST-CHARLES TOUR",
+        "hotelId": "YXPAR032",
+        "geoCode": {
+          "latitude": 48.84721,
+          "longitude": 2.28592
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "82 RUE SAINT-CHARLES"
+          ]
+        },
+        "distance": {
+          "value": 1.39,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:00"
+      },
+      {
         "chainCode": "BW",
         "iataCode": "PAR",
         "dupeId": 700054617,
@@ -2081,30 +2105,6 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:17:29"
-      },
-      {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700033056,
-        "name": "BEAUGRENELLE ST-CHARLES TOUR",
-        "hotelId": "YXPAR032",
-        "geoCode": {
-          "latitude": 48.84721,
-          "longitude": 2.28592
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75015",
-          "cityName": "PARIS",
-          "lines": [
-            "82 RUE SAINT-CHARLES"
-          ]
-        },
-        "distance": {
-          "value": 1.39,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:00"
       },
       {
         "chainCode": "WV",
@@ -2795,28 +2795,29 @@
         "lastUpdate": "2025-06-03T10:18:57"
       },
       {
-        "chainCode": "UI",
+        "chainCode": "LE",
         "iataCode": "PAR",
-        "dupeId": 700027006,
-        "name": "CHATEAUBRIAND HOTEL",
-        "hotelId": "UIPARWCH",
+        "dupeId": 700062184,
+        "name": "HOTEL BOURGOGNE ET MONTANA",
+        "hotelId": "LEPARBOU",
         "geoCode": {
-          "latitude": 48.87323,
-          "longitude": 2.30233
+          "latitude": 48.86021,
+          "longitude": 2.3182
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75008",
+          "postalCode": "75007",
           "cityName": "PARIS",
           "lines": [
-            "6, RUE CHATEAUBRIAND"
+            "3 RUE DE BOURGOGNE"
           ]
         },
         "distance": {
           "value": 1.74,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:18:02"
+        "masterChainCode": "PV",
+        "lastUpdate": "2025-06-03T10:20:31"
       },
       {
         "chainCode": "YX",
@@ -2843,29 +2844,28 @@
         "lastUpdate": "2025-06-03T10:18:57"
       },
       {
-        "chainCode": "LE",
+        "chainCode": "UI",
         "iataCode": "PAR",
-        "dupeId": 700062184,
-        "name": "HOTEL BOURGOGNE ET MONTANA",
-        "hotelId": "LEPARBOU",
+        "dupeId": 700027006,
+        "name": "CHATEAUBRIAND HOTEL",
+        "hotelId": "UIPARWCH",
         "geoCode": {
-          "latitude": 48.86021,
-          "longitude": 2.3182
+          "latitude": 48.87323,
+          "longitude": 2.30233
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75007",
+          "postalCode": "75008",
           "cityName": "PARIS",
           "lines": [
-            "3 RUE DE BOURGOGNE"
+            "6, RUE CHATEAUBRIAND"
           ]
         },
         "distance": {
           "value": 1.74,
           "unit": "KM"
         },
-        "masterChainCode": "PV",
-        "lastUpdate": "2025-06-03T10:20:31"
+        "lastUpdate": "2025-06-03T10:18:02"
       },
       {
         "chainCode": "WB",
@@ -3497,30 +3497,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700021957,
-        "name": "BALMORAL",
-        "hotelId": "ACPARE72",
-        "geoCode": {
-          "latitude": 48.87605,
-          "longitude": 2.29381
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "6 RUE DU GENERAL LANREZAC"
-          ]
-        },
-        "distance": {
-          "value": 1.96,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:14"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700076367,
         "name": "ARLEY TOUR EIFFEL",
         "hotelId": "ACPARE74",
@@ -3541,6 +3517,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:09"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700021957,
+        "name": "BALMORAL",
+        "hotelId": "ACPARE72",
+        "geoCode": {
+          "latitude": 48.87605,
+          "longitude": 2.29381
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "6 RUE DU GENERAL LANREZAC"
+          ]
+        },
+        "distance": {
+          "value": 1.96,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:14"
       },
       {
         "chainCode": "VP",
@@ -3593,30 +3593,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700092064,
-        "name": "EMPEREUR",
-        "hotelId": "ACPAR147",
-        "geoCode": {
-          "latitude": 48.87616,
-          "longitude": 2.2931
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75007",
-          "cityName": "PARIS",
-          "lines": [
-            "2 RUE CHEVERT"
-          ]
-        },
-        "distance": {
-          "value": 1.97,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:05"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700046494,
         "name": "STELLA ETOILE",
         "hotelId": "ACPAR130",
@@ -3637,6 +3613,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:21"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700092064,
+        "name": "EMPEREUR",
+        "hotelId": "ACPAR147",
+        "geoCode": {
+          "latitude": 48.87616,
+          "longitude": 2.2931
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "2 RUE CHEVERT"
+          ]
+        },
+        "distance": {
+          "value": 1.97,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:05"
       },
       {
         "chainCode": "AC",
@@ -3833,30 +3833,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700045507,
-        "name": "ALEXANDRINE OPERA",
-        "hotelId": "ACPARF08",
-        "geoCode": {
-          "latitude": 48.87569,
-          "longitude": 2.28632
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75008",
-          "cityName": "PARIS",
-          "lines": [
-            "10 RUE DE MOSCOU"
-          ]
-        },
-        "distance": {
-          "value": 2.01,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:09"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700011037,
         "name": "PERGOLESE",
         "hotelId": "ACPARF07",
@@ -3877,6 +3853,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:21:57"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700045507,
+        "name": "ALEXANDRINE OPERA",
+        "hotelId": "ACPARF08",
+        "geoCode": {
+          "latitude": 48.87569,
+          "longitude": 2.28632
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75008",
+          "cityName": "PARIS",
+          "lines": [
+            "10 RUE DE MOSCOU"
+          ]
+        },
+        "distance": {
+          "value": 2.01,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:09"
       },
       {
         "chainCode": "AC",
@@ -4366,54 +4366,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700029531,
-        "name": "HOTEL SQUARE D'ANVERS",
-        "hotelId": "ACPAR431",
-        "geoCode": {
-          "latitude": 48.83981,
-          "longitude": 2.28476
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "6 PLACE D'ANVERS"
-          ]
-        },
-        "distance": {
-          "value": 2.18,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:35"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700061451,
-        "name": "SAINT GERMAIN DES PRES",
-        "hotelId": "ACPAR429",
-        "geoCode": {
-          "latitude": 48.83981,
-          "longitude": 2.28476
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "PARIS",
-          "lines": [
-            "36, RUE BONAPART"
-          ]
-        },
-        "distance": {
-          "value": 2.18,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:25"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700010271,
         "name": "AMADEUS MON REVE",
         "hotelId": "ACPAR420",
@@ -4434,6 +4386,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700029531,
+        "name": "HOTEL SQUARE D'ANVERS",
+        "hotelId": "ACPAR431",
+        "geoCode": {
+          "latitude": 48.83981,
+          "longitude": 2.28476
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "6 PLACE D'ANVERS"
+          ]
+        },
+        "distance": {
+          "value": 2.18,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:35"
       },
       {
         "chainCode": "EU",
@@ -4462,6 +4438,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700156318,
+        "name": "MODERN",
+        "hotelId": "ACPAR435",
+        "geoCode": {
+          "latitude": 48.83981,
+          "longitude": 2.28476
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75011",
+          "cityName": "PARIS",
+          "lines": [
+            "121, RUE DU CHEMIN VERT"
+          ]
+        },
+        "distance": {
+          "value": 2.18,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700058799,
         "name": "EXCELSIOR REPUBLIQUE",
         "hotelId": "ACPAR428",
@@ -4486,26 +4486,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700156318,
-        "name": "MODERN",
-        "hotelId": "ACPAR435",
+        "dupeId": 700061451,
+        "name": "SAINT GERMAIN DES PRES",
+        "hotelId": "ACPAR429",
         "geoCode": {
           "latitude": 48.83981,
           "longitude": 2.28476
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75011",
+          "postalCode": "75006",
           "cityName": "PARIS",
           "lines": [
-            "121, RUE DU CHEMIN VERT"
+            "36, RUE BONAPART"
           ]
         },
         "distance": {
           "value": 2.18,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:00"
+        "lastUpdate": "2025-06-03T10:17:25"
       },
       {
         "chainCode": "HS",
@@ -4584,31 +4584,6 @@
       {
         "chainCode": "BW",
         "iataCode": "PAR",
-        "dupeId": 700076363,
-        "name": "BW SEVRES MONTPARNASSE",
-        "hotelId": "BWPAR740",
-        "geoCode": {
-          "latitude": 48.84384,
-          "longitude": 2.31562
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75015",
-          "cityName": "PARIS",
-          "lines": [
-            "153  RUE DE VAUGIRARD"
-          ]
-        },
-        "distance": {
-          "value": 2.24,
-          "unit": "KM"
-        },
-        "masterChainCode": "EW",
-        "lastUpdate": "2025-06-03T10:17:19"
-      },
-      {
-        "chainCode": "BW",
-        "iataCode": "PAR",
         "dupeId": 700009319,
         "name": "BW PREMIER LE CARRE FOLIES",
         "hotelId": "BWPAR748",
@@ -4630,6 +4605,31 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:17:13"
+      },
+      {
+        "chainCode": "BW",
+        "iataCode": "PAR",
+        "dupeId": 700076363,
+        "name": "BW SEVRES MONTPARNASSE",
+        "hotelId": "BWPAR740",
+        "geoCode": {
+          "latitude": 48.84384,
+          "longitude": 2.31562
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "153  RUE DE VAUGIRARD"
+          ]
+        },
+        "distance": {
+          "value": 2.24,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:17:19"
       },
       {
         "chainCode": "AC",
@@ -4682,54 +4682,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700132733,
-        "name": "DU LION D'OR LOUVRE",
-        "hotelId": "ACPAR983",
-        "geoCode": {
-          "latitude": 48.84219,
-          "longitude": 2.31292
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "PARIS",
-          "lines": [
-            "5 RUE DE LA SOURDIERE"
-          ]
-        },
-        "distance": {
-          "value": 2.25,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:28"
-      },
-      {
-        "chainCode": "HS",
-        "iataCode": "PAR",
-        "dupeId": 700007437,
-        "name": "FLORIDOR ETOILE",
-        "hotelId": "HSPARBVT",
-        "geoCode": {
-          "latitude": 48.87864,
-          "longitude": 2.29419
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "AVENUE DES TERNES 35"
-          ]
-        },
-        "distance": {
-          "value": 2.25,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:21:02"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700008672,
         "name": "HOTEL INNOVA",
         "hotelId": "ACPAR971",
@@ -4754,6 +4706,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700132733,
+        "name": "DU LION D'OR LOUVRE",
+        "hotelId": "ACPAR983",
+        "geoCode": {
+          "latitude": 48.84219,
+          "longitude": 2.31292
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "5 RUE DE LA SOURDIERE"
+          ]
+        },
+        "distance": {
+          "value": 2.25,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:28"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700132735,
         "name": "DU PALAIS BOURBON",
         "hotelId": "ACPAR984",
@@ -4774,6 +4750,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:01"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700007437,
+        "name": "FLORIDOR ETOILE",
+        "hotelId": "HSPARBVT",
+        "geoCode": {
+          "latitude": 48.87864,
+          "longitude": 2.29419
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "AVENUE DES TERNES 35"
+          ]
+        },
+        "distance": {
+          "value": 2.25,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:02"
       },
       {
         "chainCode": "HI",
@@ -4975,26 +4975,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700020651,
-        "name": "NOVANOX MONTPARNASSE",
-        "hotelId": "ACPAR244",
+        "dupeId": 700092033,
+        "name": "FRANCE QUARTIER LATIN",
+        "hotelId": "ACPAR208",
         "geoCode": {
           "latitude": 48.87905,
           "longitude": 2.29232
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75006",
+          "postalCode": "75005",
           "cityName": "PARIS",
           "lines": [
-            "155 BD DU MONTPARNASSE"
+            "108 RUE MONGE"
           ]
         },
         "distance": {
           "value": 2.3,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:28"
+        "lastUpdate": "2025-06-03T10:15:59"
       },
       {
         "chainCode": "AC",
@@ -5023,54 +5023,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700062007,
-        "name": "VENDOME SAINT GERMAIN",
-        "hotelId": "ACPAR240",
-        "geoCode": {
-          "latitude": 48.87905,
-          "longitude": 2.29232
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "8, RUE D'ARRAS"
-          ]
-        },
-        "distance": {
-          "value": 2.3,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:00"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700092033,
-        "name": "FRANCE QUARTIER LATIN",
-        "hotelId": "ACPAR208",
-        "geoCode": {
-          "latitude": 48.87905,
-          "longitude": 2.29232
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "108 RUE MONGE"
-          ]
-        },
-        "distance": {
-          "value": 2.3,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:15:59"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700043762,
         "name": "FIVE HOTEL",
         "hotelId": "ACPAR199",
@@ -5095,30 +5047,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700058597,
-        "name": "DE NOTRE DAME",
-        "hotelId": "ACPAR243",
-        "geoCode": {
-          "latitude": 48.87905,
-          "longitude": 2.29232
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "19, RUE MAITRE ALBERT"
-          ]
-        },
-        "distance": {
-          "value": 2.3,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:19"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700004285,
         "name": "ATELIER MONTPARNASSE",
         "hotelId": "ACPAR245",
@@ -5139,6 +5067,78 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:52"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700062007,
+        "name": "VENDOME SAINT GERMAIN",
+        "hotelId": "ACPAR240",
+        "geoCode": {
+          "latitude": 48.87905,
+          "longitude": 2.29232
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "8, RUE D'ARRAS"
+          ]
+        },
+        "distance": {
+          "value": 2.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700020651,
+        "name": "NOVANOX MONTPARNASSE",
+        "hotelId": "ACPAR244",
+        "geoCode": {
+          "latitude": 48.87905,
+          "longitude": 2.29232
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75006",
+          "cityName": "PARIS",
+          "lines": [
+            "155 BD DU MONTPARNASSE"
+          ]
+        },
+        "distance": {
+          "value": 2.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:28"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700058597,
+        "name": "DE NOTRE DAME",
+        "hotelId": "ACPAR243",
+        "geoCode": {
+          "latitude": 48.87905,
+          "longitude": 2.29232
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "19, RUE MAITRE ALBERT"
+          ]
+        },
+        "distance": {
+          "value": 2.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:19"
       },
       {
         "chainCode": "FG",
@@ -5240,30 +5240,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700092028,
-        "name": "VILLA MAZARIN PARIS",
-        "hotelId": "ACPARB25",
-        "geoCode": {
-          "latitude": 48.87105,
-          "longitude": 2.32037
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75004",
-          "cityName": "PARIS",
-          "lines": [
-            "6 RUE DES ARCHIVES"
-          ]
-        },
-        "distance": {
-          "value": 2.36,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:59"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700056601,
         "name": "ALISON",
         "hotelId": "ACPARALI",
@@ -5284,6 +5260,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:05"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700092028,
+        "name": "VILLA MAZARIN PARIS",
+        "hotelId": "ACPARB25",
+        "geoCode": {
+          "latitude": 48.87105,
+          "longitude": 2.32037
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75004",
+          "cityName": "PARIS",
+          "lines": [
+            "6 RUE DES ARCHIVES"
+          ]
+        },
+        "distance": {
+          "value": 2.36,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:59"
       },
       {
         "chainCode": "AC",
@@ -5923,30 +5923,6 @@
         "lastUpdate": "2025-06-27T09:00:04"
       },
       {
-        "chainCode": "MO",
-        "iataCode": "PAR",
-        "dupeId": 700148340,
-        "name": "MANDARIN ORIENTAL PARIS",
-        "hotelId": "MOPARMOP",
-        "geoCode": {
-          "latitude": 48.86741,
-          "longitude": 2.32626
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "PARIS",
-          "lines": [
-            "251 RUE SAINT-HONORE"
-          ]
-        },
-        "distance": {
-          "value": 2.53,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:20:32"
-      },
-      {
         "chainCode": "UI",
         "iataCode": "PAR",
         "dupeId": 700024373,
@@ -5969,6 +5945,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:02"
+      },
+      {
+        "chainCode": "MO",
+        "iataCode": "PAR",
+        "dupeId": 700148340,
+        "name": "MANDARIN ORIENTAL PARIS",
+        "hotelId": "MOPARMOP",
+        "geoCode": {
+          "latitude": 48.86741,
+          "longitude": 2.32626
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "251 RUE SAINT-HONORE"
+          ]
+        },
+        "distance": {
+          "value": 2.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:32"
       },
       {
         "chainCode": "XK",
@@ -6120,30 +6120,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700048009,
-        "name": "MASSENA",
-        "hotelId": "ACPAR675",
-        "geoCode": {
-          "latitude": 48.83553,
-          "longitude": 2.30234
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75008",
-          "cityName": "PARIS",
-          "lines": [
-            "16, RUE TRONCHET"
-          ]
-        },
-        "distance": {
-          "value": 2.6,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:15:58"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700061450,
         "name": "SAINT CHRISTOPHE",
         "hotelId": "ACPAR689",
@@ -6188,6 +6164,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:21:06"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700048009,
+        "name": "MASSENA",
+        "hotelId": "ACPAR675",
+        "geoCode": {
+          "latitude": 48.83553,
+          "longitude": 2.30234
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75008",
+          "cityName": "PARIS",
+          "lines": [
+            "16, RUE TRONCHET"
+          ]
+        },
+        "distance": {
+          "value": 2.6,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:15:58"
       },
       {
         "chainCode": "FG",
@@ -6290,30 +6290,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700055637,
-        "name": "VILLA DU MAINE",
-        "hotelId": "ACPAR447",
-        "geoCode": {
-          "latitude": 48.85641,
-          "longitude": 2.3302
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75014",
-          "cityName": "PARIS",
-          "lines": [
-            "20 RUE LEDION"
-          ]
-        },
-        "distance": {
-          "value": 2.62,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:00"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700056830,
         "name": "AVENIR",
         "hotelId": "ACPAR445",
@@ -6334,6 +6310,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:56"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700055637,
+        "name": "VILLA DU MAINE",
+        "hotelId": "ACPAR447",
+        "geoCode": {
+          "latitude": 48.85641,
+          "longitude": 2.3302
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75014",
+          "cityName": "PARIS",
+          "lines": [
+            "20 RUE LEDION"
+          ]
+        },
+        "distance": {
+          "value": 2.62,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
       },
       {
         "chainCode": "YX",
@@ -6362,30 +6362,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700061455,
-        "name": "SAINT THOMAS D AQUIN",
-        "hotelId": "ACPAR416",
-        "geoCode": {
-          "latitude": 48.8566,
-          "longitude": 2.33027
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75007",
-          "cityName": "PARIS",
-          "lines": [
-            "3, RUE DU PRE AUX CLERCS"
-          ]
-        },
-        "distance": {
-          "value": 2.62,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:23"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700140792,
         "name": "LE NOTRE DAME",
         "hotelId": "ACPAR419",
@@ -6406,6 +6382,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:34"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700061455,
+        "name": "SAINT THOMAS D AQUIN",
+        "hotelId": "ACPAR416",
+        "geoCode": {
+          "latitude": 48.8566,
+          "longitude": 2.33027
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "3, RUE DU PRE AUX CLERCS"
+          ]
+        },
+        "distance": {
+          "value": 2.62,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:23"
       },
       {
         "chainCode": "ON",
@@ -6430,6 +6430,54 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:21:30"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700163556,
+        "name": "DELAMBRE MONTPARNASSE",
+        "hotelId": "ACPARA11",
+        "geoCode": {
+          "latitude": 48.85676,
+          "longitude": 2.33041
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75014",
+          "cityName": "PARIS",
+          "lines": [
+            "35 RUE DELAMBRE"
+          ]
+        },
+        "distance": {
+          "value": 2.63,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700143666,
+        "name": "LENOX SAINT GERMAIN",
+        "hotelId": "ACPARA04",
+        "geoCode": {
+          "latitude": 48.85676,
+          "longitude": 2.33041
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "9 RUE DE L'UNIVERSITE"
+          ]
+        },
+        "distance": {
+          "value": 2.63,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:38"
       },
       {
         "chainCode": "AC",
@@ -6530,30 +6578,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700163556,
-        "name": "DELAMBRE MONTPARNASSE",
-        "hotelId": "ACPARA11",
-        "geoCode": {
-          "latitude": 48.85676,
-          "longitude": 2.33041
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75014",
-          "cityName": "PARIS",
-          "lines": [
-            "35 RUE DELAMBRE"
-          ]
-        },
-        "distance": {
-          "value": 2.63,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:38"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700132669,
         "name": "CRISTAL CHAMPS ELYSEES",
         "hotelId": "ACPARA10",
@@ -6567,30 +6591,6 @@
           "cityName": "PARIS",
           "lines": [
             "9 RUE DE WASHINGTON"
-          ]
-        },
-        "distance": {
-          "value": 2.63,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:38"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700143666,
-        "name": "LENOX SAINT GERMAIN",
-        "hotelId": "ACPARA04",
-        "geoCode": {
-          "latitude": 48.85676,
-          "longitude": 2.33041
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75007",
-          "cityName": "PARIS",
-          "lines": [
-            "9 RUE DE L'UNIVERSITE"
           ]
         },
         "distance": {
@@ -6698,6 +6698,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700056515,
+        "name": "ACADEMIE SAINT GERMAIN",
+        "hotelId": "ACPARA73",
+        "geoCode": {
+          "latitude": 48.85535,
+          "longitude": 2.33085
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "32 RUE DES SAINTES PERES"
+          ]
+        },
+        "distance": {
+          "value": 2.68,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:45"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700041978,
         "name": "ACACIAS ETOILE",
         "hotelId": "ACPARA87",
@@ -6735,30 +6759,6 @@
           "cityName": "PARIS",
           "lines": [
             "7 RUE DE BELLOY"
-          ]
-        },
-        "distance": {
-          "value": 2.68,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:45"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700056515,
-        "name": "ACADEMIE SAINT GERMAIN",
-        "hotelId": "ACPARA73",
-        "geoCode": {
-          "latitude": 48.85535,
-          "longitude": 2.33085
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75007",
-          "cityName": "PARIS",
-          "lines": [
-            "32 RUE DES SAINTES PERES"
           ]
         },
         "distance": {
@@ -7428,6 +7428,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700031484,
+        "name": "BASILE",
+        "hotelId": "ACPARD69",
+        "geoCode": {
+          "latitude": 48.87148,
+          "longitude": 2.32713
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "23 RUE GODOT DE MAUROY"
+          ]
+        },
+        "distance": {
+          "value": 2.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:24"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700076381,
         "name": "SUBLIM EIFFEL",
         "hotelId": "ACPARD97",
@@ -7476,50 +7500,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700031484,
-        "name": "BASILE",
-        "hotelId": "ACPARD69",
+        "dupeId": 700049063,
+        "name": "HOTEL RESIDENCE EUROPE",
+        "hotelId": "ACPAR733",
         "geoCode": {
-          "latitude": 48.87148,
-          "longitude": 2.32713
+          "latitude": 48.87321,
+          "longitude": 2.32541
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
+          "postalCode": "92110",
+          "cityName": "CLICHY",
           "lines": [
-            "23 RUE GODOT DE MAUROY"
+            "52, BD GENERAL LECLERC"
           ]
         },
         "distance": {
           "value": 2.79,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:24"
-      },
-      {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700034877,
-        "name": "HOTEL ETOILE PEREIRE",
-        "hotelId": "YXPAR033",
-        "geoCode": {
-          "latitude": 48.88355,
-          "longitude": 2.29422
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "146 BOULEVARD PEREIRE"
-          ]
-        },
-        "distance": {
-          "value": 2.79,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:55"
+        "lastUpdate": "2025-06-03T10:16:25"
       },
       {
         "chainCode": "AC",
@@ -7544,6 +7544,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:32"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700034877,
+        "name": "HOTEL ETOILE PEREIRE",
+        "hotelId": "YXPAR033",
+        "geoCode": {
+          "latitude": 48.88355,
+          "longitude": 2.29422
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "146 BOULEVARD PEREIRE"
+          ]
+        },
+        "distance": {
+          "value": 2.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
       },
       {
         "chainCode": "AC",
@@ -7594,30 +7618,6 @@
         "lastUpdate": "2025-06-03T10:16:49"
       },
       {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700049063,
-        "name": "HOTEL RESIDENCE EUROPE",
-        "hotelId": "ACPAR733",
-        "geoCode": {
-          "latitude": 48.87321,
-          "longitude": 2.32541
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "92110",
-          "cityName": "CLICHY",
-          "lines": [
-            "52, BD GENERAL LECLERC"
-          ]
-        },
-        "distance": {
-          "value": 2.79,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:25"
-      },
-      {
         "chainCode": "YX",
         "iataCode": "PAR",
         "dupeId": 700163552,
@@ -7642,30 +7642,6 @@
         "lastUpdate": "2025-06-03T10:18:56"
       },
       {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700030329,
-        "name": "HTL LE RELAIS ST HONORE",
-        "hotelId": "YXPARLRH",
-        "geoCode": {
-          "latitude": 48.86519,
-          "longitude": 2.33157
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "PARIS",
-          "lines": [
-            "308 RUE SAINT HONORE"
-          ]
-        },
-        "distance": {
-          "value": 2.81,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:00"
-      },
-      {
         "chainCode": "CH",
         "iataCode": "PAR",
         "dupeId": 700027009,
@@ -7688,6 +7664,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:19:22"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700030329,
+        "name": "HTL LE RELAIS ST HONORE",
+        "hotelId": "YXPARLRH",
+        "geoCode": {
+          "latitude": 48.86519,
+          "longitude": 2.33157
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "308 RUE SAINT HONORE"
+          ]
+        },
+        "distance": {
+          "value": 2.81,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:00"
       },
       {
         "chainCode": "BW",
@@ -8401,6 +8401,31 @@
         "lastUpdate": "2025-06-03T10:17:23"
       },
       {
+        "chainCode": "WK",
+        "iataCode": "PAR",
+        "dupeId": 700014266,
+        "name": "HOTEL WESTMINSTER",
+        "hotelId": "WKPARWES",
+        "geoCode": {
+          "latitude": 48.86933,
+          "longitude": 2.33129
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75002",
+          "cityName": "PARIS",
+          "lines": [
+            "13 RUE DE LA PAIX"
+          ]
+        },
+        "distance": {
+          "value": 2.95,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:18:09"
+      },
+      {
         "chainCode": "UI",
         "iataCode": "PAR",
         "dupeId": 700076362,
@@ -8425,29 +8450,52 @@
         "lastUpdate": "2025-06-03T10:18:11"
       },
       {
-        "chainCode": "WK",
+        "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700014266,
-        "name": "HOTEL WESTMINSTER",
-        "hotelId": "WKPARWES",
+        "dupeId": 700189766,
+        "name": "HOTEL RIVIERA ELYSEES",
+        "hotelId": "ACPARD55",
         "geoCode": {
-          "latitude": 48.86933,
-          "longitude": 2.33129
+          "latitude": 48.83957,
+          "longitude": 2.32297
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75002",
+          "postalCode": "75017",
           "cityName": "PARIS",
           "lines": [
-            "13 RUE DE LA PAIX"
+            "55 RUE DES ACACIAS"
           ]
         },
         "distance": {
           "value": 2.95,
           "unit": "KM"
         },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:18:09"
+        "lastUpdate": "2025-06-03T10:19:08"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700046497,
+        "name": "HOTEL ALBE SAINT MICHEL",
+        "hotelId": "ACPARD48",
+        "geoCode": {
+          "latitude": 48.83957,
+          "longitude": 2.32297
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "1 RUE DE LA HARPE"
+          ]
+        },
+        "distance": {
+          "value": 2.95,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:11"
       },
       {
         "chainCode": "AC",
@@ -8500,30 +8548,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700046497,
-        "name": "HOTEL ALBE SAINT MICHEL",
-        "hotelId": "ACPARD48",
-        "geoCode": {
-          "latitude": 48.83957,
-          "longitude": 2.32297
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "1 RUE DE LA HARPE"
-          ]
-        },
-        "distance": {
-          "value": 2.95,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:11"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700158044,
         "name": "HOTEL SAINT-JACQUES",
         "hotelId": "ACPARD49",
@@ -8544,30 +8568,6 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:19:11"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700189766,
-        "name": "HOTEL RIVIERA ELYSEES",
-        "hotelId": "ACPARD55",
-        "geoCode": {
-          "latitude": 48.83957,
-          "longitude": 2.32297
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "55 RUE DES ACACIAS"
-          ]
-        },
-        "distance": {
-          "value": 2.95,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:08"
       },
       {
         "chainCode": "YX",
@@ -8691,30 +8691,6 @@
         "lastUpdate": "2025-06-03T10:19:54"
       },
       {
-        "chainCode": "LX",
-        "iataCode": "PAR",
-        "dupeId": 700082986,
-        "name": "L HOTEL",
-        "hotelId": "LXPAR740",
-        "geoCode": {
-          "latitude": 48.85638,
-          "longitude": 2.33513
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "PARIS",
-          "lines": [
-            "13 RUE DES BEAUX ARTS"
-          ]
-        },
-        "distance": {
-          "value": 2.98,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:35"
-      },
-      {
         "chainCode": "EU",
         "iataCode": "PAR",
         "dupeId": 700009558,
@@ -8737,6 +8713,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:19:54"
+      },
+      {
+        "chainCode": "LX",
+        "iataCode": "PAR",
+        "dupeId": 700082986,
+        "name": "L HOTEL",
+        "hotelId": "LXPAR740",
+        "geoCode": {
+          "latitude": 48.85638,
+          "longitude": 2.33513
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75006",
+          "cityName": "PARIS",
+          "lines": [
+            "13 RUE DES BEAUX ARTS"
+          ]
+        },
+        "distance": {
+          "value": 2.98,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:35"
       },
       {
         "chainCode": "HS",
@@ -8764,26 +8764,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700006568,
-        "name": "HOTEL DE LA PAIX",
-        "hotelId": "ACPAR826",
+        "dupeId": 700016171,
+        "name": "HOTEL ARMONI BY ELEGANCIA",
+        "hotelId": "ACPAR787",
         "geoCode": {
           "latitude": 48.88523,
           "longitude": 2.29304
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75015",
+          "postalCode": "75017",
           "cityName": "PARIS",
           "lines": [
-            "43, RUE DURANTON"
+            "7 VILLA BERTHIER"
           ]
         },
         "distance": {
           "value": 2.98,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:15:59"
+        "lastUpdate": "2025-06-03T10:19:11"
       },
       {
         "chainCode": "AC",
@@ -8812,6 +8812,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700006568,
+        "name": "HOTEL DE LA PAIX",
+        "hotelId": "ACPAR826",
+        "geoCode": {
+          "latitude": 48.88523,
+          "longitude": 2.29304
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "43, RUE DURANTON"
+          ]
+        },
+        "distance": {
+          "value": 2.98,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:15:59"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700041981,
         "name": "ROYAL MAGDA ETOILE",
         "hotelId": "ACPAR832",
@@ -8832,30 +8856,6 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:37"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700016171,
-        "name": "HOTEL ARMONI BY ELEGANCIA",
-        "hotelId": "ACPAR787",
-        "geoCode": {
-          "latitude": 48.88523,
-          "longitude": 2.29304
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "7 VILLA BERTHIER"
-          ]
-        },
-        "distance": {
-          "value": 2.98,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:11"
       },
       {
         "chainCode": "YX",
@@ -9005,30 +9005,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700041693,
-        "name": "DAUNOU OPERA",
-        "hotelId": "ACPAR383",
-        "geoCode": {
-          "latitude": 48.86926,
-          "longitude": 2.33231
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75002",
-          "cityName": "PARIS",
-          "lines": [
-            "6, RUE DAUNOU"
-          ]
-        },
-        "distance": {
-          "value": 3.02,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:05"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700020662,
         "name": "DU VIEUX SAULE",
         "hotelId": "ACPAR387",
@@ -9049,6 +9025,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:31"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700041693,
+        "name": "DAUNOU OPERA",
+        "hotelId": "ACPAR383",
+        "geoCode": {
+          "latitude": 48.86926,
+          "longitude": 2.33231
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75002",
+          "cityName": "PARIS",
+          "lines": [
+            "6, RUE DAUNOU"
+          ]
+        },
+        "distance": {
+          "value": 3.02,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:05"
       },
       {
         "chainCode": "FG",
@@ -9102,78 +9102,6 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
-        "dupeId": 700118717,
-        "name": "CAMPANILE PARIS SUD - PORTE D'ORLEANS AR",
-        "hotelId": "DHPARBXW",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "ARCUEIL",
-          "lines": [
-            "73 AVENUE ARISTIDE BRIAND - RN 20"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 700092099,
-        "name": "SPORT HOTEL",
-        "hotelId": "DHPARCCH",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "258 AVENUE DAUMESNIL,"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 700092367,
-        "name": "CAMPANILE PARIS NORD - SAINT DENIS CENTR",
-        "hotelId": "DHPARBXM",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "SAINT DENIS",
-          "lines": [
-            "14 RUE JEAN JAURES SAINT-DENIS"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
         "dupeId": 700092129,
         "name": "HOTEL SQUARE",
         "hotelId": "DHPARCCQ",
@@ -9194,103 +9122,6 @@
         },
         "masterChainCode": "TC",
         "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 700053218,
-        "name": "MERCURE PARIS PORTE ST CLOUD",
-        "hotelId": "DHPARBVZ",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "BOULOGNE BILLANCOURT",
-          "lines": [
-            "37 PLACE RENE CLAIR"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 700076326,
-        "name": "KYRIAD PRESTIGE LE BLANC MESNIL",
-        "hotelId": "DHPARBWP",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "LE BLANC MESNIL",
-          "lines": [
-            "219 AVENUE DESCARTES 93150 LE BLANC MESNIL"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 700006995,
-        "name": "EDOUARD VII",
-        "hotelId": "DHPARBVU",
-        "geoCode": {
-          "latitude": 48.86859,
-          "longitude": 2.33316
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "39, AVENUE DE L OPERA,"
-          ]
-        },
-        "distance": {
-          "value": 3.04,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:21:51"
-      },
-      {
-        "chainCode": "WW",
-        "iataCode": "PAR",
-        "dupeId": 700006995,
-        "name": "EDOUARD 7 HOTEL",
-        "hotelId": "WWPAREDO",
-        "geoCode": {
-          "latitude": 48.86869,
-          "longitude": 2.33312
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75002",
-          "cityName": "PARIS",
-          "lines": [
-            "39 AVENUE DE L OPERA"
-          ]
-        },
-        "distance": {
-          "value": 3.05,
-          "unit": "KM"
-        },
-        "masterChainCode": "EW",
-        "lastUpdate": "2025-06-03T10:18:21"
       },
       {
         "chainCode": "DH",
@@ -9367,18 +9198,42 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
-        "dupeId": 501478529,
-        "name": "HOTEL LES PLUMES",
-        "hotelId": "DHPARCCD",
+        "dupeId": 700076326,
+        "name": "KYRIAD PRESTIGE LE BLANC MESNIL",
+        "hotelId": "DHPARBWP",
         "geoCode": {
           "latitude": 48.86859,
           "longitude": 2.33316
         },
         "address": {
           "countryCode": "FR",
-          "cityName": "PARIS",
+          "cityName": "LE BLANC MESNIL",
           "lines": [
-            "10, RUE LAMARTINE"
+            "219 AVENUE DESCARTES 93150 LE BLANC MESNIL"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 700053218,
+        "name": "MERCURE PARIS PORTE ST CLOUD",
+        "hotelId": "DHPARBVZ",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "BOULOGNE BILLANCOURT",
+          "lines": [
+            "37 PLACE RENE CLAIR"
           ]
         },
         "distance": {
@@ -9415,6 +9270,127 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
+        "dupeId": 700092099,
+        "name": "SPORT HOTEL",
+        "hotelId": "DHPARCCH",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "258 AVENUE DAUMESNIL,"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 700118717,
+        "name": "CAMPANILE PARIS SUD - PORTE D'ORLEANS AR",
+        "hotelId": "DHPARBXW",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "ARCUEIL",
+          "lines": [
+            "73 AVENUE ARISTIDE BRIAND - RN 20"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 700006995,
+        "name": "EDOUARD VII",
+        "hotelId": "DHPARBVU",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "39, AVENUE DE L OPERA,"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "WW",
+        "iataCode": "PAR",
+        "dupeId": 700006995,
+        "name": "EDOUARD 7 HOTEL",
+        "hotelId": "WWPAREDO",
+        "geoCode": {
+          "latitude": 48.86869,
+          "longitude": 2.33312
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75002",
+          "cityName": "PARIS",
+          "lines": [
+            "39 AVENUE DE L OPERA"
+          ]
+        },
+        "distance": {
+          "value": 3.05,
+          "unit": "KM"
+        },
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:18:21"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 700092367,
+        "name": "CAMPANILE PARIS NORD - SAINT DENIS CENTR",
+        "hotelId": "DHPARBXM",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "SAINT DENIS",
+          "lines": [
+            "14 RUE JEAN JAURES SAINT-DENIS"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
         "dupeId": 501478522,
         "name": "HOTEL DE NELL",
         "hotelId": "DHPARCCB",
@@ -9427,6 +9403,30 @@
           "cityName": "PARIS",
           "lines": [
             "7/9 RUE DU CONSERVATOIRE, 9TH ARR. - OPERA,"
+          ]
+        },
+        "distance": {
+          "value": 3.04,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:21:51"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 501478529,
+        "name": "HOTEL LES PLUMES",
+        "hotelId": "DHPARCCD",
+        "geoCode": {
+          "latitude": 48.86859,
+          "longitude": 2.33316
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "10, RUE LAMARTINE"
           ]
         },
         "distance": {
@@ -9518,31 +9518,6 @@
       {
         "chainCode": "BW",
         "iataCode": "PAR",
-        "dupeId": 700024468,
-        "name": "BEST WESTERN PREMIER LE SWANN",
-        "hotelId": "BWPAR778",
-        "geoCode": {
-          "latitude": 48.87974,
-          "longitude": 2.3211
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75008",
-          "cityName": "PARIS",
-          "lines": [
-            "11-15 RUE DE CONSTANTINOPLE"
-          ]
-        },
-        "distance": {
-          "value": 3.07,
-          "unit": "KM"
-        },
-        "masterChainCode": "EW",
-        "lastUpdate": "2025-06-03T10:17:55"
-      },
-      {
-        "chainCode": "BW",
-        "iataCode": "PAR",
         "dupeId": 700030082,
         "name": "BEST WESTERN MONTMARTRE ALIZE",
         "hotelId": "BWPAR786",
@@ -9566,28 +9541,29 @@
         "lastUpdate": "2025-06-03T10:17:28"
       },
       {
-        "chainCode": "UI",
+        "chainCode": "BW",
         "iataCode": "PAR",
-        "dupeId": 700027676,
-        "name": "LENOX MONTPARNASSE HOTEL",
-        "hotelId": "UIPARLNX",
+        "dupeId": 700024468,
+        "name": "BEST WESTERN PREMIER LE SWANN",
+        "hotelId": "BWPAR778",
         "geoCode": {
-          "latitude": 48.84173,
-          "longitude": 2.32805
+          "latitude": 48.87974,
+          "longitude": 2.3211
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75014",
+          "postalCode": "75008",
           "cityName": "PARIS",
           "lines": [
-            "15 RUE DELAMBRE"
+            "11-15 RUE DE CONSTANTINOPLE"
           ]
         },
         "distance": {
           "value": 3.07,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:18:00"
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:17:55"
       },
       {
         "chainCode": "UI",
@@ -9605,6 +9581,30 @@
           "cityName": "PARIS",
           "lines": [
             "4 RUE CROIX DES PETIT CHAMPS"
+          ]
+        },
+        "distance": {
+          "value": 3.07,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:00"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "PAR",
+        "dupeId": 700027676,
+        "name": "LENOX MONTPARNASSE HOTEL",
+        "hotelId": "UIPARLNX",
+        "geoCode": {
+          "latitude": 48.84173,
+          "longitude": 2.32805
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75014",
+          "cityName": "PARIS",
+          "lines": [
+            "15 RUE DELAMBRE"
           ]
         },
         "distance": {
@@ -9693,29 +9693,28 @@
         }
       },
       {
-        "chainCode": "BW",
+        "chainCode": "AZ",
         "iataCode": "PAR",
-        "dupeId": 700057478,
-        "name": "BEST WESTERN PARIS LOUVRE OPERA",
-        "hotelId": "BWPAR522",
+        "dupeId": 700032819,
+        "name": "CITADINES SUITES LOUVRE PARIS",
+        "hotelId": "AZPAROLO",
         "geoCode": {
-          "latitude": 48.86644,
-          "longitude": 2.33488
+          "latitude": 48.86387,
+          "longitude": 2.33587
         },
         "address": {
           "countryCode": "FR",
           "postalCode": "75001",
           "cityName": "PARIS",
           "lines": [
-            "4 RUE DES MOULINS"
+            "8 RUE DE RICHELIEU"
           ]
         },
         "distance": {
           "value": 3.08,
           "unit": "KM"
         },
-        "masterChainCode": "EW",
-        "lastUpdate": "2025-06-03T10:16:05"
+        "lastUpdate": "2025-06-03T10:19:27"
       },
       {
         "chainCode": "BW",
@@ -9767,28 +9766,29 @@
         "lastUpdate": "2025-06-03T10:16:01"
       },
       {
-        "chainCode": "AZ",
+        "chainCode": "BW",
         "iataCode": "PAR",
-        "dupeId": 700032819,
-        "name": "CITADINES SUITES LOUVRE PARIS",
-        "hotelId": "AZPAROLO",
+        "dupeId": 700057478,
+        "name": "BEST WESTERN PARIS LOUVRE OPERA",
+        "hotelId": "BWPAR522",
         "geoCode": {
-          "latitude": 48.86387,
-          "longitude": 2.33587
+          "latitude": 48.86644,
+          "longitude": 2.33488
         },
         "address": {
           "countryCode": "FR",
           "postalCode": "75001",
           "cityName": "PARIS",
           "lines": [
-            "8 RUE DE RICHELIEU"
+            "4 RUE DES MOULINS"
           ]
         },
         "distance": {
           "value": 3.08,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:19:27"
+        "masterChainCode": "EW",
+        "lastUpdate": "2025-06-03T10:16:05"
       },
       {
         "chainCode": "BW",
@@ -10061,30 +10061,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700092038,
-        "name": "LE CHAPLAIN PARIS RIVE GAUCHE",
-        "hotelId": "ACPARCHA",
-        "geoCode": {
-          "latitude": 48.84292,
-          "longitude": 2.33036
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "PARIS",
-          "lines": [
-            "11 BIS RUE CHAPLAIN"
-          ]
-        },
-        "distance": {
-          "value": 3.14,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-08-13T09:00:10"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700092012,
         "name": "DU CONTINENT",
         "hotelId": "ACPARCON",
@@ -10105,6 +10081,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700092038,
+        "name": "LE CHAPLAIN PARIS RIVE GAUCHE",
+        "hotelId": "ACPARCHA",
+        "geoCode": {
+          "latitude": 48.84292,
+          "longitude": 2.33036
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75006",
+          "cityName": "PARIS",
+          "lines": [
+            "11 BIS RUE CHAPLAIN"
+          ]
+        },
+        "distance": {
+          "value": 3.14,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-13T09:00:10"
       },
       {
         "chainCode": "VP",
@@ -10133,30 +10133,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700026279,
-        "name": "NOUVEL EIFFEL",
-        "hotelId": "ACPARNOU",
-        "geoCode": {
-          "latitude": 48.86653,
-          "longitude": 2.33564
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75015",
-          "cityName": "PARIS",
-          "lines": [
-            "5, RUE DES VOLONTAIRES"
-          ]
-        },
-        "distance": {
-          "value": 3.14,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:19"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700062196,
         "name": "SAINT-PAUL LE MARAIS",
         "hotelId": "ACPARPAU",
@@ -10177,6 +10153,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:01"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700026279,
+        "name": "NOUVEL EIFFEL",
+        "hotelId": "ACPARNOU",
+        "geoCode": {
+          "latitude": 48.86653,
+          "longitude": 2.33564
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75015",
+          "cityName": "PARIS",
+          "lines": [
+            "5, RUE DES VOLONTAIRES"
+          ]
+        },
+        "distance": {
+          "value": 3.14,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:19"
       },
       {
         "chainCode": "RT",
@@ -10228,30 +10228,6 @@
         "lastUpdate": "2025-06-03T10:19:54"
       },
       {
-        "chainCode": "HS",
-        "iataCode": "ORY",
-        "dupeId": 700054622,
-        "name": "AUSTIN'S SAINT LAZARE",
-        "hotelId": "HSORYACE",
-        "geoCode": {
-          "latitude": 48.87699,
-          "longitude": 2.32699
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "26 RUE D'AMSTERDAM"
-          ]
-        },
-        "distance": {
-          "value": 3.15,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:21:04"
-      },
-      {
         "chainCode": "BW",
         "iataCode": "PAR",
         "dupeId": 700057394,
@@ -10275,6 +10251,30 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:16:54"
+      },
+      {
+        "chainCode": "HS",
+        "iataCode": "ORY",
+        "dupeId": 700054622,
+        "name": "AUSTIN'S SAINT LAZARE",
+        "hotelId": "HSORYACE",
+        "geoCode": {
+          "latitude": 48.87699,
+          "longitude": 2.32699
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "26 RUE D'AMSTERDAM"
+          ]
+        },
+        "distance": {
+          "value": 3.15,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:04"
       },
       {
         "chainCode": "YX",
@@ -10980,30 +10980,6 @@
         "lastUpdate": "2025-06-03T10:18:56"
       },
       {
-        "chainCode": "VP",
-        "iataCode": "PAR",
-        "dupeId": 502347206,
-        "name": "BOB HOTEL PARIS",
-        "hotelId": "VPPAR100",
-        "geoCode": {
-          "latitude": 48.83346,
-          "longitude": 2.31904
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75014",
-          "cityName": "Paris",
-          "lines": [
-            "30,  RUE PERNETY"
-          ]
-        },
-        "distance": {
-          "value": 3.3,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:22:02"
-      },
-      {
         "chainCode": "HA",
         "iataCode": "PAR",
         "dupeId": 700092020,
@@ -11026,6 +11002,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:34"
+      },
+      {
+        "chainCode": "VP",
+        "iataCode": "PAR",
+        "dupeId": 502347206,
+        "name": "BOB HOTEL PARIS",
+        "hotelId": "VPPAR100",
+        "geoCode": {
+          "latitude": 48.83346,
+          "longitude": 2.31904
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75014",
+          "cityName": "Paris",
+          "lines": [
+            "30,  RUE PERNETY"
+          ]
+        },
+        "distance": {
+          "value": 3.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:22:02"
       },
       {
         "chainCode": "FG",
@@ -11462,6 +11462,30 @@
         "lastUpdate": "2025-06-03T10:16:42"
       },
       {
+        "chainCode": "HS",
+        "iataCode": "PAR",
+        "dupeId": 700208084,
+        "name": "LUXOR",
+        "hotelId": "HSPARBVB",
+        "geoCode": {
+          "latitude": 48.82886,
+          "longitude": 2.28232
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "92130",
+          "cityName": "ISSY-LES-MOULINEAUX",
+          "lines": [
+            "RUE ERNEST RENAN 24"
+          ]
+        },
+        "distance": {
+          "value": 3.4,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:02"
+      },
+      {
         "chainCode": "BW",
         "iataCode": "PAR",
         "dupeId": 700009608,
@@ -11485,30 +11509,6 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:16:21"
-      },
-      {
-        "chainCode": "HS",
-        "iataCode": "PAR",
-        "dupeId": 700208084,
-        "name": "LUXOR",
-        "hotelId": "HSPARBVB",
-        "geoCode": {
-          "latitude": 48.82886,
-          "longitude": 2.28232
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "92130",
-          "cityName": "ISSY-LES-MOULINEAUX",
-          "lines": [
-            "RUE ERNEST RENAN 24"
-          ]
-        },
-        "distance": {
-          "value": 3.4,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:21:02"
       },
       {
         "chainCode": "CH",
@@ -11562,9 +11562,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030462,
-        "name": "PROPERTY PAR 021",
-        "hotelId": "MCPAR021",
+        "dupeId": 502030475,
+        "name": "PROPERTY PAR 034",
+        "hotelId": "MCPAR034",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -11573,7 +11573,79 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST021"
+            "TEST034"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030497,
+        "name": "PROPERTY PAR 056",
+        "hotelId": "MCPAR056",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST056"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030456,
+        "name": "PROPERTY PAR 015",
+        "hotelId": "MCPAR015",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST015"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030468,
+        "name": "PROPERTY PAR 027",
+        "hotelId": "MCPAR027",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST027"
           ]
         },
         "distance": {
@@ -11582,6 +11654,174 @@
         },
         "masterChainCode": "EM",
         "lastUpdate": "2025-07-21T09:00:12"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030448,
+        "name": "PROPERTY PAR 009",
+        "hotelId": "MCPAR009",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST009"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030453,
+        "name": "PROPERTY PAR 13B",
+        "hotelId": "MCPAR13B",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST13B"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030445,
+        "name": "PROPERTY PAR 006",
+        "hotelId": "MCPAR006",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST006"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030473,
+        "name": "PROPERTY PAR 032",
+        "hotelId": "MCPAR032",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST032"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030457,
+        "name": "PROPERTY PAR 016",
+        "hotelId": "MCPAR016",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST016"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030491,
+        "name": "PROPERTY PAR 050",
+        "hotelId": "MCPAR050",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST050"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030503,
+        "name": "PROPERTY PAR 062",
+        "hotelId": "MCPAR062",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST062"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
       },
       {
         "chainCode": "MC",
@@ -11634,9 +11874,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030449,
-        "name": "PROPERTY PAR 010",
-        "hotelId": "MCPAR010",
+        "dupeId": 502030465,
+        "name": "PROPERTY PAR 024",
+        "hotelId": "MCPAR024",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -11645,127 +11885,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST010"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030472,
-        "name": "PROPERTY PAR 031",
-        "hotelId": "MCPAR031",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST031"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030479,
-        "name": "PROPERTY PAR 038",
-        "hotelId": "MCPAR038",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST038"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030444,
-        "name": "PROPERTY PAR 005",
-        "hotelId": "MCPAR005",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST005"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030497,
-        "name": "PROPERTY PAR 056",
-        "hotelId": "MCPAR056",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST056"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030468,
-        "name": "PROPERTY PAR 027",
-        "hotelId": "MCPAR027",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST027"
+            "TEST024"
           ]
         },
         "distance": {
@@ -11774,30 +11894,6 @@
         },
         "masterChainCode": "EM",
         "lastUpdate": "2025-07-21T09:00:12"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030481,
-        "name": "PROPERTY PAR 040",
-        "hotelId": "MCPAR040",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST040"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
       },
       {
         "chainCode": "MC",
@@ -11814,78 +11910,6 @@
           "cityName": "PARIS",
           "lines": [
             "TEST13T"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "CX",
-        "iataCode": "LAX",
-        "dupeId": 502038682,
-        "name": "HILTON HOTELS LONDON KENSINGTON",
-        "hotelId": "CXLAXHCP",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST572"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EC",
-        "lastUpdate": "2025-06-03T10:19:51"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030484,
-        "name": "PROPERTY PAR 043",
-        "hotelId": "MCPAR043",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST043"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030473,
-        "name": "PROPERTY PAR 032",
-        "hotelId": "MCPAR032",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST032"
           ]
         },
         "distance": {
@@ -11922,9 +11946,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030448,
-        "name": "PROPERTY PAR 009",
-        "hotelId": "MCPAR009",
+        "dupeId": 502030462,
+        "name": "PROPERTY PAR 021",
+        "hotelId": "MCPAR021",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -11933,151 +11957,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST009"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030505,
-        "name": "PROPERTY PAR 064",
-        "hotelId": "MCPAR064",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST064"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030491,
-        "name": "PROPERTY PAR 050",
-        "hotelId": "MCPAR050",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST050"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030487,
-        "name": "PROPERTY PAR 046",
-        "hotelId": "MCPAR046",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST046"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030453,
-        "name": "PROPERTY PAR 13B",
-        "hotelId": "MCPAR13B",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST13B"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030457,
-        "name": "PROPERTY PAR 016",
-        "hotelId": "MCPAR016",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST016"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030463,
-        "name": "PROPERTY PAR 022",
-        "hotelId": "MCPAR022",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST022"
+            "TEST021"
           ]
         },
         "distance": {
@@ -12114,9 +11994,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030503,
-        "name": "PROPERTY PAR 062",
-        "hotelId": "MCPAR062",
+        "dupeId": 502030469,
+        "name": "PROPERTY PAR 028",
+        "hotelId": "MCPAR028",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -12125,7 +12005,151 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST062"
+            "TEST028"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "CX",
+        "iataCode": "LAX",
+        "dupeId": 502038682,
+        "name": "HILTON HOTELS LONDON KENSINGTON",
+        "hotelId": "CXLAXHCP",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST572"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:19:51"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030481,
+        "name": "PROPERTY PAR 040",
+        "hotelId": "MCPAR040",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST040"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030487,
+        "name": "PROPERTY PAR 046",
+        "hotelId": "MCPAR046",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST046"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030460,
+        "name": "PROPERTY PAR 019",
+        "hotelId": "MCPAR019",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST019"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030463,
+        "name": "PROPERTY PAR 022",
+        "hotelId": "MCPAR022",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST022"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:12"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030472,
+        "name": "PROPERTY PAR 031",
+        "hotelId": "MCPAR031",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST031"
           ]
         },
         "distance": {
@@ -12186,6 +12210,102 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
+        "dupeId": 502030505,
+        "name": "PROPERTY PAR 064",
+        "hotelId": "MCPAR064",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST064"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030479,
+        "name": "PROPERTY PAR 038",
+        "hotelId": "MCPAR038",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST038"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030444,
+        "name": "PROPERTY PAR 005",
+        "hotelId": "MCPAR005",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST005"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
+        "dupeId": 502030490,
+        "name": "PROPERTY PAR 049",
+        "hotelId": "MCPAR049",
+        "geoCode": {
+          "latitude": 48.85693,
+          "longitude": 2.3412
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST049"
+          ]
+        },
+        "distance": {
+          "value": 3.42,
+          "unit": "KM"
+        },
+        "masterChainCode": "EM",
+        "lastUpdate": "2025-07-21T09:00:13"
+      },
+      {
+        "chainCode": "MC",
+        "iataCode": "PAR",
         "dupeId": 502030500,
         "name": "PROPERTY PAR 059",
         "hotelId": "MCPAR059",
@@ -12210,9 +12330,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030460,
-        "name": "PROPERTY PAR 019",
-        "hotelId": "MCPAR019",
+        "dupeId": 502030449,
+        "name": "PROPERTY PAR 010",
+        "hotelId": "MCPAR010",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -12221,7 +12341,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST019"
+            "TEST010"
           ]
         },
         "distance": {
@@ -12234,9 +12354,9 @@
       {
         "chainCode": "MC",
         "iataCode": "PAR",
-        "dupeId": 502030456,
-        "name": "PROPERTY PAR 015",
-        "hotelId": "MCPAR015",
+        "dupeId": 502030484,
+        "name": "PROPERTY PAR 043",
+        "hotelId": "MCPAR043",
         "geoCode": {
           "latitude": 48.85693,
           "longitude": 2.3412
@@ -12245,79 +12365,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST015"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030475,
-        "name": "PROPERTY PAR 034",
-        "hotelId": "MCPAR034",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST034"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030469,
-        "name": "PROPERTY PAR 028",
-        "hotelId": "MCPAR028",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST028"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030445,
-        "name": "PROPERTY PAR 006",
-        "hotelId": "MCPAR006",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST006"
+            "TEST043"
           ]
         },
         "distance": {
@@ -12342,54 +12390,6 @@
           "cityName": "PARIS",
           "lines": [
             "TEST055"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:13"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030465,
-        "name": "PROPERTY PAR 024",
-        "hotelId": "MCPAR024",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST024"
-          ]
-        },
-        "distance": {
-          "value": 3.42,
-          "unit": "KM"
-        },
-        "masterChainCode": "EM",
-        "lastUpdate": "2025-07-21T09:00:12"
-      },
-      {
-        "chainCode": "MC",
-        "iataCode": "PAR",
-        "dupeId": 502030490,
-        "name": "PROPERTY PAR 049",
-        "hotelId": "MCPAR049",
-        "geoCode": {
-          "latitude": 48.85693,
-          "longitude": 2.3412
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST049"
           ]
         },
         "distance": {
@@ -12473,30 +12473,6 @@
         "lastUpdate": "2025-06-03T10:18:00"
       },
       {
-        "chainCode": "RD",
-        "iataCode": "PAR",
-        "dupeId": 502289685,
-        "name": "TEST PROPERTY FOR POR VALIDATION",
-        "hotelId": "RDPAR960",
-        "geoCode": {
-          "latitude": 48.85717,
-          "longitude": 2.3414
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "LEFISTON STREET"
-          ]
-        },
-        "distance": {
-          "value": 3.43,
-          "unit": "KM"
-        },
-        "masterChainCode": "CW",
-        "lastUpdate": "2025-06-03T10:17:14"
-      },
-      {
         "chainCode": "GT",
         "iataCode": "PAR",
         "dupeId": 502196547,
@@ -12522,28 +12498,28 @@
         "lastUpdate": "2025-06-03T10:16:32"
       },
       {
-        "chainCode": "DH",
+        "chainCode": "RD",
         "iataCode": "PAR",
-        "dupeId": 502027815,
-        "name": "PROPERTY PAR 010",
-        "hotelId": "DHPAR010",
+        "dupeId": 502289685,
+        "name": "TEST PROPERTY FOR POR VALIDATION",
+        "hotelId": "RDPAR960",
         "geoCode": {
-          "latitude": 48.85721,
-          "longitude": 2.34144
+          "latitude": 48.85717,
+          "longitude": 2.3414
         },
         "address": {
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST010"
+            "LEFISTON STREET"
           ]
         },
         "distance": {
           "value": 3.43,
           "unit": "KM"
         },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:19:37"
+        "masterChainCode": "CW",
+        "lastUpdate": "2025-06-03T10:17:14"
       },
       {
         "chainCode": "EA",
@@ -12595,9 +12571,9 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
-        "dupeId": 502027811,
-        "name": "PROPERTY PAR 006",
-        "hotelId": "DHPAR006",
+        "dupeId": 502022158,
+        "name": "PROPERTY PAR 003",
+        "hotelId": "DHPAR003",
         "geoCode": {
           "latitude": 48.85721,
           "longitude": 2.34144
@@ -12606,7 +12582,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST006"
+            "TEST003"
           ]
         },
         "distance": {
@@ -12619,9 +12595,9 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
-        "dupeId": 502027810,
-        "name": "PROPERTY PAR 005",
-        "hotelId": "DHPAR005",
+        "dupeId": 502027815,
+        "name": "PROPERTY PAR 010",
+        "hotelId": "DHPAR010",
         "geoCode": {
           "latitude": 48.85721,
           "longitude": 2.34144
@@ -12630,31 +12606,7 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST005"
-          ]
-        },
-        "distance": {
-          "value": 3.43,
-          "unit": "KM"
-        },
-        "masterChainCode": "TC",
-        "lastUpdate": "2025-06-03T10:19:37"
-      },
-      {
-        "chainCode": "DH",
-        "iataCode": "PAR",
-        "dupeId": 502107200,
-        "name": "PROPERTY PAR 655",
-        "hotelId": "DHPAR655",
-        "geoCode": {
-          "latitude": 48.85721,
-          "longitude": 2.34144
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST655"
+            "TEST010"
           ]
         },
         "distance": {
@@ -12691,9 +12643,9 @@
       {
         "chainCode": "DH",
         "iataCode": "PAR",
-        "dupeId": 502022158,
-        "name": "PROPERTY PAR 003",
-        "hotelId": "DHPAR003",
+        "dupeId": 502027811,
+        "name": "PROPERTY PAR 006",
+        "hotelId": "DHPAR006",
         "geoCode": {
           "latitude": 48.85721,
           "longitude": 2.34144
@@ -12702,7 +12654,55 @@
           "countryCode": "FR",
           "cityName": "PARIS",
           "lines": [
-            "TEST003"
+            "TEST006"
+          ]
+        },
+        "distance": {
+          "value": 3.43,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:19:37"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 502107200,
+        "name": "PROPERTY PAR 655",
+        "hotelId": "DHPAR655",
+        "geoCode": {
+          "latitude": 48.85721,
+          "longitude": 2.34144
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST655"
+          ]
+        },
+        "distance": {
+          "value": 3.43,
+          "unit": "KM"
+        },
+        "masterChainCode": "TC",
+        "lastUpdate": "2025-06-03T10:19:37"
+      },
+      {
+        "chainCode": "DH",
+        "iataCode": "PAR",
+        "dupeId": 502027810,
+        "name": "PROPERTY PAR 005",
+        "hotelId": "DHPAR005",
+        "geoCode": {
+          "latitude": 48.85721,
+          "longitude": 2.34144
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "TEST005"
           ]
         },
         "distance": {
@@ -12762,30 +12762,6 @@
         "lastUpdate": "2025-06-03T10:16:42"
       },
       {
-        "chainCode": "VP",
-        "iataCode": "BVA",
-        "dupeId": 502346006,
-        "name": "TEST PRPP",
-        "hotelId": "VPBVANM3",
-        "geoCode": {
-          "latitude": 48.86044,
-          "longitude": 2.34167
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "Paris",
-          "lines": [
-            "TEST ADRESSE"
-          ]
-        },
-        "distance": {
-          "value": 3.46,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:21:55"
-      },
-      {
         "chainCode": "OI",
         "iataCode": "PAR",
         "dupeId": 502346634,
@@ -12809,6 +12785,30 @@
         },
         "masterChainCode": "LK",
         "lastUpdate": "2025-06-03T10:21:40"
+      },
+      {
+        "chainCode": "VP",
+        "iataCode": "BVA",
+        "dupeId": 502346006,
+        "name": "TEST PRPP",
+        "hotelId": "VPBVANM3",
+        "geoCode": {
+          "latitude": 48.86044,
+          "longitude": 2.34167
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "Paris",
+          "lines": [
+            "TEST ADRESSE"
+          ]
+        },
+        "distance": {
+          "value": 3.46,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:21:55"
       },
       {
         "chainCode": "MC",
@@ -12982,30 +12982,6 @@
         "lastUpdate": "2025-06-03T10:20:08"
       },
       {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700092137,
-        "name": "HOTEL EXCELSIOR",
-        "hotelId": "YXPAR640",
-        "geoCode": {
-          "latitude": 48.88358,
-          "longitude": 2.32357
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "16 RUE CAROLINE"
-          ]
-        },
-        "distance": {
-          "value": 3.51,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:56"
-      },
-      {
         "chainCode": "VP",
         "iataCode": "PAR",
         "dupeId": 502347226,
@@ -13028,6 +13004,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:22:02"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700092137,
+        "name": "HOTEL EXCELSIOR",
+        "hotelId": "YXPAR640",
+        "geoCode": {
+          "latitude": 48.88358,
+          "longitude": 2.32357
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "16 RUE CAROLINE"
+          ]
+        },
+        "distance": {
+          "value": 3.51,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:56"
       },
       {
         "chainCode": "BW",
@@ -13152,30 +13152,6 @@
         "lastUpdate": "2025-06-03T10:20:24"
       },
       {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700158065,
-        "name": "KONFIDENTIEL PARIS",
-        "hotelId": "YXPARKPR",
-        "geoCode": {
-          "latitude": 48.86126,
-          "longitude": 2.34262
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "PARIS",
-          "lines": [
-            "64 RUE DE L ARBRE SEC"
-          ]
-        },
-        "distance": {
-          "value": 3.53,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:58"
-      },
-      {
         "chainCode": "HI",
         "iataCode": "PAR",
         "dupeId": 700132326,
@@ -13199,6 +13175,30 @@
         },
         "masterChainCode": "6C",
         "lastUpdate": "2025-06-03T10:16:20"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700158065,
+        "name": "KONFIDENTIEL PARIS",
+        "hotelId": "YXPARKPR",
+        "geoCode": {
+          "latitude": 48.86126,
+          "longitude": 2.34262
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "64 RUE DE L ARBRE SEC"
+          ]
+        },
+        "distance": {
+          "value": 3.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:58"
       },
       {
         "chainCode": "HA",
@@ -13274,31 +13274,6 @@
         "lastUpdate": "2025-06-03T10:18:01"
       },
       {
-        "chainCode": "OI",
-        "iataCode": "PAR",
-        "dupeId": 700092051,
-        "name": "HOTEL RESIDENCE DES ARTS",
-        "hotelId": "OIPARRDA",
-        "geoCode": {
-          "latitude": 48.85351,
-          "longitude": 2.34245
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "Paris",
-          "lines": [
-            "14 RUE GIT LE COEUR"
-          ]
-        },
-        "distance": {
-          "value": 3.55,
-          "unit": "KM"
-        },
-        "masterChainCode": "LK",
-        "lastUpdate": "2025-06-03T10:20:08"
-      },
-      {
         "chainCode": "AC",
         "iataCode": "PAR",
         "dupeId": 700128159,
@@ -13323,28 +13298,29 @@
         "lastUpdate": "2025-06-03T10:21:46"
       },
       {
-        "chainCode": "AC",
+        "chainCode": "OI",
         "iataCode": "PAR",
-        "dupeId": 700158011,
-        "name": "FRED HOTEL",
-        "hotelId": "ACPARD16",
+        "dupeId": 700092051,
+        "name": "HOTEL RESIDENCE DES ARTS",
+        "hotelId": "OIPARRDA",
         "geoCode": {
-          "latitude": 48.86513,
-          "longitude": 2.34197
+          "latitude": 48.85351,
+          "longitude": 2.34245
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75014",
-          "cityName": "PARIS",
+          "postalCode": "75006",
+          "cityName": "Paris",
           "lines": [
-            "11 AVENUE VILLEMAIN"
+            "14 RUE GIT LE COEUR"
           ]
         },
         "distance": {
           "value": 3.55,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:52"
+        "masterChainCode": "LK",
+        "lastUpdate": "2025-06-03T10:20:08"
       },
       {
         "chainCode": "AC",
@@ -13373,26 +13349,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700058682,
-        "name": "DU QUAI VOLTAIRE",
-        "hotelId": "ACPAR638",
+        "dupeId": 700158011,
+        "name": "FRED HOTEL",
+        "hotelId": "ACPARD16",
         "geoCode": {
-          "latitude": 48.88098,
-          "longitude": 2.32892
+          "latitude": 48.86513,
+          "longitude": 2.34197
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75007",
+          "postalCode": "75014",
           "cityName": "PARIS",
           "lines": [
-            "19 QUAI VOLTAIRE"
+            "11 AVENUE VILLEMAIN"
           ]
         },
         "distance": {
           "value": 3.55,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:08"
+        "lastUpdate": "2025-06-03T10:16:52"
       },
       {
         "chainCode": "AC",
@@ -13417,6 +13393,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:04"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700058682,
+        "name": "DU QUAI VOLTAIRE",
+        "hotelId": "ACPAR638",
+        "geoCode": {
+          "latitude": 48.88098,
+          "longitude": 2.32892
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75007",
+          "cityName": "PARIS",
+          "lines": [
+            "19 QUAI VOLTAIRE"
+          ]
+        },
+        "distance": {
+          "value": 3.55,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:08"
       },
       {
         "chainCode": "LM",
@@ -13713,30 +13713,6 @@
       {
         "chainCode": "UI",
         "iataCode": "PAR",
-        "dupeId": 700032823,
-        "name": "SAINT GERMAIN OBSERVATOIRE",
-        "hotelId": "UIPAROBS",
-        "geoCode": {
-          "latitude": 48.84394,
-          "longitude": 2.33892
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "107 BOULEVARD SAINT MICHEL"
-          ]
-        },
-        "distance": {
-          "value": 3.62,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:01"
-      },
-      {
-        "chainCode": "UI",
-        "iataCode": "PAR",
         "dupeId": 700005188,
         "name": "BELLOY SAINT GERMAIN",
         "hotelId": "UIPAR506",
@@ -13757,6 +13733,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:11"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "PAR",
+        "dupeId": 700032823,
+        "name": "SAINT GERMAIN OBSERVATOIRE",
+        "hotelId": "UIPAROBS",
+        "geoCode": {
+          "latitude": 48.84394,
+          "longitude": 2.33892
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "107 BOULEVARD SAINT MICHEL"
+          ]
+        },
+        "distance": {
+          "value": 3.62,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:01"
       },
       {
         "chainCode": "WV",
@@ -13884,30 +13884,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700030150,
-        "name": "HOTEL CENTRAL SAINT GERMAIN",
-        "hotelId": "ACPARD41",
-        "geoCode": {
-          "latitude": 48.84992,
-          "longitude": 2.34299
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "3 RUE CHAMPOLLION"
-          ]
-        },
-        "distance": {
-          "value": 3.67,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:10"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700189765,
         "name": "HOTEL EDEN PARIS",
         "hotelId": "ACPARD42",
@@ -13928,6 +13904,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:19:12"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700030150,
+        "name": "HOTEL CENTRAL SAINT GERMAIN",
+        "hotelId": "ACPARD41",
+        "geoCode": {
+          "latitude": 48.84992,
+          "longitude": 2.34299
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "3 RUE CHAMPOLLION"
+          ]
+        },
+        "distance": {
+          "value": 3.67,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:10"
       },
       {
         "chainCode": "YX",
@@ -14496,30 +14496,6 @@
         "lastUpdate": "2025-06-03T10:18:56"
       },
       {
-        "chainCode": "UI",
-        "iataCode": "PAR",
-        "dupeId": 700009567,
-        "name": "ASTOTEL LORETTE OPERA",
-        "hotelId": "UIPAR531",
-        "geoCode": {
-          "latitude": 48.8788,
-          "longitude": 2.33704
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "36, RUE NOTRE DAME DE LORETTE"
-          ]
-        },
-        "distance": {
-          "value": 3.85,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:11"
-      },
-      {
         "chainCode": "YX",
         "iataCode": "PAR",
         "dupeId": 700092080,
@@ -14542,6 +14518,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:57"
+      },
+      {
+        "chainCode": "UI",
+        "iataCode": "PAR",
+        "dupeId": 700009567,
+        "name": "ASTOTEL LORETTE OPERA",
+        "hotelId": "UIPAR531",
+        "geoCode": {
+          "latitude": 48.8788,
+          "longitude": 2.33704
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "36, RUE NOTRE DAME DE LORETTE"
+          ]
+        },
+        "distance": {
+          "value": 3.85,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:11"
       },
       {
         "chainCode": "HS",
@@ -14619,54 +14619,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700058681,
-        "name": "LES DAMES DU PANTHEON",
-        "hotelId": "ACPAR345",
-        "geoCode": {
-          "latitude": 48.84634,
-          "longitude": 2.34458
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "19 PLACE DU PANTHEON"
-          ]
-        },
-        "distance": {
-          "value": 3.9,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:38"
-      },
-      {
-        "chainCode": "EU",
-        "iataCode": "PAR",
-        "dupeId": 700009243,
-        "name": "VILLA LA PARISIENNE",
-        "hotelId": "EUPAR603",
-        "geoCode": {
-          "latitude": 48.87655,
-          "longitude": 2.34016
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "39 RUE LAMARTINE"
-          ]
-        },
-        "distance": {
-          "value": 3.9,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:54"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700006942,
         "name": "DUQUESNE EIFFEL",
         "hotelId": "ACPAR348",
@@ -14691,6 +14643,30 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700058681,
+        "name": "LES DAMES DU PANTHEON",
+        "hotelId": "ACPAR345",
+        "geoCode": {
+          "latitude": 48.84634,
+          "longitude": 2.34458
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "19 PLACE DU PANTHEON"
+          ]
+        },
+        "distance": {
+          "value": 3.9,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:38"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700061090,
         "name": "RESIDENCE HENRI IV",
         "hotelId": "ACPAR346",
@@ -14711,6 +14687,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "EU",
+        "iataCode": "PAR",
+        "dupeId": 700009243,
+        "name": "VILLA LA PARISIENNE",
+        "hotelId": "EUPAR603",
+        "geoCode": {
+          "latitude": 48.87655,
+          "longitude": 2.34016
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "39 RUE LAMARTINE"
+          ]
+        },
+        "distance": {
+          "value": 3.9,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:54"
       },
       {
         "chainCode": "BW",
@@ -14762,6 +14762,30 @@
         "lastUpdate": "2025-06-03T10:19:00"
       },
       {
+        "chainCode": "VP",
+        "iataCode": "PAR",
+        "dupeId": 502347219,
+        "name": "HOTEL EUGENE EN VILLE",
+        "hotelId": "VPPAR131",
+        "geoCode": {
+          "latitude": 48.87503,
+          "longitude": 2.34161
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "Paris",
+          "lines": [
+            "6,  RUE BUFFAULT"
+          ]
+        },
+        "distance": {
+          "value": 3.91,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:22:02"
+      },
+      {
         "chainCode": "WV",
         "iataCode": "PAR",
         "dupeId": 700020459,
@@ -14785,30 +14809,6 @@
         },
         "masterChainCode": "TC",
         "lastUpdate": "2025-06-03T10:18:26"
-      },
-      {
-        "chainCode": "VP",
-        "iataCode": "PAR",
-        "dupeId": 502347219,
-        "name": "HOTEL EUGENE EN VILLE",
-        "hotelId": "VPPAR131",
-        "geoCode": {
-          "latitude": 48.87503,
-          "longitude": 2.34161
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "Paris",
-          "lines": [
-            "6,  RUE BUFFAULT"
-          ]
-        },
-        "distance": {
-          "value": 3.91,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:22:02"
       },
       {
         "chainCode": "WW",
@@ -14836,30 +14836,6 @@
         "lastUpdate": "2025-06-03T10:18:21"
       },
       {
-        "chainCode": "HA",
-        "iataCode": "PAR",
-        "dupeId": 700030069,
-        "name": "HOTEL DE HOLLANDE",
-        "hotelId": "HAPARHOL",
-        "geoCode": {
-          "latitude": 48.87419,
-          "longitude": 2.3424
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "4, RUE DE CADET"
-          ]
-        },
-        "distance": {
-          "value": 3.92,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:34"
-      },
-      {
         "chainCode": "HS",
         "iataCode": "PAR",
         "dupeId": 700010286,
@@ -14882,6 +14858,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:21:03"
+      },
+      {
+        "chainCode": "HA",
+        "iataCode": "PAR",
+        "dupeId": 700030069,
+        "name": "HOTEL DE HOLLANDE",
+        "hotelId": "HAPARHOL",
+        "geoCode": {
+          "latitude": 48.87419,
+          "longitude": 2.3424
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "4, RUE DE CADET"
+          ]
+        },
+        "distance": {
+          "value": 3.92,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:34"
       },
       {
         "chainCode": "UI",
@@ -15291,30 +15291,6 @@
       },
       {
         "chainCode": "AC",
-        "iataCode": "PGF",
-        "dupeId": 700092161,
-        "name": "LA VILLA DUFLOT",
-        "hotelId": "ACPGF120",
-        "geoCode": {
-          "latitude": 48.87348,
-          "longitude": 2.34389
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "66000",
-          "cityName": "PERPIGNAN",
-          "lines": [
-            "ROND POINT ALBERT DONNEZAN"
-          ]
-        },
-        "distance": {
-          "value": 3.98,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:00"
-      },
-      {
-        "chainCode": "AC",
         "iataCode": "PIS",
         "dupeId": 700058110,
         "name": "BRIT HOTEL BEAULIEU",
@@ -15360,6 +15336,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-18T07:33:48"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PGF",
+        "dupeId": 700092161,
+        "name": "LA VILLA DUFLOT",
+        "hotelId": "ACPGF120",
+        "geoCode": {
+          "latitude": 48.87348,
+          "longitude": 2.34389
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "66000",
+          "cityName": "PERPIGNAN",
+          "lines": [
+            "ROND POINT ALBERT DONNEZAN"
+          ]
+        },
+        "distance": {
+          "value": 3.98,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
       },
       {
         "chainCode": "KY",
@@ -15531,30 +15531,6 @@
       {
         "chainCode": "YX",
         "iataCode": "PAR",
-        "dupeId": 700184871,
-        "name": "HTL LE RELAIS DES HALLES",
-        "hotelId": "YXPARLDH",
-        "geoCode": {
-          "latitude": 48.86321,
-          "longitude": 2.34891
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75001",
-          "cityName": "PARIS",
-          "lines": [
-            "26 RUE PIERRE LESCOT"
-          ]
-        },
-        "distance": {
-          "value": 4.01,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:00"
-      },
-      {
-        "chainCode": "YX",
-        "iataCode": "PAR",
         "dupeId": 700030414,
         "name": "NEWHOTEL LAFAYETTE",
         "hotelId": "YXPAR587",
@@ -15575,6 +15551,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:56"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700184871,
+        "name": "HTL LE RELAIS DES HALLES",
+        "hotelId": "YXPARLDH",
+        "geoCode": {
+          "latitude": 48.86321,
+          "longitude": 2.34891
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75001",
+          "cityName": "PARIS",
+          "lines": [
+            "26 RUE PIERRE LESCOT"
+          ]
+        },
+        "distance": {
+          "value": 4.01,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:00"
       },
       {
         "chainCode": "RT",
@@ -15850,30 +15850,6 @@
         "lastUpdate": "2025-06-03T10:18:11"
       },
       {
-        "chainCode": "YX",
-        "iataCode": "PAR",
-        "dupeId": 700019947,
-        "name": "VILLA ROYALE",
-        "hotelId": "YXPAR106",
-        "geoCode": {
-          "latitude": 48.88212,
-          "longitude": 2.3368
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PARIS",
-          "lines": [
-            "2 RUE DUPERRE"
-          ]
-        },
-        "distance": {
-          "value": 4.06,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:55"
-      },
-      {
         "chainCode": "UI",
         "iataCode": "PAR",
         "dupeId": 700010690,
@@ -15896,6 +15872,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:00"
+      },
+      {
+        "chainCode": "YX",
+        "iataCode": "PAR",
+        "dupeId": 700019947,
+        "name": "VILLA ROYALE",
+        "hotelId": "YXPAR106",
+        "geoCode": {
+          "latitude": 48.88212,
+          "longitude": 2.3368
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75009",
+          "cityName": "PARIS",
+          "lines": [
+            "2 RUE DUPERRE"
+          ]
+        },
+        "distance": {
+          "value": 4.06,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:55"
       },
       {
         "chainCode": "UI",
@@ -16069,66 +16069,18 @@
         "lastUpdate": "2025-06-03T10:21:02"
       },
       {
-        "chainCode": "RT",
-        "iataCode": "PAR",
-        "dupeId": 502326175,
-        "name": "VEE TEST NRT PROPY",
-        "hotelId": "RTPAR157",
-        "geoCode": {
-          "latitude": 48.8569,
-          "longitude": 2.35085
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "LEFISTON STREET"
-          ]
-        },
-        "distance": {
-          "value": 4.12,
-          "unit": "KM"
-        },
-        "masterChainCode": "RT",
-        "lastUpdate": "2025-06-03T10:17:23"
-      },
-      {
-        "chainCode": "MK",
-        "iataCode": "CDG",
-        "dupeId": 502290018,
-        "name": "MOVENPICK HOTELS     ",
-        "hotelId": "MKCDGPAN",
-        "geoCode": {
-          "latitude": 48.8569,
-          "longitude": 2.35085
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "987543",
-          "cityName": "PARIS",
-          "lines": [
-            "TEST ADDRESS"
-          ]
-        },
-        "distance": {
-          "value": 4.12,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:20:28"
-      },
-      {
         "chainCode": "HN",
         "iataCode": "PAR",
-        "dupeId": 502373847,
-        "name": "TEST PROPERTY",
-        "hotelId": "HNPARLPP",
+        "dupeId": 502389478,
+        "name": "TEST",
+        "hotelId": "HNPARABB",
         "geoCode": {
           "latitude": 48.8569,
           "longitude": 2.35085
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "56008",
+          "postalCode": "560089",
           "cityName": "Paris",
           "lines": [
             "TEST"
@@ -16138,39 +16090,14 @@
           "value": 4.12,
           "unit": "KM"
         },
-        "lastUpdate": "2025-08-12T10:41:31"
-      },
-      {
-        "chainCode": "BL",
-        "iataCode": "PAR",
-        "dupeId": 502131651,
-        "name": "BALLADINS TEST HOTEL",
-        "hotelId": "BLPARY3E",
-        "geoCode": {
-          "latitude": 48.8569,
-          "longitude": 2.35085
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75000",
-          "cityName": "Paris",
-          "lines": [
-            "RUE TEST"
-          ]
-        },
-        "distance": {
-          "value": 4.12,
-          "unit": "KM"
-        },
-        "masterChainCode": "LK",
-        "lastUpdate": "2025-06-03T10:16:07"
+        "lastUpdate": "2025-08-12T10:32:51"
       },
       {
         "chainCode": "RT",
         "iataCode": "PAR",
-        "dupeId": 502289684,
-        "name": "TEST PROPERTY FOR POR VALIDATION",
-        "hotelId": "RTPARA11",
+        "dupeId": 502326175,
+        "name": "VEE TEST NRT PROPY",
+        "hotelId": "RTPAR157",
         "geoCode": {
           "latitude": 48.8569,
           "longitude": 2.35085
@@ -16214,30 +16141,6 @@
         "lastUpdate": "2025-08-12T10:34:01"
       },
       {
-        "chainCode": "HN",
-        "iataCode": "PAR",
-        "dupeId": 700019814,
-        "name": "TEST PROPERTY",
-        "hotelId": "HNPARLOO",
-        "geoCode": {
-          "latitude": 48.8569,
-          "longitude": 2.35085
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "56008",
-          "cityName": "Paris",
-          "lines": [
-            "TEST"
-          ]
-        },
-        "distance": {
-          "value": 4.12,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-08-12T10:41:11"
-      },
-      {
         "chainCode": "UI",
         "iataCode": "PAR",
         "dupeId": 502332885,
@@ -16261,29 +16164,52 @@
         "lastUpdate": "2025-06-03T10:17:58"
       },
       {
-        "chainCode": "BL",
+        "chainCode": "RT",
         "iataCode": "PAR",
-        "dupeId": 502326139,
-        "name": "BLPARP07",
-        "hotelId": "BLPAR123",
+        "dupeId": 502289684,
+        "name": "TEST PROPERTY FOR POR VALIDATION",
+        "hotelId": "RTPARA11",
         "geoCode": {
           "latitude": 48.8569,
           "longitude": 2.35085
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "66000",
-          "cityName": "Paris",
+          "cityName": "PARIS",
           "lines": [
-            "STREET1"
+            "LEFISTON STREET"
           ]
         },
         "distance": {
           "value": 4.12,
           "unit": "KM"
         },
-        "masterChainCode": "LK",
-        "lastUpdate": "2025-06-03T10:20:34"
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:23"
+      },
+      {
+        "chainCode": "HN",
+        "iataCode": "PAR",
+        "dupeId": 502373847,
+        "name": "TEST PROPERTY",
+        "hotelId": "HNPARLPP",
+        "geoCode": {
+          "latitude": 48.8569,
+          "longitude": 2.35085
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "56008",
+          "cityName": "Paris",
+          "lines": [
+            "TEST"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-08-12T10:41:31"
       },
       {
         "chainCode": "YR",
@@ -16311,53 +16237,28 @@
         "lastUpdate": "2025-06-03T10:18:32"
       },
       {
-        "chainCode": "OI",
+        "chainCode": "HN",
         "iataCode": "PAR",
-        "dupeId": 502310929,
-        "name": "TEST PROPERTY - PSD2",
-        "hotelId": "OIPAR555",
+        "dupeId": 700019814,
+        "name": "TEST PROPERTY",
+        "hotelId": "HNPARLOO",
         "geoCode": {
           "latitude": 48.8569,
           "longitude": 2.35085
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "43666",
+          "postalCode": "56008",
           "cityName": "Paris",
           "lines": [
-            "STREET1"
+            "TEST"
           ]
         },
         "distance": {
           "value": 4.12,
           "unit": "KM"
         },
-        "masterChainCode": "LK",
-        "lastUpdate": "2025-06-03T10:20:06"
-      },
-      {
-        "chainCode": "RT",
-        "iataCode": "PAR",
-        "dupeId": 700016219,
-        "name": "TEST BOOKINGPROPERTY",
-        "hotelId": "RTPARKKK",
-        "geoCode": {
-          "latitude": 48.8569,
-          "longitude": 2.35085
-        },
-        "address": {
-          "countryCode": "FR",
-          "cityName": "PARIS",
-          "lines": [
-            "LEFISTON STREET"
-          ]
-        },
-        "distance": {
-          "value": 4.12,
-          "unit": "KM"
-        },
-        "masterChainCode": "RT",
-        "lastUpdate": "2025-06-03T10:17:22"
+        "lastUpdate": "2025-08-12T10:41:11"
       },
       {
         "chainCode": "HN",
@@ -16384,28 +16285,127 @@
         "lastUpdate": "2025-08-12T10:48:21"
       },
       {
-        "chainCode": "HN",
-        "iataCode": "PAR",
-        "dupeId": 502389478,
-        "name": "TEST",
-        "hotelId": "HNPARABB",
+        "chainCode": "MK",
+        "iataCode": "CDG",
+        "dupeId": 502290018,
+        "name": "MOVENPICK HOTELS     ",
+        "hotelId": "MKCDGPAN",
         "geoCode": {
           "latitude": 48.8569,
           "longitude": 2.35085
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "560089",
-          "cityName": "Paris",
+          "postalCode": "987543",
+          "cityName": "PARIS",
           "lines": [
-            "TEST"
+            "TEST ADDRESS"
           ]
         },
         "distance": {
           "value": 4.12,
           "unit": "KM"
         },
-        "lastUpdate": "2025-08-12T10:32:51"
+        "lastUpdate": "2025-06-03T10:20:28"
+      },
+      {
+        "chainCode": "BL",
+        "iataCode": "PAR",
+        "dupeId": 502326139,
+        "name": "BLPARP07",
+        "hotelId": "BLPAR123",
+        "geoCode": {
+          "latitude": 48.8569,
+          "longitude": 2.35085
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "66000",
+          "cityName": "Paris",
+          "lines": [
+            "STREET1"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "LK",
+        "lastUpdate": "2025-06-03T10:20:34"
+      },
+      {
+        "chainCode": "OI",
+        "iataCode": "PAR",
+        "dupeId": 502310929,
+        "name": "TEST PROPERTY - PSD2",
+        "hotelId": "OIPAR555",
+        "geoCode": {
+          "latitude": 48.8569,
+          "longitude": 2.35085
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "43666",
+          "cityName": "Paris",
+          "lines": [
+            "STREET1"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "LK",
+        "lastUpdate": "2025-06-03T10:20:06"
+      },
+      {
+        "chainCode": "BL",
+        "iataCode": "PAR",
+        "dupeId": 502131651,
+        "name": "BALLADINS TEST HOTEL",
+        "hotelId": "BLPARY3E",
+        "geoCode": {
+          "latitude": 48.8569,
+          "longitude": 2.35085
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75000",
+          "cityName": "Paris",
+          "lines": [
+            "RUE TEST"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "LK",
+        "lastUpdate": "2025-06-03T10:16:07"
+      },
+      {
+        "chainCode": "RT",
+        "iataCode": "PAR",
+        "dupeId": 700016219,
+        "name": "TEST BOOKINGPROPERTY",
+        "hotelId": "RTPARKKK",
+        "geoCode": {
+          "latitude": 48.8569,
+          "longitude": 2.35085
+        },
+        "address": {
+          "countryCode": "FR",
+          "cityName": "PARIS",
+          "lines": [
+            "LEFISTON STREET"
+          ]
+        },
+        "distance": {
+          "value": 4.12,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:22"
       },
       {
         "chainCode": "RT",
@@ -16628,30 +16628,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700048231,
-        "name": "SAINT PAUL RIVE GAUCHE",
-        "hotelId": "ACPAR906",
-        "geoCode": {
-          "latitude": 48.82576,
-          "longitude": 2.32323
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "PARIS",
-          "lines": [
-            "43 RUE MONSIEUR LE PRINCE"
-          ]
-        },
-        "distance": {
-          "value": 4.19,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:29"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700130521,
         "name": "CHATILLON PARIS MONTPARNASSE",
         "hotelId": "ACPAR900",
@@ -16672,6 +16648,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:47"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700020658,
+        "name": "PARIS LEGENDRE",
+        "hotelId": "ACPAR611",
+        "geoCode": {
+          "latitude": 48.89049,
+          "longitude": 2.32464
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "149 RUE LEGENDRE"
+          ]
+        },
+        "distance": {
+          "value": 4.19,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:46"
       },
       {
         "chainCode": "AC",
@@ -16700,26 +16700,26 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700020658,
-        "name": "PARIS LEGENDRE",
-        "hotelId": "ACPAR611",
+        "dupeId": 700048231,
+        "name": "SAINT PAUL RIVE GAUCHE",
+        "hotelId": "ACPAR906",
         "geoCode": {
-          "latitude": 48.89049,
-          "longitude": 2.32464
+          "latitude": 48.82576,
+          "longitude": 2.32323
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75017",
+          "postalCode": "75006",
           "cityName": "PARIS",
           "lines": [
-            "149 RUE LEGENDRE"
+            "43 RUE MONSIEUR LE PRINCE"
           ]
         },
         "distance": {
           "value": 4.19,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:46"
+        "lastUpdate": "2025-06-03T10:16:29"
       },
       {
         "chainCode": "LE",
@@ -16965,30 +16965,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700092047,
-        "name": "HOTEL LOUIS 2",
-        "hotelId": "ACPAR364",
-        "geoCode": {
-          "latitude": 48.87913,
-          "longitude": 2.34347
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75006",
-          "cityName": "PARIS",
-          "lines": [
-            "2, RUE SAINT SULPICE"
-          ]
-        },
-        "distance": {
-          "value": 4.26,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:21"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700043122,
         "name": "PAVILLON OPERA LAFAYETTE",
         "hotelId": "ACPAR363",
@@ -17035,28 +17011,28 @@
         "lastUpdate": "2025-06-03T10:17:16"
       },
       {
-        "chainCode": "EU",
+        "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700031123,
-        "name": "EXCLUSIVE HOTEL OPERA LAFAYETTE",
-        "hotelId": "EUPAR446",
+        "dupeId": 700092047,
+        "name": "HOTEL LOUIS 2",
+        "hotelId": "ACPAR364",
         "geoCode": {
-          "latitude": 48.87636,
-          "longitude": 2.34599
+          "latitude": 48.87913,
+          "longitude": 2.34347
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75009",
-          "cityName": "PAR",
+          "postalCode": "75006",
+          "cityName": "PARIS",
           "lines": [
-            "80 RUE LAFAYETTE"
+            "2, RUE SAINT SULPICE"
           ]
         },
         "distance": {
           "value": 4.26,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:19:54"
+        "lastUpdate": "2025-06-03T10:16:21"
       },
       {
         "chainCode": "UI",
@@ -17083,28 +17059,28 @@
         "lastUpdate": "2025-06-03T10:18:11"
       },
       {
-        "chainCode": "AC",
+        "chainCode": "EU",
         "iataCode": "PAR",
-        "dupeId": 700017588,
-        "name": "HOTEL DES ARTS",
-        "hotelId": "ACPAR779",
+        "dupeId": 700031123,
+        "name": "EXCLUSIVE HOTEL OPERA LAFAYETTE",
+        "hotelId": "EUPAR446",
         "geoCode": {
-          "latitude": 48.88595,
-          "longitude": 2.3352
+          "latitude": 48.87636,
+          "longitude": 2.34599
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75018",
-          "cityName": "PARIS",
+          "postalCode": "75009",
+          "cityName": "PAR",
           "lines": [
-            "5,RUE THOLOZE"
+            "80 RUE LAFAYETTE"
           ]
         },
         "distance": {
-          "value": 4.27,
+          "value": 4.26,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:15:59"
+        "lastUpdate": "2025-06-03T10:19:54"
       },
       {
         "chainCode": "AC",
@@ -17129,6 +17105,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:36"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700017588,
+        "name": "HOTEL DES ARTS",
+        "hotelId": "ACPAR779",
+        "geoCode": {
+          "latitude": 48.88595,
+          "longitude": 2.3352
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75018",
+          "cityName": "PARIS",
+          "lines": [
+            "5,RUE THOLOZE"
+          ]
+        },
+        "distance": {
+          "value": 4.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:15:59"
       },
       {
         "chainCode": "YX",
@@ -17957,6 +17957,30 @@
         "lastUpdate": "2025-06-03T10:17:23"
       },
       {
+        "chainCode": "IW",
+        "iataCode": "PAR",
+        "dupeId": 700170971,
+        "name": "ZZ-TBD-PARTICULIER MONTMARTRE",
+        "hotelId": "IWPARHPM",
+        "geoCode": {
+          "latitude": 48.8884,
+          "longitude": 2.33551
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75018",
+          "cityName": "PARIS",
+          "lines": [
+            "23 AVENUE JUNOT"
+          ]
+        },
+        "distance": {
+          "value": 4.49,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:20:01"
+      },
+      {
         "chainCode": "BW",
         "iataCode": "PAR",
         "dupeId": 700057256,
@@ -17980,30 +18004,6 @@
         },
         "masterChainCode": "EW",
         "lastUpdate": "2025-06-03T10:16:33"
-      },
-      {
-        "chainCode": "IW",
-        "iataCode": "PAR",
-        "dupeId": 700170971,
-        "name": "ZZ-TBD-PARTICULIER MONTMARTRE",
-        "hotelId": "IWPARHPM",
-        "geoCode": {
-          "latitude": 48.8884,
-          "longitude": 2.33551
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75018",
-          "cityName": "PARIS",
-          "lines": [
-            "23 AVENUE JUNOT"
-          ]
-        },
-        "distance": {
-          "value": 4.49,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:20:01"
       },
       {
         "chainCode": "HI",
@@ -18553,30 +18553,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700017919,
-        "name": "CORAIL",
-        "hotelId": "ACPAR473",
-        "geoCode": {
-          "latitude": 48.88371,
-          "longitude": 2.244
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75012",
-          "cityName": "PARIS",
-          "lines": [
-            "23, RUE DE LYON"
-          ]
-        },
-        "distance": {
-          "value": 4.64,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:32"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700076365,
         "name": "HOTEL ATN",
         "hotelId": "ACPAR477",
@@ -18597,6 +18573,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:28"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700017919,
+        "name": "CORAIL",
+        "hotelId": "ACPAR473",
+        "geoCode": {
+          "latitude": 48.88371,
+          "longitude": 2.244
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75012",
+          "cityName": "PARIS",
+          "lines": [
+            "23, RUE DE LYON"
+          ]
+        },
+        "distance": {
+          "value": 4.64,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:32"
       },
       {
         "chainCode": "HS",
@@ -18929,31 +18929,6 @@
       {
         "chainCode": "CI",
         "iataCode": "PAR",
-        "dupeId": 700006161,
-        "name": "COMFORT INN MOUFFETARD LATIN QUARTER",
-        "hotelId": "CIPAR202",
-        "geoCode": {
-          "latitude": 48.8844,
-          "longitude": 2.34712
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75005",
-          "cityName": "PARIS",
-          "lines": [
-            "56, RUE MOUFFETARD"
-          ]
-        },
-        "distance": {
-          "value": 4.81,
-          "unit": "KM"
-        },
-        "masterChainCode": "EC",
-        "lastUpdate": "2025-06-03T10:17:23"
-      },
-      {
-        "chainCode": "CI",
-        "iataCode": "PAR",
         "dupeId": 700006167,
         "name": "COMFORT HOTEL SAINT PIERRE",
         "hotelId": "CIPAR185",
@@ -19000,6 +18975,31 @@
         },
         "masterChainCode": "EC",
         "lastUpdate": "2025-06-03T10:16:00"
+      },
+      {
+        "chainCode": "CI",
+        "iataCode": "PAR",
+        "dupeId": 700006161,
+        "name": "COMFORT INN MOUFFETARD LATIN QUARTER",
+        "hotelId": "CIPAR202",
+        "geoCode": {
+          "latitude": 48.8844,
+          "longitude": 2.34712
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75005",
+          "cityName": "PARIS",
+          "lines": [
+            "56, RUE MOUFFETARD"
+          ]
+        },
+        "distance": {
+          "value": 4.81,
+          "unit": "KM"
+        },
+        "masterChainCode": "EC",
+        "lastUpdate": "2025-06-03T10:17:23"
       },
       {
         "chainCode": "YX",
@@ -19245,30 +19245,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 501212535,
-        "name": "RELAIS DU MARAIS",
-        "hotelId": "ACPARD98",
-        "geoCode": {
-          "latitude": 48.86658,
-          "longitude": 2.36102
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75003",
-          "cityName": "PARIS",
-          "lines": [
-            "76 RUE TURBIGO"
-          ]
-        },
-        "distance": {
-          "value": 4.95,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:19:29"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700038154,
         "name": "JACQUES DE MOLAY",
         "hotelId": "ACPARD99",
@@ -19289,6 +19265,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:17"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 501212535,
+        "name": "RELAIS DU MARAIS",
+        "hotelId": "ACPARD98",
+        "geoCode": {
+          "latitude": 48.86658,
+          "longitude": 2.36102
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75003",
+          "cityName": "PARIS",
+          "lines": [
+            "76 RUE TURBIGO"
+          ]
+        },
+        "distance": {
+          "value": 4.95,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:19:29"
       },
       {
         "chainCode": "RT",
@@ -19316,30 +19316,6 @@
         "lastUpdate": "2025-06-03T10:17:22"
       },
       {
-        "chainCode": "VP",
-        "iataCode": "PAR",
-        "dupeId": 502347211,
-        "name": "APPART'CITY CLICHY MAIRIE",
-        "hotelId": "VPPAR109",
-        "geoCode": {
-          "latitude": 48.90218,
-          "longitude": 2.30734
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "92110",
-          "cityName": "Paris",
-          "lines": [
-            "4,  RUE PALLOY"
-          ]
-        },
-        "distance": {
-          "value": 4.96,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:22:02"
-      },
-      {
         "chainCode": "FG",
         "iataCode": "PAR",
         "dupeId": 700141693,
@@ -19364,28 +19340,28 @@
         "lastUpdate": "2025-06-03T10:16:42"
       },
       {
-        "chainCode": "AC",
+        "chainCode": "VP",
         "iataCode": "PAR",
-        "dupeId": 700050204,
-        "name": "LITTLE",
-        "hotelId": "ACPAR303",
+        "dupeId": 502347211,
+        "name": "APPART'CITY CLICHY MAIRIE",
+        "hotelId": "VPPAR109",
         "geoCode": {
-          "latitude": 48.87021,
-          "longitude": 2.36011
+          "latitude": 48.90218,
+          "longitude": 2.30734
         },
         "address": {
           "countryCode": "FR",
-          "postalCode": "75010",
-          "cityName": "PARIS",
+          "postalCode": "92110",
+          "cityName": "Paris",
           "lines": [
-            "3, RUE PIERRE CHAUSSON"
+            "4,  RUE PALLOY"
           ]
         },
         "distance": {
-          "value": 4.98,
+          "value": 4.96,
           "unit": "KM"
         },
-        "lastUpdate": "2025-06-03T10:16:54"
+        "lastUpdate": "2025-06-03T10:22:02"
       },
       {
         "chainCode": "AC",
@@ -19410,6 +19386,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:17:32"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700050204,
+        "name": "LITTLE",
+        "hotelId": "ACPAR303",
+        "geoCode": {
+          "latitude": 48.87021,
+          "longitude": 2.36011
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75010",
+          "cityName": "PARIS",
+          "lines": [
+            "3, RUE PIERRE CHAUSSON"
+          ]
+        },
+        "distance": {
+          "value": 4.98,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:54"
       },
       {
         "chainCode": "UI",
@@ -19780,31 +19780,6 @@
       {
         "chainCode": "RT",
         "iataCode": "PAR",
-        "dupeId": 700008560,
-        "name": "IBIS PARIS GARE DE L'EST 10EME",
-        "hotelId": "RTPAREST",
-        "geoCode": {
-          "latitude": 48.87544,
-          "longitude": 2.35845
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75010",
-          "cityName": "PARIS",
-          "lines": [
-            "6 RUE SAINT LAURENT"
-          ]
-        },
-        "distance": {
-          "value": 5.05,
-          "unit": "KM"
-        },
-        "masterChainCode": "RT",
-        "lastUpdate": "2025-06-03T10:17:22"
-      },
-      {
-        "chainCode": "RT",
-        "iataCode": "PAR",
         "dupeId": 700092536,
         "name": "IBIS PARIS PONT DE SURESNES",
         "hotelId": "RTPARBOU",
@@ -19818,6 +19793,31 @@
           "cityName": "SURESNES",
           "lines": [
             "6 RUE DES BOURETS"
+          ]
+        },
+        "distance": {
+          "value": 5.05,
+          "unit": "KM"
+        },
+        "masterChainCode": "RT",
+        "lastUpdate": "2025-06-03T10:17:22"
+      },
+      {
+        "chainCode": "RT",
+        "iataCode": "PAR",
+        "dupeId": 700008560,
+        "name": "IBIS PARIS GARE DE L'EST 10EME",
+        "hotelId": "RTPAREST",
+        "geoCode": {
+          "latitude": 48.87544,
+          "longitude": 2.35845
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75010",
+          "cityName": "PARIS",
+          "lines": [
+            "6 RUE SAINT LAURENT"
           ]
         },
         "distance": {
@@ -20557,30 +20557,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700030592,
-        "name": "BRISTOL PARIS",
-        "hotelId": "ACPAR113",
-        "geoCode": {
-          "latitude": 48.86807,
-          "longitude": 2.36544
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75011",
-          "cityName": "PARIS",
-          "lines": [
-            "68, RUE DE MALTE"
-          ]
-        },
-        "distance": {
-          "value": 5.3,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:17:20"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700092090,
         "name": "AUBERGE FLORA",
         "hotelId": "ACPAR115",
@@ -20601,6 +20577,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:15:59"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700030592,
+        "name": "BRISTOL PARIS",
+        "hotelId": "ACPAR113",
+        "geoCode": {
+          "latitude": 48.86807,
+          "longitude": 2.36544
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75011",
+          "cityName": "PARIS",
+          "lines": [
+            "68, RUE DE MALTE"
+          ]
+        },
+        "distance": {
+          "value": 5.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:17:20"
       },
       {
         "chainCode": "HS",
@@ -20969,6 +20969,54 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
+        "dupeId": 700158033,
+        "name": "ANGELY",
+        "hotelId": "ACPARC16",
+        "geoCode": {
+          "latitude": 48.86622,
+          "longitude": 2.36832
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75011",
+          "cityName": "PARIS",
+          "lines": [
+            "22 RUE DU GRAND PRIEURE"
+          ]
+        },
+        "distance": {
+          "value": 5.47,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:18:46"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700053961,
+        "name": "SOFT PARIS",
+        "hotelId": "ACPARC95",
+        "geoCode": {
+          "latitude": 48.86622,
+          "longitude": 2.36832
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75010",
+          "cityName": "PARIS",
+          "lines": [
+            "52 BIS DES VINAIGRIERS"
+          ]
+        },
+        "distance": {
+          "value": 5.47,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:39"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
         "dupeId": 700156334,
         "name": "VIATOR",
         "hotelId": "ACPARC78",
@@ -21013,54 +21061,6 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:18:16"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700053961,
-        "name": "SOFT PARIS",
-        "hotelId": "ACPARC95",
-        "geoCode": {
-          "latitude": 48.86622,
-          "longitude": 2.36832
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75010",
-          "cityName": "PARIS",
-          "lines": [
-            "52 BIS DES VINAIGRIERS"
-          ]
-        },
-        "distance": {
-          "value": 5.47,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:39"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
-        "dupeId": 700158033,
-        "name": "ANGELY",
-        "hotelId": "ACPARC16",
-        "geoCode": {
-          "latitude": 48.86622,
-          "longitude": 2.36832
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75011",
-          "cityName": "PARIS",
-          "lines": [
-            "22 RUE DU GRAND PRIEURE"
-          ]
-        },
-        "distance": {
-          "value": 5.47,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:18:46"
       },
       {
         "chainCode": "YX",
@@ -21185,30 +21185,6 @@
       {
         "chainCode": "AC",
         "iataCode": "PAR",
-        "dupeId": 700030083,
-        "name": "HOTEL PRINCE MONCEAU",
-        "hotelId": "ACPAR570",
-        "geoCode": {
-          "latitude": 48.84869,
-          "longitude": 2.36805
-        },
-        "address": {
-          "countryCode": "FR",
-          "postalCode": "75017",
-          "cityName": "PARIS",
-          "lines": [
-            "9 RUE TARBE"
-          ]
-        },
-        "distance": {
-          "value": 5.49,
-          "unit": "KM"
-        },
-        "lastUpdate": "2025-06-03T10:16:00"
-      },
-      {
-        "chainCode": "AC",
-        "iataCode": "PAR",
         "dupeId": 700030941,
         "name": "HOTEL DU CHATEAU",
         "hotelId": "ACPAR571",
@@ -21229,6 +21205,30 @@
           "unit": "KM"
         },
         "lastUpdate": "2025-06-03T10:16:29"
+      },
+      {
+        "chainCode": "AC",
+        "iataCode": "PAR",
+        "dupeId": 700030083,
+        "name": "HOTEL PRINCE MONCEAU",
+        "hotelId": "ACPAR570",
+        "geoCode": {
+          "latitude": 48.84869,
+          "longitude": 2.36805
+        },
+        "address": {
+          "countryCode": "FR",
+          "postalCode": "75017",
+          "cityName": "PARIS",
+          "lines": [
+            "9 RUE TARBE"
+          ]
+        },
+        "distance": {
+          "value": 5.49,
+          "unit": "KM"
+        },
+        "lastUpdate": "2025-06-03T10:16:00"
       },
       {
         "chainCode": "AC",

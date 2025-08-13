@@ -1,0 +1,19 @@
+{
+  "status": 422,
+  "response": {
+    "detail": [
+      {
+        "type": "value_error",
+        "loc": [
+          "body",
+          "radiusUnit"
+        ],
+        "msg": "Value error, radiusUnit must be one of ['KM', 'MILE']",
+        "input": "INVALID",
+        "ctx": {
+          "error": {}
+        }
+      }
+    ]
+  }
+}

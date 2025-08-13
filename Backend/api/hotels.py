@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import logging
 from datetime import datetime, timedelta
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+from typing import List, Optional
 
 logging.basicConfig(
     level=logging.INFO,
@@ -27,7 +28,8 @@ class HotelList(BaseModel):
     longitude: confloat(ge=-180, le=180)
     radius: conint(ge=0)
     radiusUnit: str = "KM"
-    max: int = 10
+    amenities: Optional[List[str]] = None
+    ratings: Optional[List[int]] = None
 
     @field_validator("radiusUnit")
     def validate_radius_unit(cls, value):
@@ -60,8 +62,8 @@ async def get_access_token():
     if _token_cache["token"] and _token_cache["expires_at"] > now:
         return _token_cache["token"]
 
-    # async with httpx.AsyncClient() as client:
-    async with httpx.AsyncClient(timeout = 30.0) as client:
+    async with httpx.AsyncClient() as client:
+    # async with httpx.AsyncClient(timeout = 30.0) as client:
         token_url = "https://test.api.amadeus.com/v1/security/oauth2/token"
         payload = {
             "grant_type": "client_credentials",
@@ -107,11 +109,21 @@ async def list_hotels_helper(url, params, headers):
     Raises:
         HTTPException: If the API request fails.
     """
-    # async with httpx.AsyncClient() as client:
-    async with httpx.AsyncClient(timeout=30.0) as client:
+    async with httpx.AsyncClient() as client:
+    # async with httpx.AsyncClient(timeout=30.0) as client:
         response = await client.get(url, params=params, headers=headers)
+
+        if response.status_code == 200:
+            return response.json()
+
+        if response.status_code in (400, 404):
+            return {
+                "status": "success",
+                "hotels": [],
+                "message": f"No hotels found for coordinates {params['latitude']}, {params['longitude']}"
+            }
+
         response.raise_for_status()
-        return response.json()
 
 @router.post("/", response_model_exclude_none=True)
 # async def list_hotels(request: HotelList, access_token: str = Depends(get_access_token_dep)):
@@ -125,8 +137,20 @@ async def list_hotels(request: HotelList):
             "radius": request.radius,
             "radiusUnit": request.radiusUnit
         }
+        if request.amenities:
+            params["amenities"] = ",".join(request.amenities).upper()
+
+        if request.ratings:
+            params["ratings"] = ",".join(map(str, request.ratings))
+
         headers = {"Authorization": f"Bearer {access_token}"}
-        return await list_hotels_helper(url, params, headers)
+
+        data = await list_hotels_helper(url, params, headers)
+
+        if isinstance(data, dict) and data.get("hotels") == []:
+            return data
+
+        return data
 
     except httpx.HTTPStatusError as e:
         logger.error(f"Hotel API HTTP error: {e.response.text if e.response else str(e)}, params: {params}")

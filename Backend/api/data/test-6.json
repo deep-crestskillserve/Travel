@@ -1,0 +1,31 @@
+{
+  "status": 422,
+  "response": {
+    "detail": [
+      {
+        "type": "less_than_equal",
+        "loc": [
+          "body",
+          "latitude"
+        ],
+        "msg": "Input should be less than or equal to 90",
+        "input": 100,
+        "ctx": {
+          "le": 90.0
+        }
+      },
+      {
+        "type": "greater_than_equal",
+        "loc": [
+          "body",
+          "longitude"
+        ],
+        "msg": "Input should be greater than or equal to -180",
+        "input": -181,
+        "ctx": {
+          "ge": -180.0
+        }
+      }
+    ]
+  }
+}
