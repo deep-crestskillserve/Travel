@@ -147,9 +147,8 @@ async def list_hotels(request: HotelList):
 
         data = await list_hotels_helper(url, params, headers)
 
-        if isinstance(data, dict) and data.get("hotels") == []:
-            return data
-
+        if data.get("hotels") == []:
+            logger.info("No hotels found for given coordinates")
         return data
 
     except httpx.HTTPStatusError as e:

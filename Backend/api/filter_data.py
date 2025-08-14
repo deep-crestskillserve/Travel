@@ -1,5 +1,6 @@
 import json
 import os
+import copy
 # from .data import test-1.json
 # def filter_json(file):
 #     with open(file, "r") as f:
@@ -16,8 +17,18 @@ def filter_json(file):
     with open(file, "r") as f:
         data_json = json.load(f)
 
-        neglected_data = []  # store skipped entries
-        filtered_data = []
+        json_schema = {
+            "status": 200,
+            "response": {
+                "data": [
+
+                ]
+            }
+        }
+
+        
+        neglected_data = copy.deepcopy(json_schema)
+        filtered_data = copy.deepcopy(json_schema)
         output_dir = os.path.join(os.getcwd(), "data")
 
         if(data_json.get("status") == 200):
@@ -36,9 +47,9 @@ def filter_json(file):
                 not_house_of_travel = has_name and "house of travel" not in hotel["name"].lower()
 
                 if has_name and has_address and no_forbidden_name and no_forbidden_address and not_house_of_travel:
-                    filtered_data.append(hotel)
+                    filtered_data.get("response").get("data").append(hotel)
                 else:
-                    neglected_data.append(hotel)
+                    neglected_data.get("response").get("data").append(hotel)
                     
         
         if neglected_data:
