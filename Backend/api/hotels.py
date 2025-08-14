@@ -3,7 +3,6 @@ import httpx
 from fastapi import APIRouter, HTTPException, Depends
 from pydantic import BaseModel, confloat, conint, field_validator
 from dotenv import load_dotenv
-import json
 import logging
 from datetime import datetime, timedelta
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
@@ -64,8 +63,8 @@ async def get_access_token():
     if _token_cache["token"] and _token_cache["expires_at"] > now:
         return _token_cache["token"]
 
-    async with httpx.AsyncClient() as client:
-    # async with httpx.AsyncClient(timeout = 30.0) as client:
+    # async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout=float(os.getenv("HTTP_TIMEOUT", 30.0))) as client:
         token_url = "https://test.api.amadeus.com/v1/security/oauth2/token"
         payload = {
             "grant_type": "client_credentials",
@@ -116,15 +115,17 @@ async def list_hotels_helper(url, params, headers):
 
         if response.status_code == 200:
             data = response.json()
-            logger.info(f"Raw API response: {json.dumps(data, indent=2)}")  # Fix: Use json.dumps
             data = filter_json(data)
+            data = {
+                "status": response.status_code,
+                "response": data
+            }
             return data
 
         if response.status_code in (400, 404):
             return {
-                "status": "success",
-                "hotels": [],
-                "message": f"No hotels found for coordinates {params['latitude']}, {params['longitude']}"
+                "status": response.status_code,
+                "response": {"title": "NO HOTELS FOUND FOR REQUESTED LOCATION"}
             }
 
         response.raise_for_status()
