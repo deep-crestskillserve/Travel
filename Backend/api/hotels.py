@@ -3,10 +3,12 @@ import httpx
 from fastapi import APIRouter, HTTPException, Depends
 from pydantic import BaseModel, confloat, conint, field_validator
 from dotenv import load_dotenv
+import json
 import logging
 from datetime import datetime, timedelta
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 from typing import List, Optional
+from filter_data import filter_json
 
 logging.basicConfig(
     level=logging.INFO,
@@ -110,11 +112,13 @@ async def list_hotels_helper(url, params, headers):
         HTTPException: If the API request fails.
     """
     async with httpx.AsyncClient() as client:
-    # async with httpx.AsyncClient(timeout=30.0) as client:
         response = await client.get(url, params=params, headers=headers)
 
         if response.status_code == 200:
-            return response.json()
+            data = response.json()
+            logger.info(f"Raw API response: {json.dumps(data, indent=2)}")  # Fix: Use json.dumps
+            data = filter_json(data)
+            return data
 
         if response.status_code in (400, 404):
             return {
