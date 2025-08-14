@@ -21,6 +21,5 @@ def filter_json(data_json):
         if has_name and has_address and no_forbidden_name and no_forbidden_address and not_house_of_travel:
             filtered_data.append(hotel)
 
-    # Update the original data_json with filtered hotels
     data_json["data"] = filtered_data
     return data_json

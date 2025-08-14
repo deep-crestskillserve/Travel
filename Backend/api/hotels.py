@@ -39,6 +39,24 @@ class HotelList(BaseModel):
             raise ValueError(f"radiusUnit must be one of {valid_units}")
         return value
 
+class HotelRoomDetails(BaseModel):
+    hotelIds: List[str]
+    adults: conint(ge=1, le=9) = 1
+    checkInDate: str
+    checkOutDate: Optional[str] = None
+    roomQuantity: Optional[conint(ge=1, le=9)] = None
+    currency: Optional[str] = "USD"
+
+    @field_validator("checkInDate", "checkOutDate")
+    def validate_date_format(cls, value):
+        if value:
+            try:
+                datetime.strptime(value, "%Y-%m-%d")
+            except ValueError:
+                raise ValueError("Date must be in YYYY-MM-DD format")
+        return value
+
+
 _token_cache = {"token": None, "expires_at": None}
 @retry(
     stop=stop_after_attempt(3),
@@ -170,3 +188,164 @@ async def list_hotels(request: HotelList):
             status_code=500, 
             detail="Failed to fetch hotels"
         )
+
+# @retry(
+#     stop=stop_after_attempt(3),
+#     wait=wait_exponential(multiplier=1, min=2, max=10),
+#     retry=retry_if_exception_type(httpx.HTTPStatusError)
+# )
+# async def get_hotel_offers_helper(url, params, headers):
+#     """
+#     Fetches hotel room offers from Amadeus Hotel Search API.
+    
+#     Args:
+#         url (str): API endpoint URL.
+#         params (dict): Query parameters.
+#         headers (dict): Request headers.
+        
+#     Returns:
+#         dict: API response JSON.
+        
+#     Raises:
+#         HTTPException: If the API request fails.
+#     """
+#     async with httpx.AsyncClient() as client:
+#         response = await client.get(url, params=params, headers=headers)
+
+#         if response.status_code == 200:
+#             data = response.json()
+#             # data = filter_json(data)
+#             data = {
+#                 "status": response.status_code,
+#                 "response": data
+#             }
+#             return data
+
+#         if response.status_code in (400, 404):
+#             return {
+#                 "status": response.status_code,
+#                 "response": {"title": "NO ROOM OFFERS FOUND FOR REQUESTED HOTELS"}
+#             }
+
+#         response.raise_for_status()
+
+# @router.post("/room-offers", response_model_exclude_none=True)
+# async def get_hotel_room_offers(request: HotelRoomDetails, access_token: str = Depends(get_access_token_dep)):
+#     """
+#     Fetches room details for up to 20 hotels using their hotel IDs.
+    
+#     Args:
+#         request (HotelRoomDetails): Request body with hotel IDs, adults, check-in date, etc.
+#         access_token (str): OAuth2 access token.
+        
+#     Returns:
+#         dict: Room offers for the specified hotels.
+        
+#     Raises:
+#         HTTPException: If the API request fails.
+#     """
+#     try:
+#         # Limit to first 20 hotel IDs to respect API constraints
+#         hotel_ids = request.hotelIds[:20]
+#         if not hotel_ids:
+#             raise HTTPException(status_code=400, detail="No hotel IDs provided")
+
+#         url = "https://test.api.amadeus.com/v3/shopping/hotel-offers"
+#         params = {
+#             "hotelIds": ",".join(hotel_ids),
+#             "adults": request.adults,
+#             "checkInDate": request.checkInDate
+#         }
+#         if request.checkOutDate:
+#             params["checkOutDate"] = request.checkOutDate
+#         if request.roomQuantity:
+#             params["roomQuantity"] = request.roomQuantity
+#         if request.currency:
+#             params["currency"] = request.currency
+
+#         headers = {"Authorization": f"Bearer {access_token}"}
+
+#         data = await get_hotel_offers_helper(url, params, headers)
+#         return data
+
+#     except httpx.HTTPStatusError as e:
+#         logger.error(f"Hotel Offers API HTTP error: {e.response.text if e.response else str(e)}, params: {params}")
+#         raise HTTPException(
+#             status_code=e.response.status_code if e.response else 500, 
+#             detail=e.response.text if e.response else "Unknown API error"
+#         )
+#     except Exception as e:
+#         logger.error(f"Hotel Offers API unexpected error: {str(e)}, params: {params}")
+#         raise HTTPException(
+#             status_code=500, 
+#             detail="Failed to fetch hotel room offers"
+#         )
+
+# @router.post("/hotels-and-rooms", response_model_exclude_none=True)
+# async def list_hotels_and_get_rooms(
+#     request: HotelList,
+#     adults: conint(ge=1, le=9) = 1,
+#     checkInDate: str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d"),
+#     checkOutDate: Optional[str] = None,
+#     roomQuantity: Optional[conint(ge=1, le=9)] = None,
+#     currency: Optional[str] = "USD",
+#     access_token: str = Depends(get_access_token_dep)
+# ):
+#     """
+#     Fetches hotels by geolocation and their room offers for up to 20 hotels.
+    
+#     Args:
+#         request (HotelList): Geolocation-based hotel search parameters.
+#         adults (int): Number of adults.
+#         checkInDate (str): Check-in date in YYYY-MM-DD format.
+#         checkOutDate (Optional[str]): Check-out date in YYYY-MM-DD format.
+#         roomQuantity (Optional[int]): Number of rooms.
+#         currency (Optional[str]): Currency code.
+#         access_token (str): OAuth2 access token.
+        
+#     Returns:
+#         dict: Combined hotel list and room offers.
+#     """
+#     try:
+#         # Step 1: Fetch hotel list
+#         hotel_list_response = await list_hotels(request)
+#         hotel_data = hotel_list_response.get("response", {}).get("data", [])
+        
+#         if not hotel_data:
+#             return {
+#                 "status": 200,
+#                 "response": {"title": "NO HOTELS FOUND, NO ROOM OFFERS FETCHED"}
+#             }
+
+#         # Extract up to 20 hotel IDs
+#         hotel_ids = [hotel["hotelId"] for hotel in hotel_data[:20]]
+#         if not hotel_ids:
+#             return {
+#                 "status": 200,
+#                 "response": {"title": "NO VALID HOTEL IDS FOUND"}
+#             }
+
+#         # Step 2: Fetch room offers for the hotel IDs
+#         room_request = HotelRoomDetails(
+#             hotelIds=hotel_ids,
+#             adults=adults,
+#             checkInDate=checkInDate,
+#             checkOutDate=checkOutDate,
+#             roomQuantity=roomQuantity,
+#             currency=currency
+#         )
+#         room_offers_response = await get_hotel_room_offers(room_request, access_token)
+
+#         # Combine responses
+#         combined_response = {
+#             "status": 200,
+#             "response": {
+#                 "hotels": hotel_data,
+#                 "room_offers": room_offers_response.get("response", {})
+#             }
+#         }
+#         return combined_response
+
+#     except Exception as e:
+#         logger.error(f"Combined hotels and rooms error: {str(e)}")
+#         raise HTTPException(status_code=500, detail="Failed to fetch hotels and room offers")
